@@ -5,10 +5,10 @@
     {
       "id": "en_es_basic_20",
       "title": {
-        "en": "English → Spanish: Basics",
-        "es": "Inglés → Español: Básico",
-        "ru": "Английский → Испанский: Базовый",
-        "zh": "英语 → 西班牙语：基础"
+        "en": "EN/ES: Basics",
+        "es": "EN/ES: Básico",
+        "ru": "EN/ES: Базовый",
+        "zh": "EN/ES: 基础"
       },
       "description": {
         "en": "20 most essential words for beginners",
@@ -31,10 +31,10 @@
     {
       "id": "es_en_basico_20",
       "title": {
-        "en": "Spanish → English: Basics",
-        "es": "Español → Inglés: Básico",
-        "ru": "Испанский → Английский: Базовый",
-        "zh": "西班牙语 → 英语：基础"
+        "en": "ES/EN: Basics",
+        "es": "ES/EN: Básico",
+        "ru": "ES/EN: Базовый",
+        "zh": "ES/EN: 基础"
       },
       "description": {
         "en": "20 most essential words for beginners",
@@ -57,10 +57,10 @@
     {
       "id": "en_ru_basic_20",
       "title": {
-        "en": "English → Russian: Basics",
-        "es": "Inglés → Ruso: Básico",
-        "ru": "Английский → Русский: Базовый",
-        "zh": "英语 → 俄语：基础"
+        "en": "EN/RU: Basics",
+        "es": "EN/RU: Básico",
+        "ru": "EN/RU: Базовый",
+        "zh": "EN/RU: 基础"
       },
       "description": {
         "en": "20 most essential words for beginners",
@@ -83,10 +83,10 @@
     {
       "id": "ru_en_basic_20",
       "title": {
-        "en": "Russian → English: Basics",
-        "es": "Ruso → Inglés: Básico",
-        "ru": "Русский → Английский: Базовый",
-        "zh": "俄语 → 英语：基础"
+        "en": "RU/EN: Basics",
+        "es": "RU/EN: Básico",
+        "ru": "RU/EN: Базовый",
+        "zh": "RU/EN: 基础"
       },
       "description": {
         "en": "20 most essential words for beginners",
@@ -109,10 +109,10 @@
     {
       "id": "en_zh_basic_20",
       "title": {
-        "en": "English → Chinese: Basics",
-        "es": "Inglés → Chino: Básico",
-        "ru": "Английский → Китайский: Базовый",
-        "zh": "英语 → 中文：基础"
+        "en": "EN/ZH: Basics",
+        "es": "EN/ZH: Básico",
+        "ru": "EN/ZH: Базовый",
+        "zh": "EN/ZH: 基础"
       },
       "description": {
         "en": "20 most essential words for beginners",
@@ -135,10 +135,10 @@
     {
       "id": "zh_en_basic_20",
       "title": {
-        "en": "Chinese → English: Basics",
-        "es": "Chino → Inglés: Básico",
-        "ru": "Китайский → Английский: Базовый",
-        "zh": "中文 → 英语：基础"
+        "en": "ZH/EN: Basics",
+        "es": "ZH/EN: Básico",
+        "ru": "ZH/EN: Базовый",
+        "zh": "ZH/EN: 基础"
       },
       "description": {
         "en": "20 most essential words for beginners",
@@ -161,10 +161,10 @@
     {
       "id": "en_es_travel_20",
       "title": {
-        "en": "English → Spanish: Travel",
-        "es": "Inglés → Español: Viajes",
-        "ru": "Английский → Испанский: Путешествия",
-        "zh": "英语 → 西班牙语：旅行"
+        "en": "EN/ES: Travel",
+        "es": "EN/ES: Viajes",
+        "ru": "EN/ES: Путешествия",
+        "zh": "EN/ES: 旅行"
       },
       "description": {
         "en": "Essential travel vocabulary",
@@ -187,10 +187,10 @@
     {
       "id": "en_es_food_20",
       "title": {
-        "en": "English → Spanish: Food",
-        "es": "Inglés → Español: Comida",
-        "ru": "Английский → Испанский: Еда",
-        "zh": "英语 → 西班牙语：食物"
+        "en": "EN/ES: Food",
+        "es": "EN/ES: Comida",
+        "ru": "EN/ES: Еда",
+        "zh": "EN/ES: 食物"
       },
       "description": {
         "en": "Common food and dining words",
@@ -213,10 +213,10 @@
     {
       "id": "en_ru_travel_20",
       "title": {
-        "en": "English → Russian: Travel",
-        "es": "Inglés → Ruso: Viajes",
-        "ru": "Английский → Русский: Путешествия",
-        "zh": "英语 → 俄语：旅行"
+        "en": "EN/RU: Travel",
+        "es": "EN/RU: Viajes",
+        "ru": "EN/RU: Путешествия",
+        "zh": "EN/RU: 旅行"
       },
       "description": {
         "en": "Essential travel vocabulary",
@@ -239,10 +239,10 @@
     {
       "id": "en_zh_food_20",
       "title": {
-        "en": "English → Chinese: Food",
-        "es": "Inglés → Chino: Comida",
-        "ru": "Английский → Китайский: Еда",
-        "zh": "英语 → 中文：食物"
+        "en": "EN/ZH: Food",
+        "es": "EN/ZH: Comida",
+        "ru": "EN/ZH: Еда",
+        "zh": "EN/ZH: 食物"
       },
       "description": {
         "en": "Common food and dining words",
