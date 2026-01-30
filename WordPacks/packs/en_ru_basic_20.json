@@ -1,0 +1,126 @@
+{
+  "packId": "en_ru_basic_20",
+  "version": "1.0",
+  "words": [
+    {
+      "originalWord": "hello",
+      "translation": "привет",
+      "transcription": "[prʲɪˈvʲet]",
+      "exampleSentence": "Hello, how are you?"
+    },
+    {
+      "originalWord": "goodbye",
+      "translation": "до свидания",
+      "transcription": "[də svʲɪˈdanʲɪjə]",
+      "exampleSentence": "Goodbye, see you tomorrow!"
+    },
+    {
+      "originalWord": "please",
+      "translation": "пожалуйста",
+      "transcription": "[pɐˈʐaɫʊstə]",
+      "exampleSentence": "Can I have water, please?"
+    },
+    {
+      "originalWord": "thank you",
+      "translation": "спасибо",
+      "transcription": "[spɐˈsʲibə]",
+      "exampleSentence": "Thank you very much!"
+    },
+    {
+      "originalWord": "yes",
+      "translation": "да",
+      "transcription": "[da]",
+      "exampleSentence": "Yes, I understand."
+    },
+    {
+      "originalWord": "no",
+      "translation": "нет",
+      "transcription": "[nʲet]",
+      "exampleSentence": "No, I don't want it."
+    },
+    {
+      "originalWord": "excuse me",
+      "translation": "извините",
+      "transcription": "[ɪzvʲɪˈnʲitʲe]",
+      "exampleSentence": "Excuse me, where is the bathroom?"
+    },
+    {
+      "originalWord": "sorry",
+      "translation": "простите",
+      "transcription": "[prɐˈsʲtʲitʲe]",
+      "exampleSentence": "I'm sorry, I'm late."
+    },
+    {
+      "originalWord": "water",
+      "translation": "вода",
+      "transcription": "[vɐˈda]",
+      "exampleSentence": "I need a glass of water."
+    },
+    {
+      "originalWord": "food",
+      "translation": "еда",
+      "transcription": "[jɪˈda]",
+      "exampleSentence": "The food is delicious."
+    },
+    {
+      "originalWord": "help",
+      "translation": "помощь",
+      "transcription": "[ˈpoməɕː]",
+      "exampleSentence": "I need help, please."
+    },
+    {
+      "originalWord": "bathroom",
+      "translation": "туалет",
+      "transcription": "[tʊɐˈlʲet]",
+      "exampleSentence": "Where is the bathroom?"
+    },
+    {
+      "originalWord": "how much",
+      "translation": "сколько",
+      "transcription": "[ˈskolʲkə]",
+      "exampleSentence": "How much does this cost?"
+    },
+    {
+      "originalWord": "where",
+      "translation": "где",
+      "transcription": "[ɡdʲe]",
+      "exampleSentence": "Where is the hotel?"
+    },
+    {
+      "originalWord": "when",
+      "translation": "когда",
+      "transcription": "[kɐɡˈda]",
+      "exampleSentence": "When does the train arrive?"
+    },
+    {
+      "originalWord": "good",
+      "translation": "хороший",
+      "transcription": "[xɐˈroʂɨj]",
+      "exampleSentence": "This is very good!"
+    },
+    {
+      "originalWord": "bad",
+      "translation": "плохой",
+      "transcription": "[plɐˈxoj]",
+      "exampleSentence": "The weather is bad today."
+    },
+    {
+      "originalWord": "big",
+      "translation": "большой",
+      "transcription": "[bɐlʲˈʂoj]",
+      "exampleSentence": "This is a big house."
+    },
+    {
+      "originalWord": "small",
+      "translation": "маленький",
+      "transcription": "[ˈmalʲɪnʲkʲɪj]",
+      "exampleSentence": "I have a small dog."
+    },
+    {
+      "originalWord": "I don't understand",
+      "translation": "я не понимаю",
+      "transcription": "[ja nʲe pənʲɪˈmajʊ]",
+      "exampleSentence": "Sorry, I don't understand Russian."
+    }
+  ]
+}

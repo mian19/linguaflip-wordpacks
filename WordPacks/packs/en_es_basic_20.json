@@ -1,0 +1,126 @@
+{
+  "packId": "en_es_basic_20",
+  "version": "1.0",
+  "words": [
+    {
+      "originalWord": "hello",
+      "translation": "hola",
+      "transcription": "[ˈoʊlə]",
+      "exampleSentence": "Hello, how are you?"
+    },
+    {
+      "originalWord": "goodbye",
+      "translation": "adiós",
+      "transcription": "[aˈðjos]",
+      "exampleSentence": "Goodbye, see you tomorrow!"
+    },
+    {
+      "originalWord": "please",
+      "translation": "por favor",
+      "transcription": "[por faˈβor]",
+      "exampleSentence": "Can I have water, please?"
+    },
+    {
+      "originalWord": "thank you",
+      "translation": "gracias",
+      "transcription": "[ˈɡɾasjas]",
+      "exampleSentence": "Thank you very much!"
+    },
+    {
+      "originalWord": "yes",
+      "translation": "sí",
+      "transcription": "[si]",
+      "exampleSentence": "Yes, I understand."
+    },
+    {
+      "originalWord": "no",
+      "translation": "no",
+      "transcription": "[no]",
+      "exampleSentence": "No, I don't want it."
+    },
+    {
+      "originalWord": "excuse me",
+      "translation": "perdón",
+      "transcription": "[perˈðon]",
+      "exampleSentence": "Excuse me, where is the bathroom?"
+    },
+    {
+      "originalWord": "sorry",
+      "translation": "lo siento",
+      "transcription": "[lo ˈsjento]",
+      "exampleSentence": "I'm sorry, I'm late."
+    },
+    {
+      "originalWord": "water",
+      "translation": "agua",
+      "transcription": "[ˈaɣwa]",
+      "exampleSentence": "I need a glass of water."
+    },
+    {
+      "originalWord": "food",
+      "translation": "comida",
+      "transcription": "[koˈmiða]",
+      "exampleSentence": "The food is delicious."
+    },
+    {
+      "originalWord": "help",
+      "translation": "ayuda",
+      "transcription": "[aˈʝuða]",
+      "exampleSentence": "I need help, please."
+    },
+    {
+      "originalWord": "bathroom",
+      "translation": "baño",
+      "transcription": "[ˈbaɲo]",
+      "exampleSentence": "Where is the bathroom?"
+    },
+    {
+      "originalWord": "how much",
+      "translation": "cuánto",
+      "transcription": "[ˈkwanto]",
+      "exampleSentence": "How much does this cost?"
+    },
+    {
+      "originalWord": "where",
+      "translation": "dónde",
+      "transcription": "[ˈdonde]",
+      "exampleSentence": "Where is the hotel?"
+    },
+    {
+      "originalWord": "when",
+      "translation": "cuándo",
+      "transcription": "[ˈkwando]",
+      "exampleSentence": "When does the train arrive?"
+    },
+    {
+      "originalWord": "good",
+      "translation": "bueno",
+      "transcription": "[ˈbweno]",
+      "exampleSentence": "This is very good!"
+    },
+    {
+      "originalWord": "bad",
+      "translation": "malo",
+      "transcription": "[ˈmalo]",
+      "exampleSentence": "The weather is bad today."
+    },
+    {
+      "originalWord": "big",
+      "translation": "grande",
+      "transcription": "[ˈɡɾande]",
+      "exampleSentence": "This is a big house."
+    },
+    {
+      "originalWord": "small",
+      "translation": "pequeño",
+      "transcription": "[peˈkeɲo]",
+      "exampleSentence": "I have a small dog."
+    },
+    {
+      "originalWord": "I don't understand",
+      "translation": "no entiendo",
+      "transcription": "[no enˈtjendo]",
+      "exampleSentence": "Sorry, I don't understand Spanish."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "packId": "en_zh_food_20",
+  "version": "1.0",
+  "words": [
+    {
+      "originalWord": "breakfast",
+      "translation": "早餐",
+      "transcription": "[zǎo cān]",
+      "exampleSentence": "I eat breakfast at 8 AM."
+    },
+    {
+      "originalWord": "lunch",
+      "translation": "午餐",
+      "transcription": "[wǔ cān]",
+      "exampleSentence": "Let's have lunch together."
+    },
+    {
+      "originalWord": "dinner",
+      "translation": "晚餐",
+      "transcription": "[wǎn cān]",
+      "exampleSentence": "Dinner is ready!"
+    },
+    {
+      "originalWord": "rice",
+      "translation": "米饭",
+      "transcription": "[mǐ fàn]",
+      "exampleSentence": "I eat rice every day."
+    },
+    {
+      "originalWord": "noodles",
+      "translation": "面条",
+      "transcription": "[miàn tiáo]",
+      "exampleSentence": "I love Chinese noodles."
+    },
+    {
+      "originalWord": "meat",
+      "translation": "肉",
+      "transcription": "[ròu]",
+      "exampleSentence": "I don't eat meat."
+    },
+    {
+      "originalWord": "chicken",
+      "translation": "鸡肉",
+      "transcription": "[jī ròu]",
+      "exampleSentence": "Grilled chicken is delicious."
+    },
+    {
+      "originalWord": "fish",
+      "translation": "鱼",
+      "transcription": "[yú]",
+      "exampleSentence": "I prefer fish over meat."
+    },
+    {
+      "originalWord": "vegetables",
+      "translation": "蔬菜",
+      "transcription": "[shū cài]",
+      "exampleSentence": "Eat your vegetables!"
+    },
+    {
+      "originalWord": "fruit",
+      "translation": "水果",
+      "transcription": "[shuǐ guǒ]",
+      "exampleSentence": "Fresh fruit is healthy."
+    },
+    {
+      "originalWord": "tea",
+      "translation": "茶",
+      "transcription": "[chá]",
+      "exampleSentence": "Would you like some tea?"
+    },
+    {
+      "originalWord": "coffee",
+      "translation": "咖啡",
+      "transcription": "[kā fēi]",
+      "exampleSentence": "I need coffee in the morning."
+    },
+    {
+      "originalWord": "juice",
+      "translation": "果汁",
+      "transcription": "[guǒ zhī]",
+      "exampleSentence": "Orange juice is my favorite."
+    },
+    {
+      "originalWord": "milk",
+      "translation": "牛奶",
+      "transcription": "[niú nǎi]",
+      "exampleSentence": "I drink milk every morning."
+    },
+    {
+      "originalWord": "egg",
+      "translation": "鸡蛋",
+      "transcription": "[jī dàn]",
+      "exampleSentence": "I eat two eggs for breakfast."
+    },
+    {
+      "originalWord": "soup",
+      "translation": "汤",
+      "transcription": "[tāng]",
+      "exampleSentence": "This soup is delicious!"
+    },
+    {
+      "originalWord": "bread",
+      "translation": "面包",
+      "transcription": "[miàn bāo]",
+      "exampleSentence": "I love fresh bread."
+    },
+    {
+      "originalWord": "salt",
+      "translation": "盐",
+      "transcription": "[yán]",
+      "exampleSentence": "Pass me the salt, please."
+    },
+    {
+      "originalWord": "menu",
+      "translation": "菜单",
+      "transcription": "[cài dān]",
+      "exampleSentence": "Can I see the menu?"
+    },
+    {
+      "originalWord": "delicious",
+      "translation": "好吃",
+      "transcription": "[hǎo chī]",
+      "exampleSentence": "This food is delicious!"
+    }
+  ]
+}

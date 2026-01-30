@@ -1,0 +1,126 @@
+{
+  "packId": "en_ru_travel_20",
+  "version": "1.0",
+  "words": [
+    {
+      "originalWord": "airport",
+      "translation": "аэропорт",
+      "transcription": "[ɐɛrɐˈport]",
+      "exampleSentence": "I'm going to the airport."
+    },
+    {
+      "originalWord": "hotel",
+      "translation": "гостиница",
+      "transcription": "[ɡɐˈsʲtʲinʲɪtsə]",
+      "exampleSentence": "Where is my hotel?"
+    },
+    {
+      "originalWord": "ticket",
+      "translation": "билет",
+      "transcription": "[bʲɪˈlʲet]",
+      "exampleSentence": "I need to buy a ticket."
+    },
+    {
+      "originalWord": "passport",
+      "translation": "паспорт",
+      "transcription": "[ˈpaspərt]",
+      "exampleSentence": "Here is my passport."
+    },
+    {
+      "originalWord": "luggage",
+      "translation": "багаж",
+      "transcription": "[bɐˈɡaʂ]",
+      "exampleSentence": "Where is my luggage?"
+    },
+    {
+      "originalWord": "flight",
+      "translation": "рейс",
+      "transcription": "[rʲejs]",
+      "exampleSentence": "My flight is at 3 PM."
+    },
+    {
+      "originalWord": "train",
+      "translation": "поезд",
+      "transcription": "[ˈpoɪst]",
+      "exampleSentence": "I'm taking the train."
+    },
+    {
+      "originalWord": "bus",
+      "translation": "автобус",
+      "transcription": "[ɐftɐˈbus]",
+      "exampleSentence": "The bus is coming."
+    },
+    {
+      "originalWord": "taxi",
+      "translation": "такси",
+      "transcription": "[tɐkˈsʲi]",
+      "exampleSentence": "I need a taxi, please."
+    },
+    {
+      "originalWord": "map",
+      "translation": "карта",
+      "transcription": "[ˈkartə]",
+      "exampleSentence": "Do you have a map?"
+    },
+    {
+      "originalWord": "restaurant",
+      "translation": "ресторан",
+      "transcription": "[rʲɪstɐˈran]",
+      "exampleSentence": "Let's go to a restaurant."
+    },
+    {
+      "originalWord": "museum",
+      "translation": "музей",
+      "transcription": "[mʊˈzʲej]",
+      "exampleSentence": "The museum is closed today."
+    },
+    {
+      "originalWord": "beach",
+      "translation": "пляж",
+      "transcription": "[plʲaʂ]",
+      "exampleSentence": "I love the beach!"
+    },
+    {
+      "originalWord": "reservation",
+      "translation": "бронирование",
+      "transcription": "[brənʲɪˈrovanʲɪjə]",
+      "exampleSentence": "I have a reservation."
+    },
+    {
+      "originalWord": "entrance",
+      "translation": "вход",
+      "transcription": "[vxot]",
+      "exampleSentence": "Where is the entrance?"
+    },
+    {
+      "originalWord": "exit",
+      "translation": "выход",
+      "transcription": "[ˈvɨxət]",
+      "exampleSentence": "The exit is over there."
+    },
+    {
+      "originalWord": "emergency",
+      "translation": "экстренная ситуация",
+      "transcription": "[ɛkˈstrʲenːəjə sʲɪtʊˈatsɨjə]",
+      "exampleSentence": "This is an emergency!"
+    },
+    {
+      "originalWord": "pharmacy",
+      "translation": "аптека",
+      "transcription": "[ɐpˈtʲekə]",
+      "exampleSentence": "I need to find a pharmacy."
+    },
+    {
+      "originalWord": "money",
+      "translation": "деньги",
+      "transcription": "[ˈdʲenʲɡʲɪ]",
+      "exampleSentence": "I don't have money."
+    },
+    {
+      "originalWord": "credit card",
+      "translation": "кредитная карта",
+      "transcription": "[krʲɪˈdʲitnəjə ˈkartə]",
+      "exampleSentence": "Do you accept credit cards?"
+    }
+  ]
+}

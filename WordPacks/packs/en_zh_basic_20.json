@@ -1,0 +1,126 @@
+{
+  "packId": "en_zh_basic_20",
+  "version": "1.0",
+  "words": [
+    {
+      "originalWord": "hello",
+      "translation": "你好",
+      "transcription": "[nǐ hǎo]",
+      "exampleSentence": "Hello, how are you?"
+    },
+    {
+      "originalWord": "goodbye",
+      "translation": "再见",
+      "transcription": "[zài jiàn]",
+      "exampleSentence": "Goodbye, see you tomorrow!"
+    },
+    {
+      "originalWord": "please",
+      "translation": "请",
+      "transcription": "[qǐng]",
+      "exampleSentence": "Can I have water, please?"
+    },
+    {
+      "originalWord": "thank you",
+      "translation": "谢谢",
+      "transcription": "[xiè xiè]",
+      "exampleSentence": "Thank you very much!"
+    },
+    {
+      "originalWord": "yes",
+      "translation": "是",
+      "transcription": "[shì]",
+      "exampleSentence": "Yes, I understand."
+    },
+    {
+      "originalWord": "no",
+      "translation": "不",
+      "transcription": "[bù]",
+      "exampleSentence": "No, I don't want it."
+    },
+    {
+      "originalWord": "excuse me",
+      "translation": "对不起",
+      "transcription": "[duì bu qǐ]",
+      "exampleSentence": "Excuse me, where is the bathroom?"
+    },
+    {
+      "originalWord": "sorry",
+      "translation": "抱歉",
+      "transcription": "[bào qiàn]",
+      "exampleSentence": "I'm sorry, I'm late."
+    },
+    {
+      "originalWord": "water",
+      "translation": "水",
+      "transcription": "[shuǐ]",
+      "exampleSentence": "I need a glass of water."
+    },
+    {
+      "originalWord": "food",
+      "translation": "食物",
+      "transcription": "[shí wù]",
+      "exampleSentence": "The food is delicious."
+    },
+    {
+      "originalWord": "help",
+      "translation": "帮助",
+      "transcription": "[bāng zhù]",
+      "exampleSentence": "I need help, please."
+    },
+    {
+      "originalWord": "bathroom",
+      "translation": "洗手间",
+      "transcription": "[xǐ shǒu jiān]",
+      "exampleSentence": "Where is the bathroom?"
+    },
+    {
+      "originalWord": "how much",
+      "translation": "多少",
+      "transcription": "[duō shǎo]",
+      "exampleSentence": "How much does this cost?"
+    },
+    {
+      "originalWord": "where",
+      "translation": "哪里",
+      "transcription": "[nǎ lǐ]",
+      "exampleSentence": "Where is the hotel?"
+    },
+    {
+      "originalWord": "when",
+      "translation": "什么时候",
+      "transcription": "[shén me shí hòu]",
+      "exampleSentence": "When does the train arrive?"
+    },
+    {
+      "originalWord": "good",
+      "translation": "好",
+      "transcription": "[hǎo]",
+      "exampleSentence": "This is very good!"
+    },
+    {
+      "originalWord": "bad",
+      "translation": "坏",
+      "transcription": "[huài]",
+      "exampleSentence": "The weather is bad today."
+    },
+    {
+      "originalWord": "big",
+      "translation": "大",
+      "transcription": "[dà]",
+      "exampleSentence": "This is a big house."
+    },
+    {
+      "originalWord": "small",
+      "translation": "小",
+      "transcription": "[xiǎo]",
+      "exampleSentence": "I have a small dog."
+    },
+    {
+      "originalWord": "I don't understand",
+      "translation": "我不明白",
+      "transcription": "[wǒ bù míng bái]",
+      "exampleSentence": "Sorry, I don't understand Chinese."
+    }
+  ]
+}

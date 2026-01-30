@@ -1,0 +1,126 @@
+{
+  "packId": "en_es_food_20",
+  "version": "1.0",
+  "words": [
+    {
+      "originalWord": "breakfast",
+      "translation": "desayuno",
+      "transcription": "[desaˈʝuno]",
+      "exampleSentence": "I eat breakfast at 8 AM."
+    },
+    {
+      "originalWord": "lunch",
+      "translation": "almuerzo",
+      "transcription": "[alˈmweɾso]",
+      "exampleSentence": "Let's have lunch together."
+    },
+    {
+      "originalWord": "dinner",
+      "translation": "cena",
+      "transcription": "[ˈsena]",
+      "exampleSentence": "Dinner is ready!"
+    },
+    {
+      "originalWord": "bread",
+      "translation": "pan",
+      "transcription": "[pan]",
+      "exampleSentence": "I love fresh bread."
+    },
+    {
+      "originalWord": "meat",
+      "translation": "carne",
+      "transcription": "[ˈkaɾne]",
+      "exampleSentence": "I don't eat meat."
+    },
+    {
+      "originalWord": "chicken",
+      "translation": "pollo",
+      "transcription": "[ˈpoʝo]",
+      "exampleSentence": "Grilled chicken is delicious."
+    },
+    {
+      "originalWord": "fish",
+      "translation": "pescado",
+      "transcription": "[pesˈkaðo]",
+      "exampleSentence": "I prefer fish over meat."
+    },
+    {
+      "originalWord": "vegetables",
+      "translation": "verduras",
+      "transcription": "[beɾˈðuɾas]",
+      "exampleSentence": "Eat your vegetables!"
+    },
+    {
+      "originalWord": "fruit",
+      "translation": "fruta",
+      "transcription": "[ˈfɾuta]",
+      "exampleSentence": "Fresh fruit is healthy."
+    },
+    {
+      "originalWord": "rice",
+      "translation": "arroz",
+      "transcription": "[aˈros]",
+      "exampleSentence": "I cook rice every day."
+    },
+    {
+      "originalWord": "coffee",
+      "translation": "café",
+      "transcription": "[kaˈfe]",
+      "exampleSentence": "I need coffee in the morning."
+    },
+    {
+      "originalWord": "tea",
+      "translation": "té",
+      "transcription": "[te]",
+      "exampleSentence": "Would you like some tea?"
+    },
+    {
+      "originalWord": "juice",
+      "translation": "jugo",
+      "transcription": "[ˈxuɣo]",
+      "exampleSentence": "Orange juice is my favorite."
+    },
+    {
+      "originalWord": "milk",
+      "translation": "leche",
+      "transcription": "[ˈletʃe]",
+      "exampleSentence": "I drink milk every morning."
+    },
+    {
+      "originalWord": "cheese",
+      "translation": "queso",
+      "transcription": "[ˈkeso]",
+      "exampleSentence": "I love cheese!"
+    },
+    {
+      "originalWord": "egg",
+      "translation": "huevo",
+      "transcription": "[ˈweβo]",
+      "exampleSentence": "I eat two eggs for breakfast."
+    },
+    {
+      "originalWord": "salt",
+      "translation": "sal",
+      "transcription": "[sal]",
+      "exampleSentence": "Pass me the salt, please."
+    },
+    {
+      "originalWord": "sugar",
+      "translation": "azúcar",
+      "transcription": "[aˈsukaɾ]",
+      "exampleSentence": "Do you want sugar in your coffee?"
+    },
+    {
+      "originalWord": "menu",
+      "translation": "menú",
+      "transcription": "[meˈnu]",
+      "exampleSentence": "Can I see the menu?"
+    },
+    {
+      "originalWord": "bill",
+      "translation": "cuenta",
+      "transcription": "[ˈkwenta]",
+      "exampleSentence": "The bill, please."
+    }
+  ]
+}

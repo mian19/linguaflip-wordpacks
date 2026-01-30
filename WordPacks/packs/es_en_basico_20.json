@@ -1,0 +1,126 @@
+{
+  "packId": "es_en_basico_20",
+  "version": "1.0",
+  "words": [
+    {
+      "originalWord": "hola",
+      "translation": "hello",
+      "transcription": "[həˈloʊ]",
+      "exampleSentence": "Hola, ¿cómo estás?"
+    },
+    {
+      "originalWord": "adiós",
+      "translation": "goodbye",
+      "transcription": "[ɡʊdˈbaɪ]",
+      "exampleSentence": "Adiós, ¡hasta mañana!"
+    },
+    {
+      "originalWord": "por favor",
+      "translation": "please",
+      "transcription": "[pliːz]",
+      "exampleSentence": "¿Puedo tener agua, por favor?"
+    },
+    {
+      "originalWord": "gracias",
+      "translation": "thank you",
+      "transcription": "[θæŋk juː]",
+      "exampleSentence": "¡Muchas gracias!"
+    },
+    {
+      "originalWord": "sí",
+      "translation": "yes",
+      "transcription": "[jɛs]",
+      "exampleSentence": "Sí, entiendo."
+    },
+    {
+      "originalWord": "no",
+      "translation": "no",
+      "transcription": "[noʊ]",
+      "exampleSentence": "No, no lo quiero."
+    },
+    {
+      "originalWord": "perdón",
+      "translation": "excuse me",
+      "transcription": "[ɪkˈskjuːz miː]",
+      "exampleSentence": "Perdón, ¿dónde está el baño?"
+    },
+    {
+      "originalWord": "lo siento",
+      "translation": "sorry",
+      "transcription": "[ˈsɒri]",
+      "exampleSentence": "Lo siento, llego tarde."
+    },
+    {
+      "originalWord": "agua",
+      "translation": "water",
+      "transcription": "[ˈwɔːtər]",
+      "exampleSentence": "Necesito un vaso de agua."
+    },
+    {
+      "originalWord": "comida",
+      "translation": "food",
+      "transcription": "[fuːd]",
+      "exampleSentence": "La comida está deliciosa."
+    },
+    {
+      "originalWord": "ayuda",
+      "translation": "help",
+      "transcription": "[hɛlp]",
+      "exampleSentence": "Necesito ayuda, por favor."
+    },
+    {
+      "originalWord": "baño",
+      "translation": "bathroom",
+      "transcription": "[ˈbæθruːm]",
+      "exampleSentence": "¿Dónde está el baño?"
+    },
+    {
+      "originalWord": "cuánto",
+      "translation": "how much",
+      "transcription": "[haʊ mʌtʃ]",
+      "exampleSentence": "¿Cuánto cuesta esto?"
+    },
+    {
+      "originalWord": "dónde",
+      "translation": "where",
+      "transcription": "[wɛər]",
+      "exampleSentence": "¿Dónde está el hotel?"
+    },
+    {
+      "originalWord": "cuándo",
+      "translation": "when",
+      "transcription": "[wɛn]",
+      "exampleSentence": "¿Cuándo llega el tren?"
+    },
+    {
+      "originalWord": "bueno",
+      "translation": "good",
+      "transcription": "[ɡʊd]",
+      "exampleSentence": "¡Esto es muy bueno!"
+    },
+    {
+      "originalWord": "malo",
+      "translation": "bad",
+      "transcription": "[bæd]",
+      "exampleSentence": "El clima está malo hoy."
+    },
+    {
+      "originalWord": "grande",
+      "translation": "big",
+      "transcription": "[bɪɡ]",
+      "exampleSentence": "Esta es una casa grande."
+    },
+    {
+      "originalWord": "pequeño",
+      "translation": "small",
+      "transcription": "[smɔːl]",
+      "exampleSentence": "Tengo un perro pequeño."
+    },
+    {
+      "originalWord": "no entiendo",
+      "translation": "I don't understand",
+      "transcription": "[aɪ doʊnt ˌʌndərˈstænd]",
+      "exampleSentence": "Perdón, no entiendo inglés."
+    }
+  ]
+}

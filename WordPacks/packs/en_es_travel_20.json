@@ -1,0 +1,126 @@
+{
+  "packId": "en_es_travel_20",
+  "version": "1.0",
+  "words": [
+    {
+      "originalWord": "airport",
+      "translation": "aeropuerto",
+      "transcription": "[aeɾoˈpweɾto]",
+      "exampleSentence": "I'm going to the airport."
+    },
+    {
+      "originalWord": "hotel",
+      "translation": "hotel",
+      "transcription": "[oˈtel]",
+      "exampleSentence": "Where is my hotel?"
+    },
+    {
+      "originalWord": "ticket",
+      "translation": "boleto",
+      "transcription": "[boˈleto]",
+      "exampleSentence": "I need to buy a ticket."
+    },
+    {
+      "originalWord": "passport",
+      "translation": "pasaporte",
+      "transcription": "[pasaˈpoɾte]",
+      "exampleSentence": "Here is my passport."
+    },
+    {
+      "originalWord": "luggage",
+      "translation": "equipaje",
+      "transcription": "[ekiˈpaxe]",
+      "exampleSentence": "Where is my luggage?"
+    },
+    {
+      "originalWord": "flight",
+      "translation": "vuelo",
+      "transcription": "[ˈbwelo]",
+      "exampleSentence": "My flight is at 3 PM."
+    },
+    {
+      "originalWord": "train",
+      "translation": "tren",
+      "transcription": "[tɾen]",
+      "exampleSentence": "I'm taking the train."
+    },
+    {
+      "originalWord": "bus",
+      "translation": "autobús",
+      "transcription": "[awtoˈβus]",
+      "exampleSentence": "The bus is coming."
+    },
+    {
+      "originalWord": "taxi",
+      "translation": "taxi",
+      "transcription": "[ˈtaksi]",
+      "exampleSentence": "I need a taxi, please."
+    },
+    {
+      "originalWord": "map",
+      "translation": "mapa",
+      "transcription": "[ˈmapa]",
+      "exampleSentence": "Do you have a map?"
+    },
+    {
+      "originalWord": "restaurant",
+      "translation": "restaurante",
+      "transcription": "[restauˈɾante]",
+      "exampleSentence": "Let's go to a restaurant."
+    },
+    {
+      "originalWord": "museum",
+      "translation": "museo",
+      "transcription": "[muˈseo]",
+      "exampleSentence": "The museum is closed today."
+    },
+    {
+      "originalWord": "beach",
+      "translation": "playa",
+      "transcription": "[ˈplaʝa]",
+      "exampleSentence": "I love the beach!"
+    },
+    {
+      "originalWord": "reservation",
+      "translation": "reserva",
+      "transcription": "[reˈseɾβa]",
+      "exampleSentence": "I have a reservation."
+    },
+    {
+      "originalWord": "entrance",
+      "translation": "entrada",
+      "transcription": "[enˈtɾaða]",
+      "exampleSentence": "Where is the entrance?"
+    },
+    {
+      "originalWord": "exit",
+      "translation": "salida",
+      "transcription": "[saˈliða]",
+      "exampleSentence": "The exit is over there."
+    },
+    {
+      "originalWord": "emergency",
+      "translation": "emergencia",
+      "transcription": "[emeɾˈxensja]",
+      "exampleSentence": "This is an emergency!"
+    },
+    {
+      "originalWord": "pharmacy",
+      "translation": "farmacia",
+      "transcription": "[faɾˈmasja]",
+      "exampleSentence": "I need to find a pharmacy."
+    },
+    {
+      "originalWord": "money",
+      "translation": "dinero",
+      "transcription": "[diˈneɾo]",
+      "exampleSentence": "I don't have money."
+    },
+    {
+      "originalWord": "credit card",
+      "translation": "tarjeta de crédito",
+      "transcription": "[taɾˈxeta ðe ˈkɾeðito]",
+      "exampleSentence": "Do you accept credit cards?"
+    }
+  ]
+}
