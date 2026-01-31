@@ -1,0 +1,606 @@
+{
+  "packId": "en_tr_common_100",
+  "version": "1.0",
+  "words": [
+    {
+      "originalWord": "hello",
+      "translation": "merhaba",
+      "transcription": "[həˈloʊ]",
+      "exampleSentence": "Hello, how are you?"
+    },
+    {
+      "originalWord": "hi",
+      "translation": "selam",
+      "transcription": "[haɪ]",
+      "exampleSentence": "Hi, nice to meet you."
+    },
+    {
+      "originalWord": "good morning",
+      "translation": "günaydın",
+      "transcription": "[ɡʊd ˈmɔːrnɪŋ]",
+      "exampleSentence": "Good morning, everyone."
+    },
+    {
+      "originalWord": "good afternoon",
+      "translation": "tünaydın",
+      "transcription": "[ɡʊd ˌæftɚˈnuːn]",
+      "exampleSentence": "Good afternoon, Mr. Yılmaz."
+    },
+    {
+      "originalWord": "good evening",
+      "translation": "iyi akşamlar",
+      "transcription": "[ɡʊd ˈiːvnɪŋ]",
+      "exampleSentence": "Good evening, welcome!"
+    },
+    {
+      "originalWord": "good night",
+      "translation": "iyi geceler",
+      "transcription": "[ɡʊd ˈnaɪt]",
+      "exampleSentence": "Good night, sleep well."
+    },
+    {
+      "originalWord": "goodbye",
+      "translation": "hoşça kal",
+      "transcription": "[ɡʊdˈbaɪ]",
+      "exampleSentence": "Goodbye, see you tomorrow!"
+    },
+    {
+      "originalWord": "see you later",
+      "translation": "görüşürüz",
+      "transcription": "[siː juː ˈleɪtɚ]",
+      "exampleSentence": "See you later, take care."
+    },
+    {
+      "originalWord": "please",
+      "translation": "lütfen",
+      "transcription": "[pliːz]",
+      "exampleSentence": "Please sit down."
+    },
+    {
+      "originalWord": "thank you",
+      "translation": "teşekkür ederim",
+      "transcription": "[θæŋk juː]",
+      "exampleSentence": "Thank you for your help."
+    },
+    {
+      "originalWord": "you're welcome",
+      "translation": "rica ederim",
+      "transcription": "[jʊr ˈwɛlkəm]",
+      "exampleSentence": "You're welcome, no problem."
+    },
+    {
+      "originalWord": "excuse me",
+      "translation": "afedersiniz",
+      "transcription": "[ɪkˈskjuːz miː]",
+      "exampleSentence": "Excuse me, where is the bathroom?"
+    },
+    {
+      "originalWord": "sorry",
+      "translation": "üzgünüm",
+      "transcription": "[ˈsɑːri]",
+      "exampleSentence": "Sorry, I'm late."
+    },
+    {
+      "originalWord": "yes",
+      "translation": "evet",
+      "transcription": "[jɛs]",
+      "exampleSentence": "Yes, I understand."
+    },
+    {
+      "originalWord": "no",
+      "translation": "hayır",
+      "transcription": "[noʊ]",
+      "exampleSentence": "No, I don't want it."
+    },
+    {
+      "originalWord": "maybe",
+      "translation": "belki",
+      "transcription": "[ˈmeɪbi]",
+      "exampleSentence": "Maybe we can go later."
+    },
+    {
+      "originalWord": "okay",
+      "translation": "tamam",
+      "transcription": "[oʊˈkeɪ]",
+      "exampleSentence": "Okay, let's start."
+    },
+    {
+      "originalWord": "please help",
+      "translation": "lütfen yardım edin",
+      "transcription": "[pliːz hɛlp]",
+      "exampleSentence": "Please help me."
+    },
+    {
+      "originalWord": "I don't understand",
+      "translation": "anlamıyorum",
+      "transcription": "[aɪ doʊnt ˌʌndərˈstænd]",
+      "exampleSentence": "Sorry, I don't understand."
+    },
+    {
+      "originalWord": "do you speak English?",
+      "translation": "İngilizce konuşuyor musunuz?",
+      "transcription": "[duː juː spiːk ˈɪŋɡlɪʃ]",
+      "exampleSentence": "Do you speak English?"
+    },
+    {
+      "originalWord": "zero",
+      "translation": "sıfır",
+      "transcription": "[ˈzɪroʊ]",
+      "exampleSentence": "Zero is the first number."
+    },
+    {
+      "originalWord": "one",
+      "translation": "bir",
+      "transcription": "[wʌn]",
+      "exampleSentence": "I have one sister."
+    },
+    {
+      "originalWord": "two",
+      "translation": "iki",
+      "transcription": "[tuː]",
+      "exampleSentence": "I need two tickets."
+    },
+    {
+      "originalWord": "three",
+      "translation": "üç",
+      "transcription": "[θriː]",
+      "exampleSentence": "There are three apples."
+    },
+    {
+      "originalWord": "four",
+      "translation": "dört",
+      "transcription": "[fɔːr]",
+      "exampleSentence": "She has four books."
+    },
+    {
+      "originalWord": "five",
+      "translation": "beş",
+      "transcription": "[faɪv]",
+      "exampleSentence": "I work five days a week."
+    },
+    {
+      "originalWord": "six",
+      "translation": "altı",
+      "transcription": "[sɪks]",
+      "exampleSentence": "We have six chairs."
+    },
+    {
+      "originalWord": "seven",
+      "translation": "yedi",
+      "transcription": "[ˈsɛvən]",
+      "exampleSentence": "Seven is my lucky number."
+    },
+    {
+      "originalWord": "eight",
+      "translation": "sekiz",
+      "transcription": "[eɪt]",
+      "exampleSentence": "I wake up at eight."
+    },
+    {
+      "originalWord": "nine",
+      "translation": "dokuz",
+      "transcription": "[naɪn]",
+      "exampleSentence": "It's nine o'clock."
+    },
+    {
+      "originalWord": "ten",
+      "translation": "on",
+      "transcription": "[tɛn]",
+      "exampleSentence": "Ten people are here."
+    },
+    {
+      "originalWord": "eleven",
+      "translation": "on bir",
+      "transcription": "[ɪˈlɛvən]",
+      "exampleSentence": "My room is number eleven."
+    },
+    {
+      "originalWord": "twelve",
+      "translation": "on iki",
+      "transcription": "[twɛlv]",
+      "exampleSentence": "There are twelve months."
+    },
+    {
+      "originalWord": "thirteen",
+      "translation": "on üç",
+      "transcription": "[ˌθɝːˈtiːn]",
+      "exampleSentence": "Thirteen is a big number."
+    },
+    {
+      "originalWord": "fourteen",
+      "translation": "on dört",
+      "transcription": "[ˌfɔːrˈtiːn]",
+      "exampleSentence": "I am fourteen years old."
+    },
+    {
+      "originalWord": "fifteen",
+      "translation": "on beş",
+      "transcription": "[ˌfɪfˈtiːn]",
+      "exampleSentence": "The meeting is at fifteen past two."
+    },
+    {
+      "originalWord": "sixteen",
+      "translation": "on altı",
+      "transcription": "[ˌsɪkˈstiːn]",
+      "exampleSentence": "She is sixteen today."
+    },
+    {
+      "originalWord": "seventeen",
+      "translation": "on yedi",
+      "transcription": "[ˌsɛvənˈtiːn]",
+      "exampleSentence": "Seventeen students came."
+    },
+    {
+      "originalWord": "eighteen",
+      "translation": "on sekiz",
+      "transcription": "[ˌeɪˈtiːn]",
+      "exampleSentence": "I turn eighteen next year."
+    },
+    {
+      "originalWord": "nineteen",
+      "translation": "on dokuz",
+      "transcription": "[ˌnaɪnˈtiːn]",
+      "exampleSentence": "Nineteen is almost twenty."
+    },
+    {
+      "originalWord": "twenty",
+      "translation": "yirmi",
+      "transcription": "[ˈtwɛnti]",
+      "exampleSentence": "I have twenty euros."
+    },
+    {
+      "originalWord": "red",
+      "translation": "kırmızı",
+      "transcription": "[rɛd]",
+      "exampleSentence": "My car is red."
+    },
+    {
+      "originalWord": "blue",
+      "translation": "mavi",
+      "transcription": "[bluː]",
+      "exampleSentence": "The sky is blue."
+    },
+    {
+      "originalWord": "green",
+      "translation": "yeşil",
+      "transcription": "[ɡriːn]",
+      "exampleSentence": "I like green apples."
+    },
+    {
+      "originalWord": "yellow",
+      "translation": "sarı",
+      "transcription": "[ˈjɛloʊ]",
+      "exampleSentence": "The sun is yellow."
+    },
+    {
+      "originalWord": "black",
+      "translation": "siyah",
+      "transcription": "[blæk]",
+      "exampleSentence": "My shoes are black."
+    },
+    {
+      "originalWord": "white",
+      "translation": "beyaz",
+      "transcription": "[waɪt]",
+      "exampleSentence": "The wall is white."
+    },
+    {
+      "originalWord": "orange",
+      "translation": "turuncu",
+      "transcription": "[ˈɔːrɪndʒ]",
+      "exampleSentence": "Orange is my favorite color."
+    },
+    {
+      "originalWord": "purple",
+      "translation": "mor",
+      "transcription": "[ˈpɝːpəl]",
+      "exampleSentence": "She wears a purple dress."
+    },
+    {
+      "originalWord": "pink",
+      "translation": "pembe",
+      "transcription": "[pɪŋk]",
+      "exampleSentence": "I bought a pink shirt."
+    },
+    {
+      "originalWord": "brown",
+      "translation": "kahverengi",
+      "transcription": "[braʊn]",
+      "exampleSentence": "The table is brown."
+    },
+    {
+      "originalWord": "gray",
+      "translation": "gri",
+      "transcription": "[ɡreɪ]",
+      "exampleSentence": "The sky is gray today."
+    },
+    {
+      "originalWord": "family",
+      "translation": "aile",
+      "transcription": "[ˈfæməli]",
+      "exampleSentence": "My family is big."
+    },
+    {
+      "originalWord": "mother",
+      "translation": "anne",
+      "transcription": "[ˈmʌðɚ]",
+      "exampleSentence": "My mother is kind."
+    },
+    {
+      "originalWord": "father",
+      "translation": "baba",
+      "transcription": "[ˈfɑːðɚ]",
+      "exampleSentence": "My father works a lot."
+    },
+    {
+      "originalWord": "parents",
+      "translation": "ebeveynler",
+      "transcription": "[ˈpɛrənts]",
+      "exampleSentence": "My parents live nearby."
+    },
+    {
+      "originalWord": "son",
+      "translation": "oğul",
+      "transcription": "[sʌn]",
+      "exampleSentence": "Their son is at school."
+    },
+    {
+      "originalWord": "daughter",
+      "translation": "kız",
+      "transcription": "[ˈdɔːtɚ]",
+      "exampleSentence": "Her daughter is five."
+    },
+    {
+      "originalWord": "brother",
+      "translation": "erkek kardeş",
+      "transcription": "[ˈbrʌðɚ]",
+      "exampleSentence": "My brother likes music."
+    },
+    {
+      "originalWord": "sister",
+      "translation": "kız kardeş",
+      "transcription": "[ˈsɪstɚ]",
+      "exampleSentence": "My sister is friendly."
+    },
+    {
+      "originalWord": "husband",
+      "translation": "koca",
+      "transcription": "[ˈhʌzbənd]",
+      "exampleSentence": "Her husband is a doctor."
+    },
+    {
+      "originalWord": "wife",
+      "translation": "eş",
+      "transcription": "[waɪf]",
+      "exampleSentence": "My wife is at work."
+    },
+    {
+      "originalWord": "child",
+      "translation": "çocuk",
+      "transcription": "[tʃaɪld]",
+      "exampleSentence": "That child is happy."
+    },
+    {
+      "originalWord": "friend",
+      "translation": "arkadaş",
+      "transcription": "[frɛnd]",
+      "exampleSentence": "You are my friend."
+    },
+    {
+      "originalWord": "time",
+      "translation": "zaman",
+      "transcription": "[taɪm]",
+      "exampleSentence": "What time is it?"
+    },
+    {
+      "originalWord": "today",
+      "translation": "bugün",
+      "transcription": "[təˈdeɪ]",
+      "exampleSentence": "Today is a good day."
+    },
+    {
+      "originalWord": "tomorrow",
+      "translation": "yarın",
+      "transcription": "[təˈmɑːroʊ]",
+      "exampleSentence": "Tomorrow I will study."
+    },
+    {
+      "originalWord": "yesterday",
+      "translation": "dün",
+      "transcription": "[ˈjɛstɚdeɪ]",
+      "exampleSentence": "Yesterday I was busy."
+    },
+    {
+      "originalWord": "now",
+      "translation": "şimdi",
+      "transcription": "[naʊ]",
+      "exampleSentence": "I need it now."
+    },
+    {
+      "originalWord": "later",
+      "translation": "sonra",
+      "transcription": "[ˈleɪtɚ]",
+      "exampleSentence": "I'll call you later."
+    },
+    {
+      "originalWord": "early",
+      "translation": "erken",
+      "transcription": "[ˈɝːli]",
+      "exampleSentence": "I wake up early."
+    },
+    {
+      "originalWord": "late",
+      "translation": "geç",
+      "transcription": "[leɪt]",
+      "exampleSentence": "The bus is late."
+    },
+    {
+      "originalWord": "morning",
+      "translation": "sabah",
+      "transcription": "[ˈmɔːrnɪŋ]",
+      "exampleSentence": "I drink coffee in the morning."
+    },
+    {
+      "originalWord": "afternoon",
+      "translation": "öğleden sonra",
+      "transcription": "[ˌæftɚˈnuːn]",
+      "exampleSentence": "I work in the afternoon."
+    },
+    {
+      "originalWord": "evening",
+      "translation": "akşam",
+      "transcription": "[ˈiːvnɪŋ]",
+      "exampleSentence": "We walk in the evening."
+    },
+    {
+      "originalWord": "night",
+      "translation": "gece",
+      "transcription": "[naɪt]",
+      "exampleSentence": "At night, I read a book."
+    },
+    {
+      "originalWord": "hour",
+      "translation": "saat",
+      "transcription": "[ˈaʊɚ]",
+      "exampleSentence": "It takes one hour."
+    },
+    {
+      "originalWord": "minute",
+      "translation": "dakika",
+      "transcription": "[ˈmɪnɪt]",
+      "exampleSentence": "Wait a minute, please."
+    },
+    {
+      "originalWord": "day",
+      "translation": "gün",
+      "transcription": "[deɪ]",
+      "exampleSentence": "Have a nice day."
+    },
+    {
+      "originalWord": "week",
+      "translation": "hafta",
+      "transcription": "[wiːk]",
+      "exampleSentence": "I have a busy week."
+    },
+    {
+      "originalWord": "month",
+      "translation": "ay",
+      "transcription": "[mʌnθ]",
+      "exampleSentence": "This month is cold."
+    },
+    {
+      "originalWord": "year",
+      "translation": "yıl",
+      "transcription": "[jɪr]",
+      "exampleSentence": "Next year will be better."
+    },
+    {
+      "originalWord": "to be",
+      "translation": "olmak",
+      "transcription": "[tuː biː]",
+      "exampleSentence": "I am happy today."
+    },
+    {
+      "originalWord": "to have",
+      "translation": "sahip olmak",
+      "transcription": "[tuː hæv]",
+      "exampleSentence": "I have a question."
+    },
+    {
+      "originalWord": "to do",
+      "translation": "yapmak",
+      "transcription": "[tuː duː]",
+      "exampleSentence": "What do you do on weekends?"
+    },
+    {
+      "originalWord": "to go",
+      "translation": "gitmek",
+      "transcription": "[tuː ɡoʊ]",
+      "exampleSentence": "I go to school every day."
+    },
+    {
+      "originalWord": "to come",
+      "translation": "gelmek",
+      "transcription": "[tuː kʌm]",
+      "exampleSentence": "Please come here."
+    },
+    {
+      "originalWord": "to want",
+      "translation": "istemek",
+      "transcription": "[tuː wɑːnt]",
+      "exampleSentence": "I want some water."
+    },
+    {
+      "originalWord": "to need",
+      "translation": "ihtiyacı olmak",
+      "transcription": "[tuː niːd]",
+      "exampleSentence": "I need help, please."
+    },
+    {
+      "originalWord": "to like",
+      "translation": "sevmek",
+      "transcription": "[tuː laɪk]",
+      "exampleSentence": "I like this song."
+    },
+    {
+      "originalWord": "to love",
+      "translation": "aşık olmak",
+      "transcription": "[tuː lʌv]",
+      "exampleSentence": "I love my family."
+    },
+    {
+      "originalWord": "to see",
+      "translation": "görmek",
+      "transcription": "[tuː siː]",
+      "exampleSentence": "I see the bus."
+    },
+    {
+      "originalWord": "good",
+      "translation": "iyi",
+      "transcription": "[ɡʊd]",
+      "exampleSentence": "This is a good idea."
+    },
+    {
+      "originalWord": "bad",
+      "translation": "kötü",
+      "transcription": "[bæd]",
+      "exampleSentence": "The weather is bad today."
+    },
+    {
+      "originalWord": "big",
+      "translation": "büyük",
+      "transcription": "[bɪɡ]",
+      "exampleSentence": "This is a big house."
+    },
+    {
+      "originalWord": "small",
+      "translation": "küçük",
+      "transcription": "[smɔːl]",
+      "exampleSentence": "I have a small dog."
+    },
+    {
+      "originalWord": "new",
+      "translation": "yeni",
+      "transcription": "[nuː]",
+      "exampleSentence": "I bought a new phone."
+    },
+    {
+      "originalWord": "old",
+      "translation": "eski",
+      "transcription": "[oʊld]",
+      "exampleSentence": "My car is old."
+    },
+    {
+      "originalWord": "hot",
+      "translation": "sıcak",
+      "transcription": "[hɑːt]",
+      "exampleSentence": "The coffee is hot."
+    },
+    {
+      "originalWord": "cold",
+      "translation": "soğuk",
+      "transcription": "[koʊld]",
+      "exampleSentence": "The water is cold."
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "packId": "pt_es_common_100",
+  "version": "1.0",
+  "words": [
+    {
+      "originalWord": "olá",
+      "translation": "hola",
+      "transcription": "[—]",
+      "exampleSentence": "Olá é um exemplo."
+    },
+    {
+      "originalWord": "bom dia",
+      "translation": "buenos días",
+      "transcription": "[—]",
+      "exampleSentence": "Bom dia é um exemplo."
+    },
+    {
+      "originalWord": "boa tarde",
+      "translation": "buenas tardes",
+      "transcription": "[—]",
+      "exampleSentence": "Boa tarde é um exemplo."
+    },
+    {
+      "originalWord": "boa noite",
+      "translation": "buenas noches",
+      "transcription": "[—]",
+      "exampleSentence": "Boa noite é um exemplo."
+    },
+    {
+      "originalWord": "adeus",
+      "translation": "adiós",
+      "transcription": "[—]",
+      "exampleSentence": "Adeus é um exemplo."
+    },
+    {
+      "originalWord": "até logo",
+      "translation": "hasta luego",
+      "transcription": "[—]",
+      "exampleSentence": "Até logo é um exemplo."
+    },
+    {
+      "originalWord": "por favor",
+      "translation": "por favor",
+      "transcription": "[—]",
+      "exampleSentence": "Por favor é um exemplo."
+    },
+    {
+      "originalWord": "obrigado",
+      "translation": "gracias",
+      "transcription": "[—]",
+      "exampleSentence": "Obrigado é um exemplo."
+    },
+    {
+      "originalWord": "de nada",
+      "translation": "de nada",
+      "transcription": "[—]",
+      "exampleSentence": "De nada é um exemplo."
+    },
+    {
+      "originalWord": "desculpa",
+      "translation": "perdón",
+      "transcription": "[—]",
+      "exampleSentence": "Desculpa é um exemplo."
+    },
+    {
+      "originalWord": "sim",
+      "translation": "sí",
+      "transcription": "[—]",
+      "exampleSentence": "Sim é um exemplo."
+    },
+    {
+      "originalWord": "não",
+      "translation": "no",
+      "transcription": "[—]",
+      "exampleSentence": "Não é um exemplo."
+    },
+    {
+      "originalWord": "talvez",
+      "translation": "tal vez",
+      "transcription": "[—]",
+      "exampleSentence": "Talvez é um exemplo."
+    },
+    {
+      "originalWord": "ok",
+      "translation": "vale",
+      "transcription": "[—]",
+      "exampleSentence": "Ok é um exemplo."
+    },
+    {
+      "originalWord": "ajuda",
+      "translation": "ayuda",
+      "transcription": "[—]",
+      "exampleSentence": "Ajuda é um exemplo."
+    },
+    {
+      "originalWord": "não entendo",
+      "translation": "no entiendo",
+      "transcription": "[—]",
+      "exampleSentence": "Não entendo é um exemplo."
+    },
+    {
+      "originalWord": "você fala inglês?",
+      "translation": "¿hablas inglés?",
+      "transcription": "[—]",
+      "exampleSentence": "Você fala inglês? é um exemplo."
+    },
+    {
+      "originalWord": "bem",
+      "translation": "bien",
+      "transcription": "[—]",
+      "exampleSentence": "Bem é um exemplo."
+    },
+    {
+      "originalWord": "mal",
+      "translation": "mal",
+      "transcription": "[—]",
+      "exampleSentence": "Mal é um exemplo."
+    },
+    {
+      "originalWord": "amigo",
+      "translation": "amigo",
+      "transcription": "[—]",
+      "exampleSentence": "Amigo é um exemplo."
+    },
+    {
+      "originalWord": "um",
+      "translation": "uno",
+      "transcription": "[—]",
+      "exampleSentence": "Um é um exemplo."
+    },
+    {
+      "originalWord": "dois",
+      "translation": "dos",
+      "transcription": "[—]",
+      "exampleSentence": "Dois é um exemplo."
+    },
+    {
+      "originalWord": "três",
+      "translation": "tres",
+      "transcription": "[—]",
+      "exampleSentence": "Três é um exemplo."
+    },
+    {
+      "originalWord": "quatro",
+      "translation": "cuatro",
+      "transcription": "[—]",
+      "exampleSentence": "Quatro é um exemplo."
+    },
+    {
+      "originalWord": "cinco",
+      "translation": "cinco",
+      "transcription": "[—]",
+      "exampleSentence": "Cinco é um exemplo."
+    },
+    {
+      "originalWord": "seis",
+      "translation": "seis",
+      "transcription": "[—]",
+      "exampleSentence": "Seis é um exemplo."
+    },
+    {
+      "originalWord": "sete",
+      "translation": "siete",
+      "transcription": "[—]",
+      "exampleSentence": "Sete é um exemplo."
+    },
+    {
+      "originalWord": "oito",
+      "translation": "ocho",
+      "transcription": "[—]",
+      "exampleSentence": "Oito é um exemplo."
+    },
+    {
+      "originalWord": "nove",
+      "translation": "nueve",
+      "transcription": "[—]",
+      "exampleSentence": "Nove é um exemplo."
+    },
+    {
+      "originalWord": "dez",
+      "translation": "diez",
+      "transcription": "[—]",
+      "exampleSentence": "Dez é um exemplo."
+    },
+    {
+      "originalWord": "onze",
+      "translation": "once",
+      "transcription": "[—]",
+      "exampleSentence": "Onze é um exemplo."
+    },
+    {
+      "originalWord": "doze",
+      "translation": "doce",
+      "transcription": "[—]",
+      "exampleSentence": "Doze é um exemplo."
+    },
+    {
+      "originalWord": "treze",
+      "translation": "trece",
+      "transcription": "[—]",
+      "exampleSentence": "Treze é um exemplo."
+    },
+    {
+      "originalWord": "quatorze",
+      "translation": "catorce",
+      "transcription": "[—]",
+      "exampleSentence": "Quatorze é um exemplo."
+    },
+    {
+      "originalWord": "quinze",
+      "translation": "quince",
+      "transcription": "[—]",
+      "exampleSentence": "Quinze é um exemplo."
+    },
+    {
+      "originalWord": "dezesseis",
+      "translation": "dieciséis",
+      "transcription": "[—]",
+      "exampleSentence": "Dezesseis é um exemplo."
+    },
+    {
+      "originalWord": "dezessete",
+      "translation": "diecisiete",
+      "transcription": "[—]",
+      "exampleSentence": "Dezessete é um exemplo."
+    },
+    {
+      "originalWord": "dezoito",
+      "translation": "dieciocho",
+      "transcription": "[—]",
+      "exampleSentence": "Dezoito é um exemplo."
+    },
+    {
+      "originalWord": "dezenove",
+      "translation": "diecinueve",
+      "transcription": "[—]",
+      "exampleSentence": "Dezenove é um exemplo."
+    },
+    {
+      "originalWord": "vinte",
+      "translation": "veinte",
+      "transcription": "[—]",
+      "exampleSentence": "Vinte é um exemplo."
+    },
+    {
+      "originalWord": "vermelho",
+      "translation": "rojo",
+      "transcription": "[—]",
+      "exampleSentence": "Vermelho é um exemplo."
+    },
+    {
+      "originalWord": "azul",
+      "translation": "azul",
+      "transcription": "[—]",
+      "exampleSentence": "Azul é um exemplo."
+    },
+    {
+      "originalWord": "verde",
+      "translation": "verde",
+      "transcription": "[—]",
+      "exampleSentence": "Verde é um exemplo."
+    },
+    {
+      "originalWord": "amarelo",
+      "translation": "amarillo",
+      "transcription": "[—]",
+      "exampleSentence": "Amarelo é um exemplo."
+    },
+    {
+      "originalWord": "preto",
+      "translation": "negro",
+      "transcription": "[—]",
+      "exampleSentence": "Preto é um exemplo."
+    },
+    {
+      "originalWord": "branco",
+      "translation": "blanco",
+      "transcription": "[—]",
+      "exampleSentence": "Branco é um exemplo."
+    },
+    {
+      "originalWord": "rosa",
+      "translation": "rosa",
+      "transcription": "[—]",
+      "exampleSentence": "Rosa é um exemplo."
+    },
+    {
+      "originalWord": "marrom",
+      "translation": "marrón",
+      "transcription": "[—]",
+      "exampleSentence": "Marrom é um exemplo."
+    },
+    {
+      "originalWord": "cinza",
+      "translation": "gris",
+      "transcription": "[—]",
+      "exampleSentence": "Cinza é um exemplo."
+    },
+    {
+      "originalWord": "laranja",
+      "translation": "naranja",
+      "transcription": "[—]",
+      "exampleSentence": "Laranja é um exemplo."
+    },
+    {
+      "originalWord": "família",
+      "translation": "familia",
+      "transcription": "[—]",
+      "exampleSentence": "Família é um exemplo."
+    },
+    {
+      "originalWord": "mãe",
+      "translation": "madre",
+      "transcription": "[—]",
+      "exampleSentence": "Mãe é um exemplo."
+    },
+    {
+      "originalWord": "pai",
+      "translation": "padre",
+      "transcription": "[—]",
+      "exampleSentence": "Pai é um exemplo."
+    },
+    {
+      "originalWord": "filho",
+      "translation": "hijo",
+      "transcription": "[—]",
+      "exampleSentence": "Filho é um exemplo."
+    },
+    {
+      "originalWord": "filha",
+      "translation": "hija",
+      "transcription": "[—]",
+      "exampleSentence": "Filha é um exemplo."
+    },
+    {
+      "originalWord": "irmão",
+      "translation": "hermano",
+      "transcription": "[—]",
+      "exampleSentence": "Irmão é um exemplo."
+    },
+    {
+      "originalWord": "irmã",
+      "translation": "hermana",
+      "transcription": "[—]",
+      "exampleSentence": "Irmã é um exemplo."
+    },
+    {
+      "originalWord": "amigo",
+      "translation": "amigo",
+      "transcription": "[—]",
+      "exampleSentence": "Amigo é um exemplo."
+    },
+    {
+      "originalWord": "criança",
+      "translation": "niño",
+      "transcription": "[—]",
+      "exampleSentence": "Criança é um exemplo."
+    },
+    {
+      "originalWord": "pais",
+      "translation": "padres",
+      "transcription": "[—]",
+      "exampleSentence": "Pais é um exemplo."
+    },
+    {
+      "originalWord": "hoje",
+      "translation": "hoy",
+      "transcription": "[—]",
+      "exampleSentence": "Hoje é um exemplo."
+    },
+    {
+      "originalWord": "amanhã",
+      "translation": "mañana",
+      "transcription": "[—]",
+      "exampleSentence": "Amanhã é um exemplo."
+    },
+    {
+      "originalWord": "ontem",
+      "translation": "ayer",
+      "transcription": "[—]",
+      "exampleSentence": "Ontem é um exemplo."
+    },
+    {
+      "originalWord": "agora",
+      "translation": "ahora",
+      "transcription": "[—]",
+      "exampleSentence": "Agora é um exemplo."
+    },
+    {
+      "originalWord": "tarde",
+      "translation": "tarde",
+      "transcription": "[—]",
+      "exampleSentence": "Tarde é um exemplo."
+    },
+    {
+      "originalWord": "cedo",
+      "translation": "temprano",
+      "transcription": "[—]",
+      "exampleSentence": "Cedo é um exemplo."
+    },
+    {
+      "originalWord": "dia",
+      "translation": "día",
+      "transcription": "[—]",
+      "exampleSentence": "Dia é um exemplo."
+    },
+    {
+      "originalWord": "noite",
+      "translation": "noche",
+      "transcription": "[—]",
+      "exampleSentence": "Noite é um exemplo."
+    },
+    {
+      "originalWord": "ano",
+      "translation": "año",
+      "transcription": "[—]",
+      "exampleSentence": "Ano é um exemplo."
+    },
+    {
+      "originalWord": "ser",
+      "translation": "ser",
+      "transcription": "[—]",
+      "exampleSentence": "Ser é um exemplo."
+    },
+    {
+      "originalWord": "ter",
+      "translation": "tener",
+      "transcription": "[—]",
+      "exampleSentence": "Ter é um exemplo."
+    },
+    {
+      "originalWord": "fazer",
+      "translation": "hacer",
+      "transcription": "[—]",
+      "exampleSentence": "Fazer é um exemplo."
+    },
+    {
+      "originalWord": "ir",
+      "translation": "ir",
+      "transcription": "[—]",
+      "exampleSentence": "Ir é um exemplo."
+    },
+    {
+      "originalWord": "vir",
+      "translation": "venir",
+      "transcription": "[—]",
+      "exampleSentence": "Vir é um exemplo."
+    },
+    {
+      "originalWord": "querer",
+      "translation": "querer",
+      "transcription": "[—]",
+      "exampleSentence": "Querer é um exemplo."
+    },
+    {
+      "originalWord": "gostar",
+      "translation": "gustar",
+      "transcription": "[—]",
+      "exampleSentence": "Gostar é um exemplo."
+    },
+    {
+      "originalWord": "bom",
+      "translation": "bueno",
+      "transcription": "[—]",
+      "exampleSentence": "Bom é um exemplo."
+    },
+    {
+      "originalWord": "ruim",
+      "translation": "malo",
+      "transcription": "[—]",
+      "exampleSentence": "Ruim é um exemplo."
+    },
+    {
+      "originalWord": "grande",
+      "translation": "grande",
+      "transcription": "[—]",
+      "exampleSentence": "Grande é um exemplo."
+    },
+    {
+      "originalWord": "pequeno",
+      "translation": "pequeño",
+      "transcription": "[—]",
+      "exampleSentence": "Pequeno é um exemplo."
+    },
+    {
+      "originalWord": "novo",
+      "translation": "nuevo",
+      "transcription": "[—]",
+      "exampleSentence": "Novo é um exemplo."
+    },
+    {
+      "originalWord": "velho",
+      "translation": "viejo",
+      "transcription": "[—]",
+      "exampleSentence": "Velho é um exemplo."
+    },
+    {
+      "originalWord": "quente",
+      "translation": "caliente",
+      "transcription": "[—]",
+      "exampleSentence": "Quente é um exemplo."
+    },
+    {
+      "originalWord": "frio",
+      "translation": "frío",
+      "transcription": "[—]",
+      "exampleSentence": "Frio é um exemplo."
+    },
+    {
+      "originalWord": "rápido",
+      "translation": "rápido",
+      "transcription": "[—]",
+      "exampleSentence": "Rápido é um exemplo."
+    },
+    {
+      "originalWord": "lento",
+      "translation": "lento",
+      "transcription": "[—]",
+      "exampleSentence": "Lento é um exemplo."
+    },
+    {
+      "originalWord": "feliz",
+      "translation": "feliz",
+      "transcription": "[—]",
+      "exampleSentence": "Feliz é um exemplo."
+    },
+    {
+      "originalWord": "triste",
+      "translation": "triste",
+      "transcription": "[—]",
+      "exampleSentence": "Triste é um exemplo."
+    },
+    {
+      "originalWord": "trabalhar",
+      "translation": "trabajar",
+      "transcription": "[—]",
+      "exampleSentence": "Trabalhar é um exemplo."
+    },
+    {
+      "originalWord": "viver",
+      "translation": "vivir",
+      "transcription": "[—]",
+      "exampleSentence": "Viver é um exemplo."
+    },
+    {
+      "originalWord": "comer",
+      "translation": "comer",
+      "transcription": "[—]",
+      "exampleSentence": "Comer é um exemplo."
+    },
+    {
+      "originalWord": "beber",
+      "translation": "beber",
+      "transcription": "[—]",
+      "exampleSentence": "Beber é um exemplo."
+    },
+    {
+      "originalWord": "água",
+      "translation": "agua",
+      "transcription": "[—]",
+      "exampleSentence": "Água é um exemplo."
+    },
+    {
+      "originalWord": "casa",
+      "translation": "casa",
+      "transcription": "[—]",
+      "exampleSentence": "Casa é um exemplo."
+    },
+    {
+      "originalWord": "cidade",
+      "translation": "ciudad",
+      "transcription": "[—]",
+      "exampleSentence": "Cidade é um exemplo."
+    },
+    {
+      "originalWord": "tempo",
+      "translation": "tiempo",
+      "transcription": "[—]",
+      "exampleSentence": "Tempo é um exemplo."
+    },
+    {
+      "originalWord": "dia",
+      "translation": "día",
+      "transcription": "[—]",
+      "exampleSentence": "Dia é um exemplo."
+    },
+    {
+      "originalWord": "semana",
+      "translation": "semana",
+      "transcription": "[—]",
+      "exampleSentence": "Semana é um exemplo."
+    },
+    {
+      "originalWord": "mês",
+      "translation": "mes",
+      "transcription": "[—]",
+      "exampleSentence": "Mês é um exemplo."
+    },
+    {
+      "originalWord": "aqui",
+      "translation": "aquí",
+      "transcription": "[—]",
+      "exampleSentence": "Aqui é um exemplo."
+    }
+  ]
+}

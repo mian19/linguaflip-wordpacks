@@ -1,0 +1,606 @@
+{
+  "packId": "pt_zh_common_100",
+  "version": "1.0",
+  "words": [
+    {
+      "originalWord": "olá",
+      "translation": "你好",
+      "transcription": "[—]",
+      "exampleSentence": "Olá é um exemplo."
+    },
+    {
+      "originalWord": "bom dia",
+      "translation": "早上好",
+      "transcription": "[—]",
+      "exampleSentence": "Bom dia é um exemplo."
+    },
+    {
+      "originalWord": "boa tarde",
+      "translation": "下午好",
+      "transcription": "[—]",
+      "exampleSentence": "Boa tarde é um exemplo."
+    },
+    {
+      "originalWord": "boa noite",
+      "translation": "晚上好",
+      "transcription": "[—]",
+      "exampleSentence": "Boa noite é um exemplo."
+    },
+    {
+      "originalWord": "adeus",
+      "translation": "再见",
+      "transcription": "[—]",
+      "exampleSentence": "Adeus é um exemplo."
+    },
+    {
+      "originalWord": "até logo",
+      "translation": "一会儿见",
+      "transcription": "[—]",
+      "exampleSentence": "Até logo é um exemplo."
+    },
+    {
+      "originalWord": "por favor",
+      "translation": "请",
+      "transcription": "[—]",
+      "exampleSentence": "Por favor é um exemplo."
+    },
+    {
+      "originalWord": "obrigado",
+      "translation": "谢谢",
+      "transcription": "[—]",
+      "exampleSentence": "Obrigado é um exemplo."
+    },
+    {
+      "originalWord": "de nada",
+      "translation": "不客气",
+      "transcription": "[—]",
+      "exampleSentence": "De nada é um exemplo."
+    },
+    {
+      "originalWord": "desculpa",
+      "translation": "对不起",
+      "transcription": "[—]",
+      "exampleSentence": "Desculpa é um exemplo."
+    },
+    {
+      "originalWord": "sim",
+      "translation": "是",
+      "transcription": "[—]",
+      "exampleSentence": "Sim é um exemplo."
+    },
+    {
+      "originalWord": "não",
+      "translation": "不是",
+      "transcription": "[—]",
+      "exampleSentence": "Não é um exemplo."
+    },
+    {
+      "originalWord": "talvez",
+      "translation": "也许",
+      "transcription": "[—]",
+      "exampleSentence": "Talvez é um exemplo."
+    },
+    {
+      "originalWord": "ok",
+      "translation": "好的",
+      "transcription": "[—]",
+      "exampleSentence": "Ok é um exemplo."
+    },
+    {
+      "originalWord": "ajuda",
+      "translation": "帮忙",
+      "transcription": "[—]",
+      "exampleSentence": "Ajuda é um exemplo."
+    },
+    {
+      "originalWord": "não entendo",
+      "translation": "我不懂",
+      "transcription": "[—]",
+      "exampleSentence": "Não entendo é um exemplo."
+    },
+    {
+      "originalWord": "você fala inglês?",
+      "translation": "你会说英语吗",
+      "transcription": "[—]",
+      "exampleSentence": "Você fala inglês? é um exemplo."
+    },
+    {
+      "originalWord": "bem",
+      "translation": "好",
+      "transcription": "[—]",
+      "exampleSentence": "Bem é um exemplo."
+    },
+    {
+      "originalWord": "mal",
+      "translation": "坏",
+      "transcription": "[—]",
+      "exampleSentence": "Mal é um exemplo."
+    },
+    {
+      "originalWord": "amigo",
+      "translation": "朋友",
+      "transcription": "[—]",
+      "exampleSentence": "Amigo é um exemplo."
+    },
+    {
+      "originalWord": "um",
+      "translation": "一",
+      "transcription": "[—]",
+      "exampleSentence": "Um é um exemplo."
+    },
+    {
+      "originalWord": "dois",
+      "translation": "二",
+      "transcription": "[—]",
+      "exampleSentence": "Dois é um exemplo."
+    },
+    {
+      "originalWord": "três",
+      "translation": "三",
+      "transcription": "[—]",
+      "exampleSentence": "Três é um exemplo."
+    },
+    {
+      "originalWord": "quatro",
+      "translation": "四",
+      "transcription": "[—]",
+      "exampleSentence": "Quatro é um exemplo."
+    },
+    {
+      "originalWord": "cinco",
+      "translation": "五",
+      "transcription": "[—]",
+      "exampleSentence": "Cinco é um exemplo."
+    },
+    {
+      "originalWord": "seis",
+      "translation": "六",
+      "transcription": "[—]",
+      "exampleSentence": "Seis é um exemplo."
+    },
+    {
+      "originalWord": "sete",
+      "translation": "七",
+      "transcription": "[—]",
+      "exampleSentence": "Sete é um exemplo."
+    },
+    {
+      "originalWord": "oito",
+      "translation": "八",
+      "transcription": "[—]",
+      "exampleSentence": "Oito é um exemplo."
+    },
+    {
+      "originalWord": "nove",
+      "translation": "九",
+      "transcription": "[—]",
+      "exampleSentence": "Nove é um exemplo."
+    },
+    {
+      "originalWord": "dez",
+      "translation": "十",
+      "transcription": "[—]",
+      "exampleSentence": "Dez é um exemplo."
+    },
+    {
+      "originalWord": "onze",
+      "translation": "十一",
+      "transcription": "[—]",
+      "exampleSentence": "Onze é um exemplo."
+    },
+    {
+      "originalWord": "doze",
+      "translation": "十二",
+      "transcription": "[—]",
+      "exampleSentence": "Doze é um exemplo."
+    },
+    {
+      "originalWord": "treze",
+      "translation": "十三",
+      "transcription": "[—]",
+      "exampleSentence": "Treze é um exemplo."
+    },
+    {
+      "originalWord": "quatorze",
+      "translation": "十四",
+      "transcription": "[—]",
+      "exampleSentence": "Quatorze é um exemplo."
+    },
+    {
+      "originalWord": "quinze",
+      "translation": "十五",
+      "transcription": "[—]",
+      "exampleSentence": "Quinze é um exemplo."
+    },
+    {
+      "originalWord": "dezesseis",
+      "translation": "十六",
+      "transcription": "[—]",
+      "exampleSentence": "Dezesseis é um exemplo."
+    },
+    {
+      "originalWord": "dezessete",
+      "translation": "十七",
+      "transcription": "[—]",
+      "exampleSentence": "Dezessete é um exemplo."
+    },
+    {
+      "originalWord": "dezoito",
+      "translation": "十八",
+      "transcription": "[—]",
+      "exampleSentence": "Dezoito é um exemplo."
+    },
+    {
+      "originalWord": "dezenove",
+      "translation": "十九",
+      "transcription": "[—]",
+      "exampleSentence": "Dezenove é um exemplo."
+    },
+    {
+      "originalWord": "vinte",
+      "translation": "二十",
+      "transcription": "[—]",
+      "exampleSentence": "Vinte é um exemplo."
+    },
+    {
+      "originalWord": "vermelho",
+      "translation": "红色",
+      "transcription": "[—]",
+      "exampleSentence": "Vermelho é um exemplo."
+    },
+    {
+      "originalWord": "azul",
+      "translation": "蓝色",
+      "transcription": "[—]",
+      "exampleSentence": "Azul é um exemplo."
+    },
+    {
+      "originalWord": "verde",
+      "translation": "绿色",
+      "transcription": "[—]",
+      "exampleSentence": "Verde é um exemplo."
+    },
+    {
+      "originalWord": "amarelo",
+      "translation": "黄色",
+      "transcription": "[—]",
+      "exampleSentence": "Amarelo é um exemplo."
+    },
+    {
+      "originalWord": "preto",
+      "translation": "黑色",
+      "transcription": "[—]",
+      "exampleSentence": "Preto é um exemplo."
+    },
+    {
+      "originalWord": "branco",
+      "translation": "白色",
+      "transcription": "[—]",
+      "exampleSentence": "Branco é um exemplo."
+    },
+    {
+      "originalWord": "rosa",
+      "translation": "粉色",
+      "transcription": "[—]",
+      "exampleSentence": "Rosa é um exemplo."
+    },
+    {
+      "originalWord": "marrom",
+      "translation": "棕色",
+      "transcription": "[—]",
+      "exampleSentence": "Marrom é um exemplo."
+    },
+    {
+      "originalWord": "cinza",
+      "translation": "灰色",
+      "transcription": "[—]",
+      "exampleSentence": "Cinza é um exemplo."
+    },
+    {
+      "originalWord": "laranja",
+      "translation": "橙色",
+      "transcription": "[—]",
+      "exampleSentence": "Laranja é um exemplo."
+    },
+    {
+      "originalWord": "família",
+      "translation": "家庭",
+      "transcription": "[—]",
+      "exampleSentence": "Família é um exemplo."
+    },
+    {
+      "originalWord": "mãe",
+      "translation": "妈妈",
+      "transcription": "[—]",
+      "exampleSentence": "Mãe é um exemplo."
+    },
+    {
+      "originalWord": "pai",
+      "translation": "爸爸",
+      "transcription": "[—]",
+      "exampleSentence": "Pai é um exemplo."
+    },
+    {
+      "originalWord": "filho",
+      "translation": "儿子",
+      "transcription": "[—]",
+      "exampleSentence": "Filho é um exemplo."
+    },
+    {
+      "originalWord": "filha",
+      "translation": "女儿",
+      "transcription": "[—]",
+      "exampleSentence": "Filha é um exemplo."
+    },
+    {
+      "originalWord": "irmão",
+      "translation": "兄弟",
+      "transcription": "[—]",
+      "exampleSentence": "Irmão é um exemplo."
+    },
+    {
+      "originalWord": "irmã",
+      "translation": "姐妹",
+      "transcription": "[—]",
+      "exampleSentence": "Irmã é um exemplo."
+    },
+    {
+      "originalWord": "amigo",
+      "translation": "朋友",
+      "transcription": "[—]",
+      "exampleSentence": "Amigo é um exemplo."
+    },
+    {
+      "originalWord": "criança",
+      "translation": "孩子",
+      "transcription": "[—]",
+      "exampleSentence": "Criança é um exemplo."
+    },
+    {
+      "originalWord": "pais",
+      "translation": "父母",
+      "transcription": "[—]",
+      "exampleSentence": "Pais é um exemplo."
+    },
+    {
+      "originalWord": "hoje",
+      "translation": "今天",
+      "transcription": "[—]",
+      "exampleSentence": "Hoje é um exemplo."
+    },
+    {
+      "originalWord": "amanhã",
+      "translation": "明天",
+      "transcription": "[—]",
+      "exampleSentence": "Amanhã é um exemplo."
+    },
+    {
+      "originalWord": "ontem",
+      "translation": "昨天",
+      "transcription": "[—]",
+      "exampleSentence": "Ontem é um exemplo."
+    },
+    {
+      "originalWord": "agora",
+      "translation": "现在",
+      "transcription": "[—]",
+      "exampleSentence": "Agora é um exemplo."
+    },
+    {
+      "originalWord": "tarde",
+      "translation": "晚",
+      "transcription": "[—]",
+      "exampleSentence": "Tarde é um exemplo."
+    },
+    {
+      "originalWord": "cedo",
+      "translation": "早",
+      "transcription": "[—]",
+      "exampleSentence": "Cedo é um exemplo."
+    },
+    {
+      "originalWord": "dia",
+      "translation": "天",
+      "transcription": "[—]",
+      "exampleSentence": "Dia é um exemplo."
+    },
+    {
+      "originalWord": "noite",
+      "translation": "夜",
+      "transcription": "[—]",
+      "exampleSentence": "Noite é um exemplo."
+    },
+    {
+      "originalWord": "ano",
+      "translation": "年",
+      "transcription": "[—]",
+      "exampleSentence": "Ano é um exemplo."
+    },
+    {
+      "originalWord": "ser",
+      "translation": "是",
+      "transcription": "[—]",
+      "exampleSentence": "Ser é um exemplo."
+    },
+    {
+      "originalWord": "ter",
+      "translation": "有",
+      "transcription": "[—]",
+      "exampleSentence": "Ter é um exemplo."
+    },
+    {
+      "originalWord": "fazer",
+      "translation": "做",
+      "transcription": "[—]",
+      "exampleSentence": "Fazer é um exemplo."
+    },
+    {
+      "originalWord": "ir",
+      "translation": "去",
+      "transcription": "[—]",
+      "exampleSentence": "Ir é um exemplo."
+    },
+    {
+      "originalWord": "vir",
+      "translation": "来",
+      "transcription": "[—]",
+      "exampleSentence": "Vir é um exemplo."
+    },
+    {
+      "originalWord": "querer",
+      "translation": "想要",
+      "transcription": "[—]",
+      "exampleSentence": "Querer é um exemplo."
+    },
+    {
+      "originalWord": "gostar",
+      "translation": "喜欢",
+      "transcription": "[—]",
+      "exampleSentence": "Gostar é um exemplo."
+    },
+    {
+      "originalWord": "bom",
+      "translation": "好",
+      "transcription": "[—]",
+      "exampleSentence": "Bom é um exemplo."
+    },
+    {
+      "originalWord": "ruim",
+      "translation": "坏",
+      "transcription": "[—]",
+      "exampleSentence": "Ruim é um exemplo."
+    },
+    {
+      "originalWord": "grande",
+      "translation": "大",
+      "transcription": "[—]",
+      "exampleSentence": "Grande é um exemplo."
+    },
+    {
+      "originalWord": "pequeno",
+      "translation": "小",
+      "transcription": "[—]",
+      "exampleSentence": "Pequeno é um exemplo."
+    },
+    {
+      "originalWord": "novo",
+      "translation": "新",
+      "transcription": "[—]",
+      "exampleSentence": "Novo é um exemplo."
+    },
+    {
+      "originalWord": "velho",
+      "translation": "老",
+      "transcription": "[—]",
+      "exampleSentence": "Velho é um exemplo."
+    },
+    {
+      "originalWord": "quente",
+      "translation": "热",
+      "transcription": "[—]",
+      "exampleSentence": "Quente é um exemplo."
+    },
+    {
+      "originalWord": "frio",
+      "translation": "冷",
+      "transcription": "[—]",
+      "exampleSentence": "Frio é um exemplo."
+    },
+    {
+      "originalWord": "rápido",
+      "translation": "快",
+      "transcription": "[—]",
+      "exampleSentence": "Rápido é um exemplo."
+    },
+    {
+      "originalWord": "lento",
+      "translation": "慢",
+      "transcription": "[—]",
+      "exampleSentence": "Lento é um exemplo."
+    },
+    {
+      "originalWord": "feliz",
+      "translation": "开心",
+      "transcription": "[—]",
+      "exampleSentence": "Feliz é um exemplo."
+    },
+    {
+      "originalWord": "triste",
+      "translation": "伤心",
+      "transcription": "[—]",
+      "exampleSentence": "Triste é um exemplo."
+    },
+    {
+      "originalWord": "trabalhar",
+      "translation": "工作",
+      "transcription": "[—]",
+      "exampleSentence": "Trabalhar é um exemplo."
+    },
+    {
+      "originalWord": "viver",
+      "translation": "住",
+      "transcription": "[—]",
+      "exampleSentence": "Viver é um exemplo."
+    },
+    {
+      "originalWord": "comer",
+      "translation": "吃",
+      "transcription": "[—]",
+      "exampleSentence": "Comer é um exemplo."
+    },
+    {
+      "originalWord": "beber",
+      "translation": "喝",
+      "transcription": "[—]",
+      "exampleSentence": "Beber é um exemplo."
+    },
+    {
+      "originalWord": "água",
+      "translation": "水",
+      "transcription": "[—]",
+      "exampleSentence": "Água é um exemplo."
+    },
+    {
+      "originalWord": "casa",
+      "translation": "家",
+      "transcription": "[—]",
+      "exampleSentence": "Casa é um exemplo."
+    },
+    {
+      "originalWord": "cidade",
+      "translation": "城市",
+      "transcription": "[—]",
+      "exampleSentence": "Cidade é um exemplo."
+    },
+    {
+      "originalWord": "tempo",
+      "translation": "时间",
+      "transcription": "[—]",
+      "exampleSentence": "Tempo é um exemplo."
+    },
+    {
+      "originalWord": "semana",
+      "translation": "周",
+      "transcription": "[—]",
+      "exampleSentence": "Semana é um exemplo."
+    },
+    {
+      "originalWord": "mês",
+      "translation": "月",
+      "transcription": "[—]",
+      "exampleSentence": "Mês é um exemplo."
+    },
+    {
+      "originalWord": "aqui",
+      "translation": "这里",
+      "transcription": "[—]",
+      "exampleSentence": "Aqui é um exemplo."
+    },
+    {
+      "originalWord": "ali",
+      "translation": "那里",
+      "transcription": "[—]",
+      "exampleSentence": "Ali é um exemplo."
+    }
+  ]
+}

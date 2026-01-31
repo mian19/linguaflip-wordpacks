@@ -1,0 +1,606 @@
+{
+  "packId": "it_en_common_100",
+  "version": "1.0",
+  "words": [
+    {
+      "originalWord": "ciao",
+      "translation": "hello",
+      "transcription": "[ˈtʃaːo]",
+      "exampleSentence": "Ciao, come stai?"
+    },
+    {
+      "originalWord": "ciao",
+      "translation": "hi",
+      "transcription": "[ˈtʃaːo]",
+      "exampleSentence": "Ciao, piacere di conoscerti."
+    },
+    {
+      "originalWord": "buongiorno",
+      "translation": "good morning",
+      "transcription": "[bwɔnˈdʒorno]",
+      "exampleSentence": "Buongiorno a tutti."
+    },
+    {
+      "originalWord": "buon pomeriggio",
+      "translation": "good afternoon",
+      "transcription": "[bwɔn pomeˈriddʒo]",
+      "exampleSentence": "Buon pomeriggio, signor Rossi."
+    },
+    {
+      "originalWord": "buonasera",
+      "translation": "good evening",
+      "transcription": "[bwɔnaˈseːra]",
+      "exampleSentence": "Buonasera, benvenuto."
+    },
+    {
+      "originalWord": "buonanotte",
+      "translation": "good night",
+      "transcription": "[bwɔnaˈnɔtte]",
+      "exampleSentence": "Buonanotte, dormi bene."
+    },
+    {
+      "originalWord": "arrivederci",
+      "translation": "goodbye",
+      "transcription": "[arriveˈdɛrtʃi]",
+      "exampleSentence": "Arrivederci, a domani."
+    },
+    {
+      "originalWord": "a dopo",
+      "translation": "see you later",
+      "transcription": "[a ˈdɔːpo]",
+      "exampleSentence": "A dopo, abbi cura di te."
+    },
+    {
+      "originalWord": "per favore",
+      "translation": "please",
+      "transcription": "[per faˈvoːre]",
+      "exampleSentence": "Per favore, siediti."
+    },
+    {
+      "originalWord": "grazie",
+      "translation": "thank you",
+      "transcription": "[ˈɡrattsje]",
+      "exampleSentence": "Grazie per il tuo aiuto."
+    },
+    {
+      "originalWord": "prego",
+      "translation": "you're welcome",
+      "transcription": "[ˈpreːɡo]",
+      "exampleSentence": "Prego, nessun problema."
+    },
+    {
+      "originalWord": "scusi",
+      "translation": "excuse me",
+      "transcription": "[ˈskuːzi]",
+      "exampleSentence": "Scusi, dov'è il bagno?"
+    },
+    {
+      "originalWord": "mi dispiace",
+      "translation": "sorry",
+      "transcription": "[mi disˈpjaːtʃe]",
+      "exampleSentence": "Mi dispiace, sono in ritardo."
+    },
+    {
+      "originalWord": "sì",
+      "translation": "yes",
+      "transcription": "[siː]",
+      "exampleSentence": "Sì, capisco."
+    },
+    {
+      "originalWord": "no",
+      "translation": "no",
+      "transcription": "[no]",
+      "exampleSentence": "No, non lo voglio."
+    },
+    {
+      "originalWord": "forse",
+      "translation": "maybe",
+      "transcription": "[ˈfɔrze]",
+      "exampleSentence": "Forse più tardi."
+    },
+    {
+      "originalWord": "va bene",
+      "translation": "okay",
+      "transcription": "[va ˈbɛːne]",
+      "exampleSentence": "Va bene, iniziamo."
+    },
+    {
+      "originalWord": "aiuto, per favore",
+      "translation": "please help",
+      "transcription": "[aˈjuːto per faˈvoːre]",
+      "exampleSentence": "Aiuto, per favore."
+    },
+    {
+      "originalWord": "non capisco",
+      "translation": "I don't understand",
+      "transcription": "[non kaˈpisko]",
+      "exampleSentence": "Mi dispiace, non capisco."
+    },
+    {
+      "originalWord": "parla inglese?",
+      "translation": "do you speak English?",
+      "transcription": "[ˈparla inˈɡleːze]",
+      "exampleSentence": "Parla inglese?"
+    },
+    {
+      "originalWord": "zero",
+      "translation": "zero",
+      "transcription": "[ˈdzɛːro]",
+      "exampleSentence": "Zero è il primo numero."
+    },
+    {
+      "originalWord": "uno",
+      "translation": "one",
+      "transcription": "[ˈuːno]",
+      "exampleSentence": "Ho uno mele."
+    },
+    {
+      "originalWord": "due",
+      "translation": "two",
+      "transcription": "[ˈduːe]",
+      "exampleSentence": "Ho due mele."
+    },
+    {
+      "originalWord": "tre",
+      "translation": "three",
+      "transcription": "[tre]",
+      "exampleSentence": "Ho tre mele."
+    },
+    {
+      "originalWord": "quattro",
+      "translation": "four",
+      "transcription": "[ˈkwattro]",
+      "exampleSentence": "Ho quattro mele."
+    },
+    {
+      "originalWord": "cinque",
+      "translation": "five",
+      "transcription": "[ˈtʃiŋkwe]",
+      "exampleSentence": "Ho cinque mele."
+    },
+    {
+      "originalWord": "sei",
+      "translation": "six",
+      "transcription": "[sɛi]",
+      "exampleSentence": "Ho sei mele."
+    },
+    {
+      "originalWord": "sette",
+      "translation": "seven",
+      "transcription": "[ˈsɛtte]",
+      "exampleSentence": "Ho sette mele."
+    },
+    {
+      "originalWord": "otto",
+      "translation": "eight",
+      "transcription": "[ˈɔtto]",
+      "exampleSentence": "Ho otto mele."
+    },
+    {
+      "originalWord": "nove",
+      "translation": "nine",
+      "transcription": "[ˈnɔve]",
+      "exampleSentence": "Ho nove mele."
+    },
+    {
+      "originalWord": "dieci",
+      "translation": "ten",
+      "transcription": "[ˈdjɛːtʃi]",
+      "exampleSentence": "Ho dieci mele."
+    },
+    {
+      "originalWord": "undici",
+      "translation": "eleven",
+      "transcription": "[ˈunditʃi]",
+      "exampleSentence": "Ho undici mele."
+    },
+    {
+      "originalWord": "dodici",
+      "translation": "twelve",
+      "transcription": "[ˈdoːditʃi]",
+      "exampleSentence": "Ho dodici mele."
+    },
+    {
+      "originalWord": "tredici",
+      "translation": "thirteen",
+      "transcription": "[ˈtreːditʃi]",
+      "exampleSentence": "Ho tredici mele."
+    },
+    {
+      "originalWord": "quattordici",
+      "translation": "fourteen",
+      "transcription": "[kwattorˈdiːtʃi]",
+      "exampleSentence": "Ho quattordici mele."
+    },
+    {
+      "originalWord": "quindici",
+      "translation": "fifteen",
+      "transcription": "[ˈkwinditʃi]",
+      "exampleSentence": "Ho quindici mele."
+    },
+    {
+      "originalWord": "sedici",
+      "translation": "sixteen",
+      "transcription": "[ˈsɛditʃi]",
+      "exampleSentence": "Ho sedici mele."
+    },
+    {
+      "originalWord": "diciassette",
+      "translation": "seventeen",
+      "transcription": "[ditʃasˈsɛtte]",
+      "exampleSentence": "Ho diciassette mele."
+    },
+    {
+      "originalWord": "diciotto",
+      "translation": "eighteen",
+      "transcription": "[ditʃiˈɔtto]",
+      "exampleSentence": "Ho diciotto mele."
+    },
+    {
+      "originalWord": "diciannove",
+      "translation": "nineteen",
+      "transcription": "[ditʃanˈnɔve]",
+      "exampleSentence": "Ho diciannove mele."
+    },
+    {
+      "originalWord": "venti",
+      "translation": "twenty",
+      "transcription": "[ˈvɛnti]",
+      "exampleSentence": "Ho venti mele."
+    },
+    {
+      "originalWord": "rosso",
+      "translation": "red",
+      "transcription": "[ˈrosso]",
+      "exampleSentence": "La mia macchina è rosso."
+    },
+    {
+      "originalWord": "blu",
+      "translation": "blue",
+      "transcription": "[blu]",
+      "exampleSentence": "La mia macchina è blu."
+    },
+    {
+      "originalWord": "verde",
+      "translation": "green",
+      "transcription": "[ˈvɛrde]",
+      "exampleSentence": "La mia macchina è verde."
+    },
+    {
+      "originalWord": "giallo",
+      "translation": "yellow",
+      "transcription": "[ˈdʒallo]",
+      "exampleSentence": "La mia macchina è giallo."
+    },
+    {
+      "originalWord": "nero",
+      "translation": "black",
+      "transcription": "[ˈneːro]",
+      "exampleSentence": "La mia macchina è nero."
+    },
+    {
+      "originalWord": "bianco",
+      "translation": "white",
+      "transcription": "[ˈbjaŋko]",
+      "exampleSentence": "La mia macchina è bianco."
+    },
+    {
+      "originalWord": "arancione",
+      "translation": "orange",
+      "transcription": "[aranˈtʃoːne]",
+      "exampleSentence": "La mia macchina è arancione."
+    },
+    {
+      "originalWord": "viola",
+      "translation": "purple",
+      "transcription": "[ˈvjɔla]",
+      "exampleSentence": "La mia macchina è viola."
+    },
+    {
+      "originalWord": "rosa",
+      "translation": "pink",
+      "transcription": "[ˈrɔza]",
+      "exampleSentence": "La mia macchina è rosa."
+    },
+    {
+      "originalWord": "marrone",
+      "translation": "brown",
+      "transcription": "[marˈroːne]",
+      "exampleSentence": "La mia macchina è marrone."
+    },
+    {
+      "originalWord": "grigio",
+      "translation": "gray",
+      "transcription": "[ˈɡriːdʒo]",
+      "exampleSentence": "La mia macchina è grigio."
+    },
+    {
+      "originalWord": "famiglia",
+      "translation": "family",
+      "transcription": "[faˈmiʎʎa]",
+      "exampleSentence": "La mia famiglia è grande."
+    },
+    {
+      "originalWord": "madre",
+      "translation": "mother",
+      "transcription": "[ˈmaːdre]",
+      "exampleSentence": "Mia madre è gentile."
+    },
+    {
+      "originalWord": "padre",
+      "translation": "father",
+      "transcription": "[ˈpaːdre]",
+      "exampleSentence": "Mio padre lavora molto."
+    },
+    {
+      "originalWord": "genitori",
+      "translation": "parents",
+      "transcription": "[dʒeniˈtoːri]",
+      "exampleSentence": "I miei genitori vivono vicino."
+    },
+    {
+      "originalWord": "figlio",
+      "translation": "son",
+      "transcription": "[ˈfiʎʎo]",
+      "exampleSentence": "Il loro figlio è a scuola."
+    },
+    {
+      "originalWord": "figlia",
+      "translation": "daughter",
+      "transcription": "[ˈfiʎʎa]",
+      "exampleSentence": "Sua figlia ha cinque anni."
+    },
+    {
+      "originalWord": "fratello",
+      "translation": "brother",
+      "transcription": "[fraˈtɛllo]",
+      "exampleSentence": "Mio fratello ama la musica."
+    },
+    {
+      "originalWord": "sorella",
+      "translation": "sister",
+      "transcription": "[soˈrɛlla]",
+      "exampleSentence": "Mia sorella è gentile."
+    },
+    {
+      "originalWord": "marito",
+      "translation": "husband",
+      "transcription": "[maˈriːto]",
+      "exampleSentence": "Suo marito è medico."
+    },
+    {
+      "originalWord": "moglie",
+      "translation": "wife",
+      "transcription": "[ˈmoʎʎe]",
+      "exampleSentence": "Mia moglie è al lavoro."
+    },
+    {
+      "originalWord": "bambino",
+      "translation": "child",
+      "transcription": "[bamˈbiːno]",
+      "exampleSentence": "Quel bambino è felice."
+    },
+    {
+      "originalWord": "amico",
+      "translation": "friend",
+      "transcription": "[aˈmiːko]",
+      "exampleSentence": "Sei mio amico."
+    },
+    {
+      "originalWord": "tempo",
+      "translation": "time",
+      "transcription": "[ˈtɛmppo]",
+      "exampleSentence": "Che ore sono?"
+    },
+    {
+      "originalWord": "oggi",
+      "translation": "today",
+      "transcription": "[ˈɔddʒi]",
+      "exampleSentence": "Oggi è una buona giornata."
+    },
+    {
+      "originalWord": "domani",
+      "translation": "tomorrow",
+      "transcription": "[doˈmaːni]",
+      "exampleSentence": "Domani studierò."
+    },
+    {
+      "originalWord": "ieri",
+      "translation": "yesterday",
+      "transcription": "[ˈjɛːri]",
+      "exampleSentence": "Ieri ero occupato."
+    },
+    {
+      "originalWord": "adesso",
+      "translation": "now",
+      "transcription": "[aˈdɛsso]",
+      "exampleSentence": "Mi serve adesso."
+    },
+    {
+      "originalWord": "più tardi",
+      "translation": "later",
+      "transcription": "[pju tarˈdi]",
+      "exampleSentence": "Ti chiamo più tardi."
+    },
+    {
+      "originalWord": "presto",
+      "translation": "early",
+      "transcription": "[ˈprɛsto]",
+      "exampleSentence": "Mi sveglio presto."
+    },
+    {
+      "originalWord": "tardi",
+      "translation": "late",
+      "transcription": "[ˈtardi]",
+      "exampleSentence": "L'autobus è in ritardo."
+    },
+    {
+      "originalWord": "mattina",
+      "translation": "morning",
+      "transcription": "[matˈtiːna]",
+      "exampleSentence": "Bevo caffè la mattina."
+    },
+    {
+      "originalWord": "pomeriggio",
+      "translation": "afternoon",
+      "transcription": "[pomeˈriddʒo]",
+      "exampleSentence": "Lavoro nel pomeriggio."
+    },
+    {
+      "originalWord": "sera",
+      "translation": "evening",
+      "transcription": "[ˈseːra]",
+      "exampleSentence": "Passeggiamo la sera."
+    },
+    {
+      "originalWord": "notte",
+      "translation": "night",
+      "transcription": "[ˈnɔtte]",
+      "exampleSentence": "Di notte leggo un libro."
+    },
+    {
+      "originalWord": "ora",
+      "translation": "hour",
+      "transcription": "[ˈoːra]",
+      "exampleSentence": "Ci vuole un'ora."
+    },
+    {
+      "originalWord": "minuto",
+      "translation": "minute",
+      "transcription": "[miˈnuːto]",
+      "exampleSentence": "Aspetta un minuto, per favore."
+    },
+    {
+      "originalWord": "giorno",
+      "translation": "day",
+      "transcription": "[ˈdʒorno]",
+      "exampleSentence": "Buona giornata!"
+    },
+    {
+      "originalWord": "settimana",
+      "translation": "week",
+      "transcription": "[settiˈmaːna]",
+      "exampleSentence": "Ho una settimana piena."
+    },
+    {
+      "originalWord": "mese",
+      "translation": "month",
+      "transcription": "[ˈmeːze]",
+      "exampleSentence": "Questo mese fa freddo."
+    },
+    {
+      "originalWord": "anno",
+      "translation": "year",
+      "transcription": "[ˈanno]",
+      "exampleSentence": "Il prossimo anno sarà migliore."
+    },
+    {
+      "originalWord": "essere",
+      "translation": "to be",
+      "transcription": "[ˈɛssere]",
+      "exampleSentence": "Sono felice oggi."
+    },
+    {
+      "originalWord": "avere",
+      "translation": "to have",
+      "transcription": "[aˈveːre]",
+      "exampleSentence": "Ho una domanda."
+    },
+    {
+      "originalWord": "fare",
+      "translation": "to do",
+      "transcription": "[ˈfaːre]",
+      "exampleSentence": "Cosa fai nel fine settimana?"
+    },
+    {
+      "originalWord": "andare",
+      "translation": "to go",
+      "transcription": "[anˈdaːre]",
+      "exampleSentence": "Vado a scuola ogni giorno."
+    },
+    {
+      "originalWord": "venire",
+      "translation": "to come",
+      "transcription": "[veˈniːre]",
+      "exampleSentence": "Per favore, vieni qui."
+    },
+    {
+      "originalWord": "volere",
+      "translation": "to want",
+      "transcription": "[voˈleːre]",
+      "exampleSentence": "Voglio dell'acqua."
+    },
+    {
+      "originalWord": "avere bisogno",
+      "translation": "to need",
+      "transcription": "[aˈveːre biˈzoɲɲo]",
+      "exampleSentence": "Ho bisogno di aiuto."
+    },
+    {
+      "originalWord": "piacere",
+      "translation": "to like",
+      "transcription": "[pjaˈtʃeːre]",
+      "exampleSentence": "Mi piace questa canzone."
+    },
+    {
+      "originalWord": "amare",
+      "translation": "to love",
+      "transcription": "[aˈmaːre]",
+      "exampleSentence": "Amo la mia famiglia."
+    },
+    {
+      "originalWord": "vedere",
+      "translation": "to see",
+      "transcription": "[veˈdeːre]",
+      "exampleSentence": "Vedo l'autobus."
+    },
+    {
+      "originalWord": "buono",
+      "translation": "good",
+      "transcription": "[ˈbwɔno]",
+      "exampleSentence": "È una buona idea."
+    },
+    {
+      "originalWord": "cattivo",
+      "translation": "bad",
+      "transcription": "[katˈtiːvo]",
+      "exampleSentence": "Il tempo è cattivo oggi."
+    },
+    {
+      "originalWord": "grande",
+      "translation": "big",
+      "transcription": "[ˈɡrande]",
+      "exampleSentence": "È una casa grande."
+    },
+    {
+      "originalWord": "piccolo",
+      "translation": "small",
+      "transcription": "[ˈpikkolo]",
+      "exampleSentence": "Ho un cane piccolo."
+    },
+    {
+      "originalWord": "nuovo",
+      "translation": "new",
+      "transcription": "[ˈnwɔvo]",
+      "exampleSentence": "Ho comprato un telefono nuovo."
+    },
+    {
+      "originalWord": "vecchio",
+      "translation": "old",
+      "transcription": "[ˈvɛkkjo]",
+      "exampleSentence": "La mia macchina è vecchia."
+    },
+    {
+      "originalWord": "caldo",
+      "translation": "hot",
+      "transcription": "[ˈkaldo]",
+      "exampleSentence": "Il caffè è caldo."
+    },
+    {
+      "originalWord": "freddo",
+      "translation": "cold",
+      "transcription": "[ˈfreddo]",
+      "exampleSentence": "L'acqua è fredda."
+    }
+  ]
+}

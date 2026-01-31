@@ -1,0 +1,606 @@
+{
+  "packId": "ru_zh_common_100",
+  "version": "1.0",
+  "words": [
+    {
+      "originalWord": "привет",
+      "translation": "你好",
+      "transcription": "[—]",
+      "exampleSentence": "Привет — пример."
+    },
+    {
+      "originalWord": "доброе утро",
+      "translation": "早上好",
+      "transcription": "[—]",
+      "exampleSentence": "Доброе утро — пример."
+    },
+    {
+      "originalWord": "добрый день",
+      "translation": "下午好",
+      "transcription": "[—]",
+      "exampleSentence": "Добрый день — пример."
+    },
+    {
+      "originalWord": "добрый вечер",
+      "translation": "晚上好",
+      "transcription": "[—]",
+      "exampleSentence": "Добрый вечер — пример."
+    },
+    {
+      "originalWord": "до свидания",
+      "translation": "再见",
+      "transcription": "[—]",
+      "exampleSentence": "До свидания — пример."
+    },
+    {
+      "originalWord": "увидимся позже",
+      "translation": "一会儿见",
+      "transcription": "[—]",
+      "exampleSentence": "Увидимся позже — пример."
+    },
+    {
+      "originalWord": "пожалуйста",
+      "translation": "请",
+      "transcription": "[—]",
+      "exampleSentence": "Пожалуйста — пример."
+    },
+    {
+      "originalWord": "спасибо",
+      "translation": "谢谢",
+      "transcription": "[—]",
+      "exampleSentence": "Спасибо — пример."
+    },
+    {
+      "originalWord": "не за что",
+      "translation": "不客气",
+      "transcription": "[—]",
+      "exampleSentence": "Не за что — пример."
+    },
+    {
+      "originalWord": "извини",
+      "translation": "对不起",
+      "transcription": "[—]",
+      "exampleSentence": "Извини — пример."
+    },
+    {
+      "originalWord": "да",
+      "translation": "是",
+      "transcription": "[—]",
+      "exampleSentence": "Да — пример."
+    },
+    {
+      "originalWord": "нет",
+      "translation": "不是",
+      "transcription": "[—]",
+      "exampleSentence": "Нет — пример."
+    },
+    {
+      "originalWord": "может быть",
+      "translation": "也许",
+      "transcription": "[—]",
+      "exampleSentence": "Может быть — пример."
+    },
+    {
+      "originalWord": "хорошо",
+      "translation": "好的",
+      "transcription": "[—]",
+      "exampleSentence": "Хорошо — пример."
+    },
+    {
+      "originalWord": "помощь",
+      "translation": "帮忙",
+      "transcription": "[—]",
+      "exampleSentence": "Помощь — пример."
+    },
+    {
+      "originalWord": "я не понимаю",
+      "translation": "我不懂",
+      "transcription": "[—]",
+      "exampleSentence": "Я не понимаю — пример."
+    },
+    {
+      "originalWord": "вы говорите по-английски?",
+      "translation": "你会说英语吗",
+      "transcription": "[—]",
+      "exampleSentence": "Вы говорите по-английски? — пример."
+    },
+    {
+      "originalWord": "хорошо",
+      "translation": "好",
+      "transcription": "[—]",
+      "exampleSentence": "Хорошо — пример."
+    },
+    {
+      "originalWord": "плохо",
+      "translation": "坏",
+      "transcription": "[—]",
+      "exampleSentence": "Плохо — пример."
+    },
+    {
+      "originalWord": "друг",
+      "translation": "朋友",
+      "transcription": "[—]",
+      "exampleSentence": "Друг — пример."
+    },
+    {
+      "originalWord": "один",
+      "translation": "一",
+      "transcription": "[—]",
+      "exampleSentence": "Один — пример."
+    },
+    {
+      "originalWord": "два",
+      "translation": "二",
+      "transcription": "[—]",
+      "exampleSentence": "Два — пример."
+    },
+    {
+      "originalWord": "три",
+      "translation": "三",
+      "transcription": "[—]",
+      "exampleSentence": "Три — пример."
+    },
+    {
+      "originalWord": "четыре",
+      "translation": "四",
+      "transcription": "[—]",
+      "exampleSentence": "Четыре — пример."
+    },
+    {
+      "originalWord": "пять",
+      "translation": "五",
+      "transcription": "[—]",
+      "exampleSentence": "Пять — пример."
+    },
+    {
+      "originalWord": "шесть",
+      "translation": "六",
+      "transcription": "[—]",
+      "exampleSentence": "Шесть — пример."
+    },
+    {
+      "originalWord": "семь",
+      "translation": "七",
+      "transcription": "[—]",
+      "exampleSentence": "Семь — пример."
+    },
+    {
+      "originalWord": "восемь",
+      "translation": "八",
+      "transcription": "[—]",
+      "exampleSentence": "Восемь — пример."
+    },
+    {
+      "originalWord": "девять",
+      "translation": "九",
+      "transcription": "[—]",
+      "exampleSentence": "Девять — пример."
+    },
+    {
+      "originalWord": "десять",
+      "translation": "十",
+      "transcription": "[—]",
+      "exampleSentence": "Десять — пример."
+    },
+    {
+      "originalWord": "одиннадцать",
+      "translation": "十一",
+      "transcription": "[—]",
+      "exampleSentence": "Одиннадцать — пример."
+    },
+    {
+      "originalWord": "двенадцать",
+      "translation": "十二",
+      "transcription": "[—]",
+      "exampleSentence": "Двенадцать — пример."
+    },
+    {
+      "originalWord": "тринадцать",
+      "translation": "十三",
+      "transcription": "[—]",
+      "exampleSentence": "Тринадцать — пример."
+    },
+    {
+      "originalWord": "четырнадцать",
+      "translation": "十四",
+      "transcription": "[—]",
+      "exampleSentence": "Четырнадцать — пример."
+    },
+    {
+      "originalWord": "пятнадцать",
+      "translation": "十五",
+      "transcription": "[—]",
+      "exampleSentence": "Пятнадцать — пример."
+    },
+    {
+      "originalWord": "шестнадцать",
+      "translation": "十六",
+      "transcription": "[—]",
+      "exampleSentence": "Шестнадцать — пример."
+    },
+    {
+      "originalWord": "семнадцать",
+      "translation": "十七",
+      "transcription": "[—]",
+      "exampleSentence": "Семнадцать — пример."
+    },
+    {
+      "originalWord": "восемнадцать",
+      "translation": "十八",
+      "transcription": "[—]",
+      "exampleSentence": "Восемнадцать — пример."
+    },
+    {
+      "originalWord": "девятнадцать",
+      "translation": "十九",
+      "transcription": "[—]",
+      "exampleSentence": "Девятнадцать — пример."
+    },
+    {
+      "originalWord": "двадцать",
+      "translation": "二十",
+      "transcription": "[—]",
+      "exampleSentence": "Двадцать — пример."
+    },
+    {
+      "originalWord": "красный",
+      "translation": "红色",
+      "transcription": "[—]",
+      "exampleSentence": "Красный — пример."
+    },
+    {
+      "originalWord": "синий",
+      "translation": "蓝色",
+      "transcription": "[—]",
+      "exampleSentence": "Синий — пример."
+    },
+    {
+      "originalWord": "зелёный",
+      "translation": "绿色",
+      "transcription": "[—]",
+      "exampleSentence": "Зелёный — пример."
+    },
+    {
+      "originalWord": "жёлтый",
+      "translation": "黄色",
+      "transcription": "[—]",
+      "exampleSentence": "Жёлтый — пример."
+    },
+    {
+      "originalWord": "чёрный",
+      "translation": "黑色",
+      "transcription": "[—]",
+      "exampleSentence": "Чёрный — пример."
+    },
+    {
+      "originalWord": "белый",
+      "translation": "白色",
+      "transcription": "[—]",
+      "exampleSentence": "Белый — пример."
+    },
+    {
+      "originalWord": "розовый",
+      "translation": "粉色",
+      "transcription": "[—]",
+      "exampleSentence": "Розовый — пример."
+    },
+    {
+      "originalWord": "коричневый",
+      "translation": "棕色",
+      "transcription": "[—]",
+      "exampleSentence": "Коричневый — пример."
+    },
+    {
+      "originalWord": "серый",
+      "translation": "灰色",
+      "transcription": "[—]",
+      "exampleSentence": "Серый — пример."
+    },
+    {
+      "originalWord": "оранжевый",
+      "translation": "橙色",
+      "transcription": "[—]",
+      "exampleSentence": "Оранжевый — пример."
+    },
+    {
+      "originalWord": "семья",
+      "translation": "家庭",
+      "transcription": "[—]",
+      "exampleSentence": "Семья — пример."
+    },
+    {
+      "originalWord": "мама",
+      "translation": "妈妈",
+      "transcription": "[—]",
+      "exampleSentence": "Мама — пример."
+    },
+    {
+      "originalWord": "папа",
+      "translation": "爸爸",
+      "transcription": "[—]",
+      "exampleSentence": "Папа — пример."
+    },
+    {
+      "originalWord": "сын",
+      "translation": "儿子",
+      "transcription": "[—]",
+      "exampleSentence": "Сын — пример."
+    },
+    {
+      "originalWord": "дочь",
+      "translation": "女儿",
+      "transcription": "[—]",
+      "exampleSentence": "Дочь — пример."
+    },
+    {
+      "originalWord": "брат",
+      "translation": "兄弟",
+      "transcription": "[—]",
+      "exampleSentence": "Брат — пример."
+    },
+    {
+      "originalWord": "сестра",
+      "translation": "姐妹",
+      "transcription": "[—]",
+      "exampleSentence": "Сестра — пример."
+    },
+    {
+      "originalWord": "друг",
+      "translation": "朋友",
+      "transcription": "[—]",
+      "exampleSentence": "Друг — пример."
+    },
+    {
+      "originalWord": "ребёнок",
+      "translation": "孩子",
+      "transcription": "[—]",
+      "exampleSentence": "Ребёнок — пример."
+    },
+    {
+      "originalWord": "родители",
+      "translation": "父母",
+      "transcription": "[—]",
+      "exampleSentence": "Родители — пример."
+    },
+    {
+      "originalWord": "сегодня",
+      "translation": "今天",
+      "transcription": "[—]",
+      "exampleSentence": "Сегодня — пример."
+    },
+    {
+      "originalWord": "завтра",
+      "translation": "明天",
+      "transcription": "[—]",
+      "exampleSentence": "Завтра — пример."
+    },
+    {
+      "originalWord": "вчера",
+      "translation": "昨天",
+      "transcription": "[—]",
+      "exampleSentence": "Вчера — пример."
+    },
+    {
+      "originalWord": "сейчас",
+      "translation": "现在",
+      "transcription": "[—]",
+      "exampleSentence": "Сейчас — пример."
+    },
+    {
+      "originalWord": "поздно",
+      "translation": "晚",
+      "transcription": "[—]",
+      "exampleSentence": "Поздно — пример."
+    },
+    {
+      "originalWord": "рано",
+      "translation": "早",
+      "transcription": "[—]",
+      "exampleSentence": "Рано — пример."
+    },
+    {
+      "originalWord": "день",
+      "translation": "天",
+      "transcription": "[—]",
+      "exampleSentence": "День — пример."
+    },
+    {
+      "originalWord": "ночь",
+      "translation": "夜",
+      "transcription": "[—]",
+      "exampleSentence": "Ночь — пример."
+    },
+    {
+      "originalWord": "год",
+      "translation": "年",
+      "transcription": "[—]",
+      "exampleSentence": "Год — пример."
+    },
+    {
+      "originalWord": "быть",
+      "translation": "是",
+      "transcription": "[—]",
+      "exampleSentence": "Быть — пример."
+    },
+    {
+      "originalWord": "иметь",
+      "translation": "有",
+      "transcription": "[—]",
+      "exampleSentence": "Иметь — пример."
+    },
+    {
+      "originalWord": "делать",
+      "translation": "做",
+      "transcription": "[—]",
+      "exampleSentence": "Делать — пример."
+    },
+    {
+      "originalWord": "идти",
+      "translation": "去",
+      "transcription": "[—]",
+      "exampleSentence": "Идти — пример."
+    },
+    {
+      "originalWord": "приходить",
+      "translation": "来",
+      "transcription": "[—]",
+      "exampleSentence": "Приходить — пример."
+    },
+    {
+      "originalWord": "хотеть",
+      "translation": "想要",
+      "transcription": "[—]",
+      "exampleSentence": "Хотеть — пример."
+    },
+    {
+      "originalWord": "нравиться",
+      "translation": "喜欢",
+      "transcription": "[—]",
+      "exampleSentence": "Нравиться — пример."
+    },
+    {
+      "originalWord": "хороший",
+      "translation": "好",
+      "transcription": "[—]",
+      "exampleSentence": "Хороший — пример."
+    },
+    {
+      "originalWord": "плохой",
+      "translation": "坏",
+      "transcription": "[—]",
+      "exampleSentence": "Плохой — пример."
+    },
+    {
+      "originalWord": "большой",
+      "translation": "大",
+      "transcription": "[—]",
+      "exampleSentence": "Большой — пример."
+    },
+    {
+      "originalWord": "маленький",
+      "translation": "小",
+      "transcription": "[—]",
+      "exampleSentence": "Маленький — пример."
+    },
+    {
+      "originalWord": "новый",
+      "translation": "新",
+      "transcription": "[—]",
+      "exampleSentence": "Новый — пример."
+    },
+    {
+      "originalWord": "старый",
+      "translation": "老",
+      "transcription": "[—]",
+      "exampleSentence": "Старый — пример."
+    },
+    {
+      "originalWord": "горячий",
+      "translation": "热",
+      "transcription": "[—]",
+      "exampleSentence": "Горячий — пример."
+    },
+    {
+      "originalWord": "холодный",
+      "translation": "冷",
+      "transcription": "[—]",
+      "exampleSentence": "Холодный — пример."
+    },
+    {
+      "originalWord": "быстрый",
+      "translation": "快",
+      "transcription": "[—]",
+      "exampleSentence": "Быстрый — пример."
+    },
+    {
+      "originalWord": "медленный",
+      "translation": "慢",
+      "transcription": "[—]",
+      "exampleSentence": "Медленный — пример."
+    },
+    {
+      "originalWord": "счастливый",
+      "translation": "开心",
+      "transcription": "[—]",
+      "exampleSentence": "Счастливый — пример."
+    },
+    {
+      "originalWord": "грустный",
+      "translation": "伤心",
+      "transcription": "[—]",
+      "exampleSentence": "Грустный — пример."
+    },
+    {
+      "originalWord": "работать",
+      "translation": "工作",
+      "transcription": "[—]",
+      "exampleSentence": "Работать — пример."
+    },
+    {
+      "originalWord": "жить",
+      "translation": "住",
+      "transcription": "[—]",
+      "exampleSentence": "Жить — пример."
+    },
+    {
+      "originalWord": "есть",
+      "translation": "吃",
+      "transcription": "[—]",
+      "exampleSentence": "Есть — пример."
+    },
+    {
+      "originalWord": "пить",
+      "translation": "喝",
+      "transcription": "[—]",
+      "exampleSentence": "Пить — пример."
+    },
+    {
+      "originalWord": "вода",
+      "translation": "水",
+      "transcription": "[—]",
+      "exampleSentence": "Вода — пример."
+    },
+    {
+      "originalWord": "дом",
+      "translation": "家",
+      "transcription": "[—]",
+      "exampleSentence": "Дом — пример."
+    },
+    {
+      "originalWord": "город",
+      "translation": "城市",
+      "transcription": "[—]",
+      "exampleSentence": "Город — пример."
+    },
+    {
+      "originalWord": "время",
+      "translation": "时间",
+      "transcription": "[—]",
+      "exampleSentence": "Время — пример."
+    },
+    {
+      "originalWord": "неделя",
+      "translation": "周",
+      "transcription": "[—]",
+      "exampleSentence": "Неделя — пример."
+    },
+    {
+      "originalWord": "месяц",
+      "translation": "月",
+      "transcription": "[—]",
+      "exampleSentence": "Месяц — пример."
+    },
+    {
+      "originalWord": "здесь",
+      "translation": "这里",
+      "transcription": "[—]",
+      "exampleSentence": "Здесь — пример."
+    },
+    {
+      "originalWord": "там",
+      "translation": "那里",
+      "transcription": "[—]",
+      "exampleSentence": "Там — пример."
+    }
+  ]
+}

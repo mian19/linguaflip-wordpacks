@@ -1,0 +1,606 @@
+{
+  "packId": "tr_en_common_100",
+  "version": "1.0",
+  "words": [
+    {
+      "originalWord": "merhaba",
+      "translation": "hello",
+      "transcription": "[meɾhaˈba]",
+      "exampleSentence": "Merhaba bir örnek cümledir."
+    },
+    {
+      "originalWord": "selam",
+      "translation": "hi",
+      "transcription": "[seˈlam]",
+      "exampleSentence": "Selam bir örnek cümledir."
+    },
+    {
+      "originalWord": "günaydın",
+      "translation": "good morning",
+      "transcription": "[ɟyˈnaj.dɯn]",
+      "exampleSentence": "Günaydın bir örnek cümledir."
+    },
+    {
+      "originalWord": "tünaydın",
+      "translation": "good afternoon",
+      "transcription": "[tyˈnaj.dɯn]",
+      "exampleSentence": "Tünaydın bir örnek cümledir."
+    },
+    {
+      "originalWord": "iyi akşamlar",
+      "translation": "good evening",
+      "transcription": "[iˈji akˈʃam.laɾ]",
+      "exampleSentence": "Iyi akşamlar bir örnek cümledir."
+    },
+    {
+      "originalWord": "iyi geceler",
+      "translation": "good night",
+      "transcription": "[iˈji geˈdʒe.leɾ]",
+      "exampleSentence": "Iyi geceler bir örnek cümledir."
+    },
+    {
+      "originalWord": "hoşça kal",
+      "translation": "goodbye",
+      "transcription": "[hoʃˈtʃa kal]",
+      "exampleSentence": "Hoşça kal bir örnek cümledir."
+    },
+    {
+      "originalWord": "görüşürüz",
+      "translation": "see you later",
+      "transcription": "[ɟœɾyˈʃyɾyz]",
+      "exampleSentence": "Görüşürüz bir örnek cümledir."
+    },
+    {
+      "originalWord": "lütfen",
+      "translation": "please",
+      "transcription": "[lytˈfen]",
+      "exampleSentence": "Lütfen bir örnek cümledir."
+    },
+    {
+      "originalWord": "teşekkür ederim",
+      "translation": "thank you",
+      "transcription": "[teʃekˈkyɾ edeˈɾim]",
+      "exampleSentence": "Teşekkür ederim bir örnek cümledir."
+    },
+    {
+      "originalWord": "rica ederim",
+      "translation": "you're welcome",
+      "transcription": "[ɾiˈdʒa edeˈɾim]",
+      "exampleSentence": "Rica ederim bir örnek cümledir."
+    },
+    {
+      "originalWord": "afedersiniz",
+      "translation": "excuse me",
+      "transcription": "[a.fe.deɾ.siˈniz]",
+      "exampleSentence": "Afedersiniz bir örnek cümledir."
+    },
+    {
+      "originalWord": "üzgünüm",
+      "translation": "sorry",
+      "transcription": "[yzˈgy.nym]",
+      "exampleSentence": "Üzgünüm bir örnek cümledir."
+    },
+    {
+      "originalWord": "evet",
+      "translation": "yes",
+      "transcription": "[eˈvet]",
+      "exampleSentence": "Evet bir örnek cümledir."
+    },
+    {
+      "originalWord": "hayır",
+      "translation": "no",
+      "transcription": "[haˈjɯɾ]",
+      "exampleSentence": "Hayır bir örnek cümledir."
+    },
+    {
+      "originalWord": "belki",
+      "translation": "maybe",
+      "transcription": "[belˈci]",
+      "exampleSentence": "Belki bir örnek cümledir."
+    },
+    {
+      "originalWord": "tamam",
+      "translation": "okay",
+      "transcription": "[taˈmam]",
+      "exampleSentence": "Tamam bir örnek cümledir."
+    },
+    {
+      "originalWord": "lütfen yardım edin",
+      "translation": "please help",
+      "transcription": "[—]",
+      "exampleSentence": "Lütfen yardım edin bir örnek cümledir."
+    },
+    {
+      "originalWord": "anlamıyorum",
+      "translation": "I don't understand",
+      "transcription": "[an.la.mɯˈjo.ɾum]",
+      "exampleSentence": "Anlamıyorum bir örnek cümledir."
+    },
+    {
+      "originalWord": "İngilizce konuşuyor musunuz?",
+      "translation": "do you speak English?",
+      "transcription": "[in.ɟiˈliz.dʒe ko.nuˈʃu.joɾ mu.su.nuz]",
+      "exampleSentence": "İngilizce konuşuyor musunuz? bir örnek cümledir."
+    },
+    {
+      "originalWord": "sıfır",
+      "translation": "zero",
+      "transcription": "[sɯˈfɯɾ]",
+      "exampleSentence": "Sıfır bir örnek cümledir."
+    },
+    {
+      "originalWord": "bir",
+      "translation": "one",
+      "transcription": "[biɾ]",
+      "exampleSentence": "Bir bir örnek cümledir."
+    },
+    {
+      "originalWord": "iki",
+      "translation": "two",
+      "transcription": "[iˈci]",
+      "exampleSentence": "Iki bir örnek cümledir."
+    },
+    {
+      "originalWord": "üç",
+      "translation": "three",
+      "transcription": "[yt͡ʃ]",
+      "exampleSentence": "Üç bir örnek cümledir."
+    },
+    {
+      "originalWord": "dört",
+      "translation": "four",
+      "transcription": "[dœɾt]",
+      "exampleSentence": "Dört bir örnek cümledir."
+    },
+    {
+      "originalWord": "beş",
+      "translation": "five",
+      "transcription": "[beʃ]",
+      "exampleSentence": "Beş bir örnek cümledir."
+    },
+    {
+      "originalWord": "altı",
+      "translation": "six",
+      "transcription": "[alˈtɯ]",
+      "exampleSentence": "Altı bir örnek cümledir."
+    },
+    {
+      "originalWord": "yedi",
+      "translation": "seven",
+      "transcription": "[jeˈdi]",
+      "exampleSentence": "Yedi bir örnek cümledir."
+    },
+    {
+      "originalWord": "sekiz",
+      "translation": "eight",
+      "transcription": "[seˈciz]",
+      "exampleSentence": "Sekiz bir örnek cümledir."
+    },
+    {
+      "originalWord": "dokuz",
+      "translation": "nine",
+      "transcription": "[doˈkuz]",
+      "exampleSentence": "Dokuz bir örnek cümledir."
+    },
+    {
+      "originalWord": "on",
+      "translation": "ten",
+      "transcription": "[on]",
+      "exampleSentence": "On bir örnek cümledir."
+    },
+    {
+      "originalWord": "on bir",
+      "translation": "eleven",
+      "transcription": "[—]",
+      "exampleSentence": "On bir bir örnek cümledir."
+    },
+    {
+      "originalWord": "on iki",
+      "translation": "twelve",
+      "transcription": "[—]",
+      "exampleSentence": "On iki bir örnek cümledir."
+    },
+    {
+      "originalWord": "on üç",
+      "translation": "thirteen",
+      "transcription": "[—]",
+      "exampleSentence": "On üç bir örnek cümledir."
+    },
+    {
+      "originalWord": "on dört",
+      "translation": "fourteen",
+      "transcription": "[—]",
+      "exampleSentence": "On dört bir örnek cümledir."
+    },
+    {
+      "originalWord": "on beş",
+      "translation": "fifteen",
+      "transcription": "[—]",
+      "exampleSentence": "On beş bir örnek cümledir."
+    },
+    {
+      "originalWord": "on altı",
+      "translation": "sixteen",
+      "transcription": "[—]",
+      "exampleSentence": "On altı bir örnek cümledir."
+    },
+    {
+      "originalWord": "on yedi",
+      "translation": "seventeen",
+      "transcription": "[—]",
+      "exampleSentence": "On yedi bir örnek cümledir."
+    },
+    {
+      "originalWord": "on sekiz",
+      "translation": "eighteen",
+      "transcription": "[—]",
+      "exampleSentence": "On sekiz bir örnek cümledir."
+    },
+    {
+      "originalWord": "on dokuz",
+      "translation": "nineteen",
+      "transcription": "[—]",
+      "exampleSentence": "On dokuz bir örnek cümledir."
+    },
+    {
+      "originalWord": "yirmi",
+      "translation": "twenty",
+      "transcription": "[jiɾˈmi]",
+      "exampleSentence": "Yirmi bir örnek cümledir."
+    },
+    {
+      "originalWord": "kırmızı",
+      "translation": "red",
+      "transcription": "[kɯɾ.mɯˈzɯ]",
+      "exampleSentence": "Kırmızı bir örnek cümledir."
+    },
+    {
+      "originalWord": "mavi",
+      "translation": "blue",
+      "transcription": "[maˈvi]",
+      "exampleSentence": "Mavi bir örnek cümledir."
+    },
+    {
+      "originalWord": "yeşil",
+      "translation": "green",
+      "transcription": "[jeˈʃil]",
+      "exampleSentence": "Yeşil bir örnek cümledir."
+    },
+    {
+      "originalWord": "sarı",
+      "translation": "yellow",
+      "transcription": "[saˈɾɯ]",
+      "exampleSentence": "Sarı bir örnek cümledir."
+    },
+    {
+      "originalWord": "siyah",
+      "translation": "black",
+      "transcription": "[siˈjah]",
+      "exampleSentence": "Siyah bir örnek cümledir."
+    },
+    {
+      "originalWord": "beyaz",
+      "translation": "white",
+      "transcription": "[beˈjaz]",
+      "exampleSentence": "Beyaz bir örnek cümledir."
+    },
+    {
+      "originalWord": "turuncu",
+      "translation": "orange",
+      "transcription": "[tuˈɾun.dʒu]",
+      "exampleSentence": "Turuncu bir örnek cümledir."
+    },
+    {
+      "originalWord": "mor",
+      "translation": "purple",
+      "transcription": "[moɾ]",
+      "exampleSentence": "Mor bir örnek cümledir."
+    },
+    {
+      "originalWord": "pembe",
+      "translation": "pink",
+      "transcription": "[pemˈbe]",
+      "exampleSentence": "Pembe bir örnek cümledir."
+    },
+    {
+      "originalWord": "kahverengi",
+      "translation": "brown",
+      "transcription": "[kah.veˈɾen.dʒi]",
+      "exampleSentence": "Kahverengi bir örnek cümledir."
+    },
+    {
+      "originalWord": "gri",
+      "translation": "gray",
+      "transcription": "[ɟɾi]",
+      "exampleSentence": "Gri bir örnek cümledir."
+    },
+    {
+      "originalWord": "aile",
+      "translation": "family",
+      "transcription": "[aˈi.le]",
+      "exampleSentence": "Aile bir örnek cümledir."
+    },
+    {
+      "originalWord": "anne",
+      "translation": "mother",
+      "transcription": "[anˈne]",
+      "exampleSentence": "Anne bir örnek cümledir."
+    },
+    {
+      "originalWord": "baba",
+      "translation": "father",
+      "transcription": "[baˈba]",
+      "exampleSentence": "Baba bir örnek cümledir."
+    },
+    {
+      "originalWord": "ebeveynler",
+      "translation": "parents",
+      "transcription": "[—]",
+      "exampleSentence": "Ebeveynler bir örnek cümledir."
+    },
+    {
+      "originalWord": "oğul",
+      "translation": "son",
+      "transcription": "[oːɫ]",
+      "exampleSentence": "Oğul bir örnek cümledir."
+    },
+    {
+      "originalWord": "kız",
+      "translation": "daughter",
+      "transcription": "[kɯz]",
+      "exampleSentence": "Kız bir örnek cümledir."
+    },
+    {
+      "originalWord": "erkek kardeş",
+      "translation": "brother",
+      "transcription": "[—]",
+      "exampleSentence": "Erkek kardeş bir örnek cümledir."
+    },
+    {
+      "originalWord": "kız kardeş",
+      "translation": "sister",
+      "transcription": "[—]",
+      "exampleSentence": "Kız kardeş bir örnek cümledir."
+    },
+    {
+      "originalWord": "koca",
+      "translation": "husband",
+      "transcription": "[koˈdʒa]",
+      "exampleSentence": "Koca bir örnek cümledir."
+    },
+    {
+      "originalWord": "eş",
+      "translation": "wife",
+      "transcription": "[eʃ]",
+      "exampleSentence": "Eş bir örnek cümledir."
+    },
+    {
+      "originalWord": "çocuk",
+      "translation": "child",
+      "transcription": "[t͡ʃoˈdʒuk]",
+      "exampleSentence": "Çocuk bir örnek cümledir."
+    },
+    {
+      "originalWord": "arkadaş",
+      "translation": "friend",
+      "transcription": "[aɾkaˈdaʃ]",
+      "exampleSentence": "Arkadaş bir örnek cümledir."
+    },
+    {
+      "originalWord": "zaman",
+      "translation": "time",
+      "transcription": "[zaˈman]",
+      "exampleSentence": "Zaman bir örnek cümledir."
+    },
+    {
+      "originalWord": "bugün",
+      "translation": "today",
+      "transcription": "[buˈɟyn]",
+      "exampleSentence": "Bugün bir örnek cümledir."
+    },
+    {
+      "originalWord": "yarın",
+      "translation": "tomorrow",
+      "transcription": "[jaˈɾɯn]",
+      "exampleSentence": "Yarın bir örnek cümledir."
+    },
+    {
+      "originalWord": "dün",
+      "translation": "yesterday",
+      "transcription": "[dyn]",
+      "exampleSentence": "Dün bir örnek cümledir."
+    },
+    {
+      "originalWord": "şimdi",
+      "translation": "now",
+      "transcription": "[ʃimˈdi]",
+      "exampleSentence": "Şimdi bir örnek cümledir."
+    },
+    {
+      "originalWord": "sonra",
+      "translation": "later",
+      "transcription": "[—]",
+      "exampleSentence": "Sonra bir örnek cümledir."
+    },
+    {
+      "originalWord": "erken",
+      "translation": "early",
+      "transcription": "[—]",
+      "exampleSentence": "Erken bir örnek cümledir."
+    },
+    {
+      "originalWord": "geç",
+      "translation": "late",
+      "transcription": "[—]",
+      "exampleSentence": "Geç bir örnek cümledir."
+    },
+    {
+      "originalWord": "sabah",
+      "translation": "morning",
+      "transcription": "[saˈbah]",
+      "exampleSentence": "Sabah bir örnek cümledir."
+    },
+    {
+      "originalWord": "öğleden sonra",
+      "translation": "afternoon",
+      "transcription": "[—]",
+      "exampleSentence": "Öğleden sonra bir örnek cümledir."
+    },
+    {
+      "originalWord": "akşam",
+      "translation": "evening",
+      "transcription": "[akˈʃam]",
+      "exampleSentence": "Akşam bir örnek cümledir."
+    },
+    {
+      "originalWord": "gece",
+      "translation": "night",
+      "transcription": "[ɟeˈdʒe]",
+      "exampleSentence": "Gece bir örnek cümledir."
+    },
+    {
+      "originalWord": "saat",
+      "translation": "hour",
+      "transcription": "[saˈat]",
+      "exampleSentence": "Saat bir örnek cümledir."
+    },
+    {
+      "originalWord": "dakika",
+      "translation": "minute",
+      "transcription": "[—]",
+      "exampleSentence": "Dakika bir örnek cümledir."
+    },
+    {
+      "originalWord": "gün",
+      "translation": "day",
+      "transcription": "[ɟyn]",
+      "exampleSentence": "Gün bir örnek cümledir."
+    },
+    {
+      "originalWord": "hafta",
+      "translation": "week",
+      "transcription": "[hafˈta]",
+      "exampleSentence": "Hafta bir örnek cümledir."
+    },
+    {
+      "originalWord": "ay",
+      "translation": "month",
+      "transcription": "[aj]",
+      "exampleSentence": "Ay bir örnek cümledir."
+    },
+    {
+      "originalWord": "yıl",
+      "translation": "year",
+      "transcription": "[jɯl]",
+      "exampleSentence": "Yıl bir örnek cümledir."
+    },
+    {
+      "originalWord": "olmak",
+      "translation": "to be",
+      "transcription": "[olˈmak]",
+      "exampleSentence": "Olmak bir örnek cümledir."
+    },
+    {
+      "originalWord": "sahip olmak",
+      "translation": "to have",
+      "transcription": "[—]",
+      "exampleSentence": "Sahip olmak bir örnek cümledir."
+    },
+    {
+      "originalWord": "yapmak",
+      "translation": "to do",
+      "transcription": "[japˈmak]",
+      "exampleSentence": "Yapmak bir örnek cümledir."
+    },
+    {
+      "originalWord": "gitmek",
+      "translation": "to go",
+      "transcription": "[gitˈmek]",
+      "exampleSentence": "Gitmek bir örnek cümledir."
+    },
+    {
+      "originalWord": "gelmek",
+      "translation": "to come",
+      "transcription": "[ɟelˈmek]",
+      "exampleSentence": "Gelmek bir örnek cümledir."
+    },
+    {
+      "originalWord": "istemek",
+      "translation": "to want",
+      "transcription": "[is.teˈmek]",
+      "exampleSentence": "Istemek bir örnek cümledir."
+    },
+    {
+      "originalWord": "ihtiyacı olmak",
+      "translation": "to need",
+      "transcription": "[—]",
+      "exampleSentence": "Ihtiyacı olmak bir örnek cümledir."
+    },
+    {
+      "originalWord": "sevmek",
+      "translation": "to like",
+      "transcription": "[sevˈmek]",
+      "exampleSentence": "Sevmek bir örnek cümledir."
+    },
+    {
+      "originalWord": "aşık olmak",
+      "translation": "to love",
+      "transcription": "[—]",
+      "exampleSentence": "Aşık olmak bir örnek cümledir."
+    },
+    {
+      "originalWord": "görmek",
+      "translation": "to see",
+      "transcription": "[ɟœɾˈmek]",
+      "exampleSentence": "Görmek bir örnek cümledir."
+    },
+    {
+      "originalWord": "iyi",
+      "translation": "good",
+      "transcription": "[iˈji]",
+      "exampleSentence": "Iyi bir örnek cümledir."
+    },
+    {
+      "originalWord": "kötü",
+      "translation": "bad",
+      "transcription": "[kœˈty]",
+      "exampleSentence": "Kötü bir örnek cümledir."
+    },
+    {
+      "originalWord": "büyük",
+      "translation": "big",
+      "transcription": "[byˈjyk]",
+      "exampleSentence": "Büyük bir örnek cümledir."
+    },
+    {
+      "originalWord": "küçük",
+      "translation": "small",
+      "transcription": "[cyˈcyk]",
+      "exampleSentence": "Küçük bir örnek cümledir."
+    },
+    {
+      "originalWord": "yeni",
+      "translation": "new",
+      "transcription": "[jeˈni]",
+      "exampleSentence": "Yeni bir örnek cümledir."
+    },
+    {
+      "originalWord": "eski",
+      "translation": "old",
+      "transcription": "[esˈki]",
+      "exampleSentence": "Eski bir örnek cümledir."
+    },
+    {
+      "originalWord": "sıcak",
+      "translation": "hot",
+      "transcription": "[sɯˈdʒak]",
+      "exampleSentence": "Sıcak bir örnek cümledir."
+    },
+    {
+      "originalWord": "soğuk",
+      "translation": "cold",
+      "transcription": "[soˈuk]",
+      "exampleSentence": "Soğuk bir örnek cümledir."
+    }
+  ]
+}

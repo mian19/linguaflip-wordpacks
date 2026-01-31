@@ -1,0 +1,606 @@
+{
+  "packId": "es_pt_common_100",
+  "version": "1.0",
+  "words": [
+    {
+      "originalWord": "hola",
+      "translation": "olá",
+      "transcription": "[ˈo.la]",
+      "exampleSentence": "Hola, ¿cómo estás?"
+    },
+    {
+      "originalWord": "buenos días",
+      "translation": "bom dia",
+      "transcription": "[ˈbwe.nos ˈdi.as]",
+      "exampleSentence": "Buenos días a todos."
+    },
+    {
+      "originalWord": "buenas tardes",
+      "translation": "boa tarde",
+      "transcription": "[ˈbwe.nas ˈtaɾ.des]",
+      "exampleSentence": "Buenas tardes, señor."
+    },
+    {
+      "originalWord": "buenas noches",
+      "translation": "boa noite",
+      "transcription": "[ˈbwe.nas ˈnotʃes]",
+      "exampleSentence": "Buenas noches, duerme bien."
+    },
+    {
+      "originalWord": "adiós",
+      "translation": "adeus",
+      "transcription": "[aˈðjos]",
+      "exampleSentence": "Adiós, hasta mañana."
+    },
+    {
+      "originalWord": "hasta luego",
+      "translation": "até logo",
+      "transcription": "[ˈas.ta ˈlwe.ɣo]",
+      "exampleSentence": "Hasta luego, cuídate."
+    },
+    {
+      "originalWord": "por favor",
+      "translation": "por favor",
+      "transcription": "[poɾ faˈβoɾ]",
+      "exampleSentence": "Por favor, siéntate."
+    },
+    {
+      "originalWord": "gracias",
+      "translation": "obrigado",
+      "transcription": "[ˈɡɾa.sjas]",
+      "exampleSentence": "Gracias por tu ayuda."
+    },
+    {
+      "originalWord": "de nada",
+      "translation": "de nada",
+      "transcription": "[de ˈna.ða]",
+      "exampleSentence": "De nada, no hay problema."
+    },
+    {
+      "originalWord": "perdón",
+      "translation": "desculpa",
+      "transcription": "[peɾˈðon]",
+      "exampleSentence": "Perdón, llego tarde."
+    },
+    {
+      "originalWord": "sí",
+      "translation": "sim",
+      "transcription": "[si]",
+      "exampleSentence": "Sí, entiendo."
+    },
+    {
+      "originalWord": "no",
+      "translation": "não",
+      "transcription": "[no]",
+      "exampleSentence": "No, no quiero."
+    },
+    {
+      "originalWord": "tal vez",
+      "translation": "talvez",
+      "transcription": "[tal ˈβes]",
+      "exampleSentence": "Tal vez más tarde."
+    },
+    {
+      "originalWord": "vale",
+      "translation": "ok",
+      "transcription": "[ˈba.le]",
+      "exampleSentence": "Vale, empezamos."
+    },
+    {
+      "originalWord": "ayuda",
+      "translation": "ajuda",
+      "transcription": "[aˈʝu.ða]",
+      "exampleSentence": "Ayuda, por favor."
+    },
+    {
+      "originalWord": "no entiendo",
+      "translation": "não entendo",
+      "transcription": "[no enˈtjen.do]",
+      "exampleSentence": "No entiendo."
+    },
+    {
+      "originalWord": "¿hablas inglés?",
+      "translation": "você fala inglês?",
+      "transcription": "[ˈa.βlas inˈɡles]",
+      "exampleSentence": "¿Hablas inglés?"
+    },
+    {
+      "originalWord": "bien",
+      "translation": "bem",
+      "transcription": "[bjen]",
+      "exampleSentence": "Estoy bien."
+    },
+    {
+      "originalWord": "mal",
+      "translation": "mal",
+      "transcription": "[mal]",
+      "exampleSentence": "Estoy mal."
+    },
+    {
+      "originalWord": "amigo",
+      "translation": "amigo",
+      "transcription": "[aˈmi.ɣo]",
+      "exampleSentence": "Eres mi amigo."
+    },
+    {
+      "originalWord": "uno",
+      "translation": "um",
+      "transcription": "[ˈu.no]",
+      "exampleSentence": "Tengo uno."
+    },
+    {
+      "originalWord": "dos",
+      "translation": "dois",
+      "transcription": "[dos]",
+      "exampleSentence": "Tengo dos."
+    },
+    {
+      "originalWord": "tres",
+      "translation": "três",
+      "transcription": "[tɾes]",
+      "exampleSentence": "Tengo tres."
+    },
+    {
+      "originalWord": "cuatro",
+      "translation": "quatro",
+      "transcription": "[ˈkwa.tɾo]",
+      "exampleSentence": "Cuatro libros."
+    },
+    {
+      "originalWord": "cinco",
+      "translation": "cinco",
+      "transcription": "[ˈθiŋ.ko]",
+      "exampleSentence": "Cinco días."
+    },
+    {
+      "originalWord": "seis",
+      "translation": "seis",
+      "transcription": "[sejs]",
+      "exampleSentence": "Seis horas."
+    },
+    {
+      "originalWord": "siete",
+      "translation": "sete",
+      "transcription": "[ˈsje.te]",
+      "exampleSentence": "Siete amigos."
+    },
+    {
+      "originalWord": "ocho",
+      "translation": "oito",
+      "transcription": "[ˈo.tʃo]",
+      "exampleSentence": "Ocho años."
+    },
+    {
+      "originalWord": "nueve",
+      "translation": "nove",
+      "transcription": "[ˈnwe.βe]",
+      "exampleSentence": "Nueve meses."
+    },
+    {
+      "originalWord": "diez",
+      "translation": "dez",
+      "transcription": "[ˈdjeθ]",
+      "exampleSentence": "Diez personas."
+    },
+    {
+      "originalWord": "once",
+      "translation": "onze",
+      "transcription": "[ˈon.θe]",
+      "exampleSentence": "Once libros."
+    },
+    {
+      "originalWord": "doce",
+      "translation": "doze",
+      "transcription": "[ˈdo.θe]",
+      "exampleSentence": "Doce meses."
+    },
+    {
+      "originalWord": "trece",
+      "translation": "treze",
+      "transcription": "[ˈtɾe.θe]",
+      "exampleSentence": "Trece días."
+    },
+    {
+      "originalWord": "catorce",
+      "translation": "quatorze",
+      "transcription": "[kaˈtoɾ.θe]",
+      "exampleSentence": "Catorce años."
+    },
+    {
+      "originalWord": "quince",
+      "translation": "quinze",
+      "transcription": "[ˈkin.θe]",
+      "exampleSentence": "Quince minutos."
+    },
+    {
+      "originalWord": "dieciséis",
+      "translation": "dezesseis",
+      "transcription": "[dje.θiˈsejs]",
+      "exampleSentence": "Dieciséis años."
+    },
+    {
+      "originalWord": "diecisiete",
+      "translation": "dezessete",
+      "transcription": "[dje.θi.sje.te]",
+      "exampleSentence": "Diecisiete personas."
+    },
+    {
+      "originalWord": "dieciocho",
+      "translation": "dezoito",
+      "transcription": "[dje.θjo.tʃo]",
+      "exampleSentence": "Dieciocho años."
+    },
+    {
+      "originalWord": "diecinueve",
+      "translation": "dezenove",
+      "transcription": "[dje.θiˈnwe.βe]",
+      "exampleSentence": "Diecinueve libros."
+    },
+    {
+      "originalWord": "veinte",
+      "translation": "vinte",
+      "transcription": "[ˈbejn.te]",
+      "exampleSentence": "Veinte euros."
+    },
+    {
+      "originalWord": "rojo",
+      "translation": "vermelho",
+      "transcription": "[ˈro.xo]",
+      "exampleSentence": "El coche es rojo."
+    },
+    {
+      "originalWord": "azul",
+      "translation": "azul",
+      "transcription": "[aˈθul]",
+      "exampleSentence": "El cielo es azul."
+    },
+    {
+      "originalWord": "verde",
+      "translation": "verde",
+      "transcription": "[ˈbeɾ.ðe]",
+      "exampleSentence": "La manzana es verde."
+    },
+    {
+      "originalWord": "amarillo",
+      "translation": "amarelo",
+      "transcription": "[a.maˈɾi.ʝo]",
+      "exampleSentence": "El sol es amarillo."
+    },
+    {
+      "originalWord": "negro",
+      "translation": "preto",
+      "transcription": "[ˈne.ɣɾo]",
+      "exampleSentence": "Zapatos negros."
+    },
+    {
+      "originalWord": "blanco",
+      "translation": "branco",
+      "transcription": "[ˈblaŋ.ko]",
+      "exampleSentence": "La pared es blanca."
+    },
+    {
+      "originalWord": "rosa",
+      "translation": "rosa",
+      "transcription": "[ˈro.sa]",
+      "exampleSentence": "La flor es rosa."
+    },
+    {
+      "originalWord": "marrón",
+      "translation": "marrom",
+      "transcription": "[maˈron]",
+      "exampleSentence": "La mesa es marrón."
+    },
+    {
+      "originalWord": "gris",
+      "translation": "cinza",
+      "transcription": "[ɡɾis]",
+      "exampleSentence": "El día es gris."
+    },
+    {
+      "originalWord": "naranja",
+      "translation": "laranja",
+      "transcription": "[naˈɾan.xa]",
+      "exampleSentence": "La naranja es naranja."
+    },
+    {
+      "originalWord": "familia",
+      "translation": "família",
+      "transcription": "[faˈmi.lja]",
+      "exampleSentence": "Mi familia es grande."
+    },
+    {
+      "originalWord": "madre",
+      "translation": "mãe",
+      "transcription": "[ˈma.ðɾe]",
+      "exampleSentence": "Mi madre es amable."
+    },
+    {
+      "originalWord": "padre",
+      "translation": "pai",
+      "transcription": "[ˈpa.ðɾe]",
+      "exampleSentence": "Mi padre trabaja."
+    },
+    {
+      "originalWord": "hijo",
+      "translation": "filho",
+      "transcription": "[ˈi.xo]",
+      "exampleSentence": "Mi hijo estudia."
+    },
+    {
+      "originalWord": "hija",
+      "translation": "filha",
+      "transcription": "[ˈi.xa]",
+      "exampleSentence": "Mi hija duerme."
+    },
+    {
+      "originalWord": "hermano",
+      "translation": "irmão",
+      "transcription": "[eɾˈma.no]",
+      "exampleSentence": "Mi hermano viene."
+    },
+    {
+      "originalWord": "hermana",
+      "translation": "irmã",
+      "transcription": "[eɾˈma.na]",
+      "exampleSentence": "Mi hermana canta."
+    },
+    {
+      "originalWord": "amigo",
+      "translation": "amigo",
+      "transcription": "[aˈmi.ɣo]",
+      "exampleSentence": "Mi amigo llega."
+    },
+    {
+      "originalWord": "niño",
+      "translation": "criança",
+      "transcription": "[ˈni.ɲo]",
+      "exampleSentence": "El niño juega."
+    },
+    {
+      "originalWord": "padres",
+      "translation": "pais",
+      "transcription": "[ˈpa.ðɾes]",
+      "exampleSentence": "Mis padres vienen."
+    },
+    {
+      "originalWord": "hoy",
+      "translation": "hoje",
+      "transcription": "[oj]",
+      "exampleSentence": "Hoy trabajo."
+    },
+    {
+      "originalWord": "mañana",
+      "translation": "amanhã",
+      "transcription": "[maˈɲa.na]",
+      "exampleSentence": "Mañana estudio."
+    },
+    {
+      "originalWord": "ayer",
+      "translation": "ontem",
+      "transcription": "[aˈʝeɾ]",
+      "exampleSentence": "Ayer llovió."
+    },
+    {
+      "originalWord": "ahora",
+      "translation": "agora",
+      "transcription": "[aˈo.ɾa]",
+      "exampleSentence": "Ahora salgo."
+    },
+    {
+      "originalWord": "tarde",
+      "translation": "tarde",
+      "transcription": "[ˈtaɾ.ðe]",
+      "exampleSentence": "Llego tarde."
+    },
+    {
+      "originalWord": "temprano",
+      "translation": "cedo",
+      "transcription": "[temˈpɾa.no]",
+      "exampleSentence": "Llego temprano."
+    },
+    {
+      "originalWord": "día",
+      "translation": "dia",
+      "transcription": "[ˈdi.a]",
+      "exampleSentence": "Buen día."
+    },
+    {
+      "originalWord": "noche",
+      "translation": "noite",
+      "transcription": "[ˈno.tʃe]",
+      "exampleSentence": "Buenas noches."
+    },
+    {
+      "originalWord": "año",
+      "translation": "ano",
+      "transcription": "[ˈa.ɲo]",
+      "exampleSentence": "Nuevo año."
+    },
+    {
+      "originalWord": "ser",
+      "translation": "ser",
+      "transcription": "[seɾ]",
+      "exampleSentence": "Quiero ser feliz."
+    },
+    {
+      "originalWord": "tener",
+      "translation": "ter",
+      "transcription": "[teˈneɾ]",
+      "exampleSentence": "Tengo tiempo."
+    },
+    {
+      "originalWord": "hacer",
+      "translation": "fazer",
+      "transcription": "[aˈθeɾ]",
+      "exampleSentence": "Quiero hacer eso."
+    },
+    {
+      "originalWord": "ir",
+      "translation": "ir",
+      "transcription": "[iɾ]",
+      "exampleSentence": "Voy allí."
+    },
+    {
+      "originalWord": "venir",
+      "translation": "vir",
+      "transcription": "[beˈniɾ]",
+      "exampleSentence": "Vengo ahora."
+    },
+    {
+      "originalWord": "querer",
+      "translation": "querer",
+      "transcription": "[keˈɾeɾ]",
+      "exampleSentence": "Quiero comer."
+    },
+    {
+      "originalWord": "gustar",
+      "translation": "gostar",
+      "transcription": "[ɡusˈtaɾ]",
+      "exampleSentence": "Me gusta."
+    },
+    {
+      "originalWord": "bueno",
+      "translation": "bom",
+      "transcription": "[ˈbwe.no]",
+      "exampleSentence": "Es bueno."
+    },
+    {
+      "originalWord": "malo",
+      "translation": "ruim",
+      "transcription": "[ˈma.lo]",
+      "exampleSentence": "Es malo."
+    },
+    {
+      "originalWord": "grande",
+      "translation": "grande",
+      "transcription": "[ˈɡɾan.de]",
+      "exampleSentence": "Casa grande."
+    },
+    {
+      "originalWord": "pequeño",
+      "translation": "pequeno",
+      "transcription": "[peˈke.ɲo]",
+      "exampleSentence": "Perro pequeño."
+    },
+    {
+      "originalWord": "nuevo",
+      "translation": "novo",
+      "transcription": "[ˈnwe.βo]",
+      "exampleSentence": "Es nuevo."
+    },
+    {
+      "originalWord": "viejo",
+      "translation": "velho",
+      "transcription": "[ˈbje.xo]",
+      "exampleSentence": "Es viejo."
+    },
+    {
+      "originalWord": "caliente",
+      "translation": "quente",
+      "transcription": "[kaˈljen.te]",
+      "exampleSentence": "Está caliente."
+    },
+    {
+      "originalWord": "frío",
+      "translation": "frio",
+      "transcription": "[ˈfɾi.o]",
+      "exampleSentence": "Está frío."
+    },
+    {
+      "originalWord": "rápido",
+      "translation": "rápido",
+      "transcription": "[ˈra.pi.ðo]",
+      "exampleSentence": "Es rápido."
+    },
+    {
+      "originalWord": "lento",
+      "translation": "lento",
+      "transcription": "[ˈlen.to]",
+      "exampleSentence": "Es lento."
+    },
+    {
+      "originalWord": "feliz",
+      "translation": "feliz",
+      "transcription": "[feˈliθ]",
+      "exampleSentence": "Estoy feliz."
+    },
+    {
+      "originalWord": "triste",
+      "translation": "triste",
+      "transcription": "[ˈtɾis.te]",
+      "exampleSentence": "Estoy triste."
+    },
+    {
+      "originalWord": "trabajar",
+      "translation": "trabalhar",
+      "transcription": "[tɾa.βaˈxaɾ]",
+      "exampleSentence": "Trabajo aquí."
+    },
+    {
+      "originalWord": "vivir",
+      "translation": "viver",
+      "transcription": "[biˈβiɾ]",
+      "exampleSentence": "Vivo aquí."
+    },
+    {
+      "originalWord": "comer",
+      "translation": "comer",
+      "transcription": "[koˈmeɾ]",
+      "exampleSentence": "Quiero comer."
+    },
+    {
+      "originalWord": "beber",
+      "translation": "beber",
+      "transcription": "[beˈβeɾ]",
+      "exampleSentence": "Quiero beber."
+    },
+    {
+      "originalWord": "agua",
+      "translation": "água",
+      "transcription": "[ˈa.ɣwa]",
+      "exampleSentence": "Quiero agua."
+    },
+    {
+      "originalWord": "casa",
+      "translation": "casa",
+      "transcription": "[ˈka.sa]",
+      "exampleSentence": "Mi casa."
+    },
+    {
+      "originalWord": "ciudad",
+      "translation": "cidade",
+      "transcription": "[θjuˈðað]",
+      "exampleSentence": "La ciudad es grande."
+    },
+    {
+      "originalWord": "tiempo",
+      "translation": "tempo",
+      "transcription": "[ˈtjem.po]",
+      "exampleSentence": "No hay tiempo."
+    },
+    {
+      "originalWord": "día",
+      "translation": "dia",
+      "transcription": "[ˈdi.a]",
+      "exampleSentence": "Buen día."
+    },
+    {
+      "originalWord": "semana",
+      "translation": "semana",
+      "transcription": "[seˈma.na]",
+      "exampleSentence": "Buena semana."
+    },
+    {
+      "originalWord": "mes",
+      "translation": "mês",
+      "transcription": "[mes]",
+      "exampleSentence": "Este mes."
+    },
+    {
+      "originalWord": "aquí",
+      "translation": "aqui",
+      "transcription": "[aˈki]",
+      "exampleSentence": "Estoy aquí."
+    }
+  ]
+}
