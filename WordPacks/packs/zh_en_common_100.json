@@ -1,0 +1,606 @@
+{
+  "packId": "zh_en_common_100",
+  "version": "1.0",
+  "words": [
+    {
+      "originalWord": "你好",
+      "translation": "hello",
+      "transcription": "[nǐ hǎo]",
+      "exampleSentence": "你好，你好吗？"
+    },
+    {
+      "originalWord": "嗨",
+      "translation": "hi",
+      "transcription": "[hāi]",
+      "exampleSentence": "嗨，很高兴认识你。"
+    },
+    {
+      "originalWord": "早上好",
+      "translation": "good morning",
+      "transcription": "[zǎo shang hǎo]",
+      "exampleSentence": "早上好，大家好。"
+    },
+    {
+      "originalWord": "下午好",
+      "translation": "good afternoon",
+      "transcription": "[xià wǔ hǎo]",
+      "exampleSentence": "下午好，王先生。"
+    },
+    {
+      "originalWord": "晚上好",
+      "translation": "good evening",
+      "transcription": "[wǎn shang hǎo]",
+      "exampleSentence": "晚上好，欢迎！"
+    },
+    {
+      "originalWord": "晚安",
+      "translation": "good night",
+      "transcription": "[wǎn ān]",
+      "exampleSentence": "晚安，睡个好觉。"
+    },
+    {
+      "originalWord": "再见",
+      "translation": "goodbye",
+      "transcription": "[zài jiàn]",
+      "exampleSentence": "再见，明天见！"
+    },
+    {
+      "originalWord": "回头见",
+      "translation": "see you later",
+      "transcription": "[huí tóu jiàn]",
+      "exampleSentence": "回头见，保重。"
+    },
+    {
+      "originalWord": "请",
+      "translation": "please",
+      "transcription": "[qǐng]",
+      "exampleSentence": "请坐下。"
+    },
+    {
+      "originalWord": "谢谢",
+      "translation": "thank you",
+      "transcription": "[xiè xie]",
+      "exampleSentence": "谢谢你的帮助。"
+    },
+    {
+      "originalWord": "不客气",
+      "translation": "you're welcome",
+      "transcription": "[bú kè qi]",
+      "exampleSentence": "不客气，没问题。"
+    },
+    {
+      "originalWord": "劳驾",
+      "translation": "excuse me",
+      "transcription": "[láo jià]",
+      "exampleSentence": "劳驾，洗手间在哪里？"
+    },
+    {
+      "originalWord": "对不起",
+      "translation": "sorry",
+      "transcription": "[duì bu qǐ]",
+      "exampleSentence": "对不起，我迟到了。"
+    },
+    {
+      "originalWord": "是的",
+      "translation": "yes",
+      "transcription": "[shì de]",
+      "exampleSentence": "是的，我明白。"
+    },
+    {
+      "originalWord": "不是",
+      "translation": "no",
+      "transcription": "[bú shì]",
+      "exampleSentence": "不是，我不想要。"
+    },
+    {
+      "originalWord": "也许",
+      "translation": "maybe",
+      "transcription": "[yě xǔ]",
+      "exampleSentence": "也许我们可以以后再去。"
+    },
+    {
+      "originalWord": "好的",
+      "translation": "okay",
+      "transcription": "[hǎo de]",
+      "exampleSentence": "好的，我们开始吧。"
+    },
+    {
+      "originalWord": "请帮忙",
+      "translation": "please help",
+      "transcription": "[qǐng bāng máng]",
+      "exampleSentence": "请帮忙。"
+    },
+    {
+      "originalWord": "我不明白",
+      "translation": "I don't understand",
+      "transcription": "[wǒ bù míng bái]",
+      "exampleSentence": "对不起，我不明白。"
+    },
+    {
+      "originalWord": "你会说英语吗？",
+      "translation": "do you speak English?",
+      "transcription": "[nǐ huì shuō yīng yǔ ma]",
+      "exampleSentence": "你会说英语吗？"
+    },
+    {
+      "originalWord": "零",
+      "translation": "zero",
+      "transcription": "[líng]",
+      "exampleSentence": "零是第一个数字。"
+    },
+    {
+      "originalWord": "一",
+      "translation": "one",
+      "transcription": "[yī]",
+      "exampleSentence": "我有一个苹果。"
+    },
+    {
+      "originalWord": "二",
+      "translation": "two",
+      "transcription": "[èr]",
+      "exampleSentence": "我有二个苹果。"
+    },
+    {
+      "originalWord": "三",
+      "translation": "three",
+      "transcription": "[sān]",
+      "exampleSentence": "我有三个苹果。"
+    },
+    {
+      "originalWord": "四",
+      "translation": "four",
+      "transcription": "[sì]",
+      "exampleSentence": "我有四个苹果。"
+    },
+    {
+      "originalWord": "五",
+      "translation": "five",
+      "transcription": "[wǔ]",
+      "exampleSentence": "我有五个苹果。"
+    },
+    {
+      "originalWord": "六",
+      "translation": "six",
+      "transcription": "[liù]",
+      "exampleSentence": "我有六个苹果。"
+    },
+    {
+      "originalWord": "七",
+      "translation": "seven",
+      "transcription": "[qī]",
+      "exampleSentence": "我有七个苹果。"
+    },
+    {
+      "originalWord": "八",
+      "translation": "eight",
+      "transcription": "[bā]",
+      "exampleSentence": "我有八个苹果。"
+    },
+    {
+      "originalWord": "九",
+      "translation": "nine",
+      "transcription": "[jiǔ]",
+      "exampleSentence": "我有九个苹果。"
+    },
+    {
+      "originalWord": "十",
+      "translation": "ten",
+      "transcription": "[shí]",
+      "exampleSentence": "我有十个苹果。"
+    },
+    {
+      "originalWord": "十一",
+      "translation": "eleven",
+      "transcription": "[shí yī]",
+      "exampleSentence": "我有十一个苹果。"
+    },
+    {
+      "originalWord": "十二",
+      "translation": "twelve",
+      "transcription": "[shí èr]",
+      "exampleSentence": "我有十二个苹果。"
+    },
+    {
+      "originalWord": "十三",
+      "translation": "thirteen",
+      "transcription": "[shí sān]",
+      "exampleSentence": "我有十三个苹果。"
+    },
+    {
+      "originalWord": "十四",
+      "translation": "fourteen",
+      "transcription": "[shí sì]",
+      "exampleSentence": "我有十四个苹果。"
+    },
+    {
+      "originalWord": "十五",
+      "translation": "fifteen",
+      "transcription": "[shí wǔ]",
+      "exampleSentence": "我有十五个苹果。"
+    },
+    {
+      "originalWord": "十六",
+      "translation": "sixteen",
+      "transcription": "[shí liù]",
+      "exampleSentence": "我有十六个苹果。"
+    },
+    {
+      "originalWord": "十七",
+      "translation": "seventeen",
+      "transcription": "[shí qī]",
+      "exampleSentence": "我有十七个苹果。"
+    },
+    {
+      "originalWord": "十八",
+      "translation": "eighteen",
+      "transcription": "[shí bā]",
+      "exampleSentence": "我有十八个苹果。"
+    },
+    {
+      "originalWord": "十九",
+      "translation": "nineteen",
+      "transcription": "[shí jiǔ]",
+      "exampleSentence": "我有十九个苹果。"
+    },
+    {
+      "originalWord": "二十",
+      "translation": "twenty",
+      "transcription": "[èr shí]",
+      "exampleSentence": "我有二十个苹果。"
+    },
+    {
+      "originalWord": "红色",
+      "translation": "red",
+      "transcription": "[hóng sè]",
+      "exampleSentence": "我的车是红色的。"
+    },
+    {
+      "originalWord": "蓝色",
+      "translation": "blue",
+      "transcription": "[lán sè]",
+      "exampleSentence": "我的车是蓝色的。"
+    },
+    {
+      "originalWord": "绿色",
+      "translation": "green",
+      "transcription": "[lǜ sè]",
+      "exampleSentence": "我的车是绿色的。"
+    },
+    {
+      "originalWord": "黄色",
+      "translation": "yellow",
+      "transcription": "[huáng sè]",
+      "exampleSentence": "我的车是黄色的。"
+    },
+    {
+      "originalWord": "黑色",
+      "translation": "black",
+      "transcription": "[hēi sè]",
+      "exampleSentence": "我的车是黑色的。"
+    },
+    {
+      "originalWord": "白色",
+      "translation": "white",
+      "transcription": "[bái sè]",
+      "exampleSentence": "我的车是白色的。"
+    },
+    {
+      "originalWord": "橙色",
+      "translation": "orange",
+      "transcription": "[chéng sè]",
+      "exampleSentence": "我的车是橙色的。"
+    },
+    {
+      "originalWord": "紫色",
+      "translation": "purple",
+      "transcription": "[zǐ sè]",
+      "exampleSentence": "我的车是紫色的。"
+    },
+    {
+      "originalWord": "粉色",
+      "translation": "pink",
+      "transcription": "[fěn sè]",
+      "exampleSentence": "我的车是粉色的。"
+    },
+    {
+      "originalWord": "棕色",
+      "translation": "brown",
+      "transcription": "[zōng sè]",
+      "exampleSentence": "我的车是棕色的。"
+    },
+    {
+      "originalWord": "灰色",
+      "translation": "gray",
+      "transcription": "[huī sè]",
+      "exampleSentence": "我的车是灰色的。"
+    },
+    {
+      "originalWord": "家庭",
+      "translation": "family",
+      "transcription": "[jiā tíng]",
+      "exampleSentence": "我的家庭很大。"
+    },
+    {
+      "originalWord": "妈妈",
+      "translation": "mother",
+      "transcription": "[mā ma]",
+      "exampleSentence": "我妈妈很温柔。"
+    },
+    {
+      "originalWord": "爸爸",
+      "translation": "father",
+      "transcription": "[bà ba]",
+      "exampleSentence": "我爸爸工作很忙。"
+    },
+    {
+      "originalWord": "父母",
+      "translation": "parents",
+      "transcription": "[fù mǔ]",
+      "exampleSentence": "我的父母住得很近。"
+    },
+    {
+      "originalWord": "儿子",
+      "translation": "son",
+      "transcription": "[ér zi]",
+      "exampleSentence": "他们的儿子在学校。"
+    },
+    {
+      "originalWord": "女儿",
+      "translation": "daughter",
+      "transcription": "[nǚ ér]",
+      "exampleSentence": "她的女儿五岁。"
+    },
+    {
+      "originalWord": "哥哥/弟弟",
+      "translation": "brother",
+      "transcription": "[gē ge] / [dì di]",
+      "exampleSentence": "我哥哥喜欢音乐。"
+    },
+    {
+      "originalWord": "姐姐/妹妹",
+      "translation": "sister",
+      "transcription": "[jiě jie] / [mèi mei]",
+      "exampleSentence": "我姐姐很友好。"
+    },
+    {
+      "originalWord": "丈夫",
+      "translation": "husband",
+      "transcription": "[zhàng fu]",
+      "exampleSentence": "她的丈夫是医生。"
+    },
+    {
+      "originalWord": "妻子",
+      "translation": "wife",
+      "transcription": "[qī zi]",
+      "exampleSentence": "我的妻子在上班。"
+    },
+    {
+      "originalWord": "孩子",
+      "translation": "child",
+      "transcription": "[hái zi]",
+      "exampleSentence": "那个孩子很开心。"
+    },
+    {
+      "originalWord": "朋友",
+      "translation": "friend",
+      "transcription": "[péng you]",
+      "exampleSentence": "你是我的朋友。"
+    },
+    {
+      "originalWord": "时间",
+      "translation": "time",
+      "transcription": "[shí jiān]",
+      "exampleSentence": "现在几点？"
+    },
+    {
+      "originalWord": "今天",
+      "translation": "today",
+      "transcription": "[jīn tiān]",
+      "exampleSentence": "今天是个好日子。"
+    },
+    {
+      "originalWord": "明天",
+      "translation": "tomorrow",
+      "transcription": "[míng tiān]",
+      "exampleSentence": "明天我要学习。"
+    },
+    {
+      "originalWord": "昨天",
+      "translation": "yesterday",
+      "transcription": "[zuó tiān]",
+      "exampleSentence": "昨天我很忙。"
+    },
+    {
+      "originalWord": "现在",
+      "translation": "now",
+      "transcription": "[xiàn zài]",
+      "exampleSentence": "我现在就需要。"
+    },
+    {
+      "originalWord": "以后",
+      "translation": "later",
+      "transcription": "[yǐ hòu]",
+      "exampleSentence": "我以后给你打电话。"
+    },
+    {
+      "originalWord": "早",
+      "translation": "early",
+      "transcription": "[zǎo]",
+      "exampleSentence": "我起得很早。"
+    },
+    {
+      "originalWord": "晚",
+      "translation": "late",
+      "transcription": "[wǎn]",
+      "exampleSentence": "公交车晚点了。"
+    },
+    {
+      "originalWord": "早上",
+      "translation": "morning",
+      "transcription": "[zǎo shang]",
+      "exampleSentence": "我早上喝咖啡。"
+    },
+    {
+      "originalWord": "下午",
+      "translation": "afternoon",
+      "transcription": "[xià wǔ]",
+      "exampleSentence": "我下午工作。"
+    },
+    {
+      "originalWord": "晚上",
+      "translation": "evening",
+      "transcription": "[wǎn shang]",
+      "exampleSentence": "我们晚上散步。"
+    },
+    {
+      "originalWord": "夜晚",
+      "translation": "night",
+      "transcription": "[yè wǎn]",
+      "exampleSentence": "夜晚我看书。"
+    },
+    {
+      "originalWord": "小时",
+      "translation": "hour",
+      "transcription": "[xiǎo shí]",
+      "exampleSentence": "这需要一个小时。"
+    },
+    {
+      "originalWord": "分钟",
+      "translation": "minute",
+      "transcription": "[fēn zhōng]",
+      "exampleSentence": "请等一分钟。"
+    },
+    {
+      "originalWord": "天",
+      "translation": "day",
+      "transcription": "[tiān]",
+      "exampleSentence": "祝你有美好的一天。"
+    },
+    {
+      "originalWord": "星期",
+      "translation": "week",
+      "transcription": "[xīng qī]",
+      "exampleSentence": "我这个星期很忙。"
+    },
+    {
+      "originalWord": "月",
+      "translation": "month",
+      "transcription": "[yuè]",
+      "exampleSentence": "这个月很冷。"
+    },
+    {
+      "originalWord": "年",
+      "translation": "year",
+      "transcription": "[nián]",
+      "exampleSentence": "明年会更好。"
+    },
+    {
+      "originalWord": "是",
+      "translation": "to be",
+      "transcription": "[shì]",
+      "exampleSentence": "我今天很开心。"
+    },
+    {
+      "originalWord": "有",
+      "translation": "to have",
+      "transcription": "[yǒu]",
+      "exampleSentence": "我有一个问题。"
+    },
+    {
+      "originalWord": "做",
+      "translation": "to do",
+      "transcription": "[zuò]",
+      "exampleSentence": "周末你做什么？"
+    },
+    {
+      "originalWord": "去",
+      "translation": "to go",
+      "transcription": "[qù]",
+      "exampleSentence": "我每天去学校。"
+    },
+    {
+      "originalWord": "来",
+      "translation": "to come",
+      "transcription": "[lái]",
+      "exampleSentence": "请来这里。"
+    },
+    {
+      "originalWord": "想要",
+      "translation": "to want",
+      "transcription": "[xiǎng yào]",
+      "exampleSentence": "我想要点水。"
+    },
+    {
+      "originalWord": "需要",
+      "translation": "to need",
+      "transcription": "[xū yào]",
+      "exampleSentence": "我需要帮助。"
+    },
+    {
+      "originalWord": "喜欢",
+      "translation": "to like",
+      "transcription": "[xǐ huan]",
+      "exampleSentence": "我喜欢这首歌。"
+    },
+    {
+      "originalWord": "爱",
+      "translation": "to love",
+      "transcription": "[ài]",
+      "exampleSentence": "我爱我的家人。"
+    },
+    {
+      "originalWord": "看见",
+      "translation": "to see",
+      "transcription": "[kàn jiàn]",
+      "exampleSentence": "我看见公交车了。"
+    },
+    {
+      "originalWord": "好",
+      "translation": "good",
+      "transcription": "[hǎo]",
+      "exampleSentence": "这是个好主意。"
+    },
+    {
+      "originalWord": "坏",
+      "translation": "bad",
+      "transcription": "[huài]",
+      "exampleSentence": "今天天气很坏。"
+    },
+    {
+      "originalWord": "大",
+      "translation": "big",
+      "transcription": "[dà]",
+      "exampleSentence": "这是一个大房子。"
+    },
+    {
+      "originalWord": "小",
+      "translation": "small",
+      "transcription": "[xiǎo]",
+      "exampleSentence": "我有一只小狗。"
+    },
+    {
+      "originalWord": "新",
+      "translation": "new",
+      "transcription": "[xīn]",
+      "exampleSentence": "我买了一个新手机。"
+    },
+    {
+      "originalWord": "旧",
+      "translation": "old",
+      "transcription": "[jiù]",
+      "exampleSentence": "我的车很旧。"
+    },
+    {
+      "originalWord": "热",
+      "translation": "hot",
+      "transcription": "[rè]",
+      "exampleSentence": "咖啡很热。"
+    },
+    {
+      "originalWord": "冷",
+      "translation": "cold",
+      "transcription": "[lěng]",
+      "exampleSentence": "水很冷。"
+    }
+  ]
+}

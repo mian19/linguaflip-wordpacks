@@ -1,0 +1,606 @@
+{
+  "packId": "en_zh_common_100",
+  "version": "1.0",
+  "words": [
+    {
+      "originalWord": "hello",
+      "translation": "你好",
+      "transcription": "[həˈloʊ]",
+      "exampleSentence": "Hello, how are you?"
+    },
+    {
+      "originalWord": "hi",
+      "translation": "嗨",
+      "transcription": "[haɪ]",
+      "exampleSentence": "Hi, nice to meet you."
+    },
+    {
+      "originalWord": "good morning",
+      "translation": "早上好",
+      "transcription": "[ɡʊd ˈmɔːrnɪŋ]",
+      "exampleSentence": "Good morning, everyone."
+    },
+    {
+      "originalWord": "good afternoon",
+      "translation": "下午好",
+      "transcription": "[ɡʊd ˌæftɚˈnuːn]",
+      "exampleSentence": "Good afternoon, Mr. Wang."
+    },
+    {
+      "originalWord": "good evening",
+      "translation": "晚上好",
+      "transcription": "[ɡʊd ˈiːvnɪŋ]",
+      "exampleSentence": "Good evening, welcome!"
+    },
+    {
+      "originalWord": "good night",
+      "translation": "晚安",
+      "transcription": "[ɡʊd ˈnaɪt]",
+      "exampleSentence": "Good night, sleep well."
+    },
+    {
+      "originalWord": "goodbye",
+      "translation": "再见",
+      "transcription": "[ɡʊdˈbaɪ]",
+      "exampleSentence": "Goodbye, see you tomorrow!"
+    },
+    {
+      "originalWord": "see you later",
+      "translation": "回头见",
+      "transcription": "[siː juː ˈleɪtɚ]",
+      "exampleSentence": "See you later, take care."
+    },
+    {
+      "originalWord": "please",
+      "translation": "请",
+      "transcription": "[pliːz]",
+      "exampleSentence": "Please sit down."
+    },
+    {
+      "originalWord": "thank you",
+      "translation": "谢谢",
+      "transcription": "[θæŋk juː]",
+      "exampleSentence": "Thank you for your help."
+    },
+    {
+      "originalWord": "you're welcome",
+      "translation": "不客气",
+      "transcription": "[jʊr ˈwɛlkəm]",
+      "exampleSentence": "You're welcome, no problem."
+    },
+    {
+      "originalWord": "excuse me",
+      "translation": "劳驾",
+      "transcription": "[ɪkˈskjuːz miː]",
+      "exampleSentence": "Excuse me, where is the bathroom?"
+    },
+    {
+      "originalWord": "sorry",
+      "translation": "对不起",
+      "transcription": "[ˈsɑːri]",
+      "exampleSentence": "Sorry, I'm late."
+    },
+    {
+      "originalWord": "yes",
+      "translation": "是的",
+      "transcription": "[jɛs]",
+      "exampleSentence": "Yes, I understand."
+    },
+    {
+      "originalWord": "no",
+      "translation": "不是",
+      "transcription": "[noʊ]",
+      "exampleSentence": "No, I don't want it."
+    },
+    {
+      "originalWord": "maybe",
+      "translation": "也许",
+      "transcription": "[ˈmeɪbi]",
+      "exampleSentence": "Maybe we can go later."
+    },
+    {
+      "originalWord": "okay",
+      "translation": "好的",
+      "transcription": "[oʊˈkeɪ]",
+      "exampleSentence": "Okay, let's start."
+    },
+    {
+      "originalWord": "please help",
+      "translation": "请帮忙",
+      "transcription": "[pliːz hɛlp]",
+      "exampleSentence": "Please help me."
+    },
+    {
+      "originalWord": "I don't understand",
+      "translation": "我不明白",
+      "transcription": "[aɪ doʊnt ˌʌndərˈstænd]",
+      "exampleSentence": "Sorry, I don't understand."
+    },
+    {
+      "originalWord": "do you speak English?",
+      "translation": "你会说英语吗？",
+      "transcription": "[duː juː spiːk ˈɪŋɡlɪʃ]",
+      "exampleSentence": "Do you speak English?"
+    },
+    {
+      "originalWord": "zero",
+      "translation": "零",
+      "transcription": "[ˈzɪroʊ]",
+      "exampleSentence": "Zero is the first number."
+    },
+    {
+      "originalWord": "one",
+      "translation": "一",
+      "transcription": "[wʌn]",
+      "exampleSentence": "I have one sister."
+    },
+    {
+      "originalWord": "two",
+      "translation": "二",
+      "transcription": "[tuː]",
+      "exampleSentence": "I need two tickets."
+    },
+    {
+      "originalWord": "three",
+      "translation": "三",
+      "transcription": "[θriː]",
+      "exampleSentence": "There are three apples."
+    },
+    {
+      "originalWord": "four",
+      "translation": "四",
+      "transcription": "[fɔːr]",
+      "exampleSentence": "She has four books."
+    },
+    {
+      "originalWord": "five",
+      "translation": "五",
+      "transcription": "[faɪv]",
+      "exampleSentence": "I work five days a week."
+    },
+    {
+      "originalWord": "six",
+      "translation": "六",
+      "transcription": "[sɪks]",
+      "exampleSentence": "We have six chairs."
+    },
+    {
+      "originalWord": "seven",
+      "translation": "七",
+      "transcription": "[ˈsɛvən]",
+      "exampleSentence": "Seven is my lucky number."
+    },
+    {
+      "originalWord": "eight",
+      "translation": "八",
+      "transcription": "[eɪt]",
+      "exampleSentence": "I wake up at eight."
+    },
+    {
+      "originalWord": "nine",
+      "translation": "九",
+      "transcription": "[naɪn]",
+      "exampleSentence": "It's nine o'clock."
+    },
+    {
+      "originalWord": "ten",
+      "translation": "十",
+      "transcription": "[tɛn]",
+      "exampleSentence": "Ten people are here."
+    },
+    {
+      "originalWord": "eleven",
+      "translation": "十一",
+      "transcription": "[ɪˈlɛvən]",
+      "exampleSentence": "My room is number eleven."
+    },
+    {
+      "originalWord": "twelve",
+      "translation": "十二",
+      "transcription": "[twɛlv]",
+      "exampleSentence": "There are twelve months."
+    },
+    {
+      "originalWord": "thirteen",
+      "translation": "十三",
+      "transcription": "[ˌθɝːˈtiːn]",
+      "exampleSentence": "Thirteen is a big number."
+    },
+    {
+      "originalWord": "fourteen",
+      "translation": "十四",
+      "transcription": "[ˌfɔːrˈtiːn]",
+      "exampleSentence": "I am fourteen years old."
+    },
+    {
+      "originalWord": "fifteen",
+      "translation": "十五",
+      "transcription": "[ˌfɪfˈtiːn]",
+      "exampleSentence": "The meeting is at fifteen past two."
+    },
+    {
+      "originalWord": "sixteen",
+      "translation": "十六",
+      "transcription": "[ˌsɪkˈstiːn]",
+      "exampleSentence": "She is sixteen today."
+    },
+    {
+      "originalWord": "seventeen",
+      "translation": "十七",
+      "transcription": "[ˌsɛvənˈtiːn]",
+      "exampleSentence": "Seventeen students came."
+    },
+    {
+      "originalWord": "eighteen",
+      "translation": "十八",
+      "transcription": "[ˌeɪˈtiːn]",
+      "exampleSentence": "I turn eighteen next year."
+    },
+    {
+      "originalWord": "nineteen",
+      "translation": "十九",
+      "transcription": "[ˌnaɪnˈtiːn]",
+      "exampleSentence": "Nineteen is almost twenty."
+    },
+    {
+      "originalWord": "twenty",
+      "translation": "二十",
+      "transcription": "[ˈtwɛnti]",
+      "exampleSentence": "I have twenty euros."
+    },
+    {
+      "originalWord": "red",
+      "translation": "红色",
+      "transcription": "[rɛd]",
+      "exampleSentence": "My car is red."
+    },
+    {
+      "originalWord": "blue",
+      "translation": "蓝色",
+      "transcription": "[bluː]",
+      "exampleSentence": "The sky is blue."
+    },
+    {
+      "originalWord": "green",
+      "translation": "绿色",
+      "transcription": "[ɡriːn]",
+      "exampleSentence": "I like green apples."
+    },
+    {
+      "originalWord": "yellow",
+      "translation": "黄色",
+      "transcription": "[ˈjɛloʊ]",
+      "exampleSentence": "The sun is yellow."
+    },
+    {
+      "originalWord": "black",
+      "translation": "黑色",
+      "transcription": "[blæk]",
+      "exampleSentence": "My shoes are black."
+    },
+    {
+      "originalWord": "white",
+      "translation": "白色",
+      "transcription": "[waɪt]",
+      "exampleSentence": "The wall is white."
+    },
+    {
+      "originalWord": "orange",
+      "translation": "橙色",
+      "transcription": "[ˈɔːrɪndʒ]",
+      "exampleSentence": "Orange is my favorite color."
+    },
+    {
+      "originalWord": "purple",
+      "translation": "紫色",
+      "transcription": "[ˈpɝːpəl]",
+      "exampleSentence": "She wears a purple dress."
+    },
+    {
+      "originalWord": "pink",
+      "translation": "粉色",
+      "transcription": "[pɪŋk]",
+      "exampleSentence": "I bought a pink shirt."
+    },
+    {
+      "originalWord": "brown",
+      "translation": "棕色",
+      "transcription": "[braʊn]",
+      "exampleSentence": "The table is brown."
+    },
+    {
+      "originalWord": "gray",
+      "translation": "灰色",
+      "transcription": "[ɡreɪ]",
+      "exampleSentence": "The sky is gray today."
+    },
+    {
+      "originalWord": "family",
+      "translation": "家庭",
+      "transcription": "[ˈfæməli]",
+      "exampleSentence": "My family is big."
+    },
+    {
+      "originalWord": "mother",
+      "translation": "妈妈",
+      "transcription": "[ˈmʌðɚ]",
+      "exampleSentence": "My mother is kind."
+    },
+    {
+      "originalWord": "father",
+      "translation": "爸爸",
+      "transcription": "[ˈfɑːðɚ]",
+      "exampleSentence": "My father works a lot."
+    },
+    {
+      "originalWord": "parents",
+      "translation": "父母",
+      "transcription": "[ˈpɛrənts]",
+      "exampleSentence": "My parents live nearby."
+    },
+    {
+      "originalWord": "son",
+      "translation": "儿子",
+      "transcription": "[sʌn]",
+      "exampleSentence": "Their son is at school."
+    },
+    {
+      "originalWord": "daughter",
+      "translation": "女儿",
+      "transcription": "[ˈdɔːtɚ]",
+      "exampleSentence": "Her daughter is five."
+    },
+    {
+      "originalWord": "brother",
+      "translation": "哥哥/弟弟",
+      "transcription": "[ˈbrʌðɚ]",
+      "exampleSentence": "My brother likes music."
+    },
+    {
+      "originalWord": "sister",
+      "translation": "姐姐/妹妹",
+      "transcription": "[ˈsɪstɚ]",
+      "exampleSentence": "My sister is friendly."
+    },
+    {
+      "originalWord": "husband",
+      "translation": "丈夫",
+      "transcription": "[ˈhʌzbənd]",
+      "exampleSentence": "Her husband is a doctor."
+    },
+    {
+      "originalWord": "wife",
+      "translation": "妻子",
+      "transcription": "[waɪf]",
+      "exampleSentence": "My wife is at work."
+    },
+    {
+      "originalWord": "child",
+      "translation": "孩子",
+      "transcription": "[tʃaɪld]",
+      "exampleSentence": "That child is happy."
+    },
+    {
+      "originalWord": "friend",
+      "translation": "朋友",
+      "transcription": "[frɛnd]",
+      "exampleSentence": "You are my friend."
+    },
+    {
+      "originalWord": "time",
+      "translation": "时间",
+      "transcription": "[taɪm]",
+      "exampleSentence": "What time is it?"
+    },
+    {
+      "originalWord": "today",
+      "translation": "今天",
+      "transcription": "[təˈdeɪ]",
+      "exampleSentence": "Today is a good day."
+    },
+    {
+      "originalWord": "tomorrow",
+      "translation": "明天",
+      "transcription": "[təˈmɑːroʊ]",
+      "exampleSentence": "Tomorrow I will study."
+    },
+    {
+      "originalWord": "yesterday",
+      "translation": "昨天",
+      "transcription": "[ˈjɛstɚdeɪ]",
+      "exampleSentence": "Yesterday I was busy."
+    },
+    {
+      "originalWord": "now",
+      "translation": "现在",
+      "transcription": "[naʊ]",
+      "exampleSentence": "I need it now."
+    },
+    {
+      "originalWord": "later",
+      "translation": "以后",
+      "transcription": "[ˈleɪtɚ]",
+      "exampleSentence": "I'll call you later."
+    },
+    {
+      "originalWord": "early",
+      "translation": "早",
+      "transcription": "[ˈɝːli]",
+      "exampleSentence": "I wake up early."
+    },
+    {
+      "originalWord": "late",
+      "translation": "晚",
+      "transcription": "[leɪt]",
+      "exampleSentence": "The bus is late."
+    },
+    {
+      "originalWord": "morning",
+      "translation": "早上",
+      "transcription": "[ˈmɔːrnɪŋ]",
+      "exampleSentence": "I drink coffee in the morning."
+    },
+    {
+      "originalWord": "afternoon",
+      "translation": "下午",
+      "transcription": "[ˌæftɚˈnuːn]",
+      "exampleSentence": "I work in the afternoon."
+    },
+    {
+      "originalWord": "evening",
+      "translation": "晚上",
+      "transcription": "[ˈiːvnɪŋ]",
+      "exampleSentence": "We walk in the evening."
+    },
+    {
+      "originalWord": "night",
+      "translation": "夜晚",
+      "transcription": "[naɪt]",
+      "exampleSentence": "At night, I read a book."
+    },
+    {
+      "originalWord": "hour",
+      "translation": "小时",
+      "transcription": "[ˈaʊɚ]",
+      "exampleSentence": "It takes one hour."
+    },
+    {
+      "originalWord": "minute",
+      "translation": "分钟",
+      "transcription": "[ˈmɪnɪt]",
+      "exampleSentence": "Wait a minute, please."
+    },
+    {
+      "originalWord": "day",
+      "translation": "天",
+      "transcription": "[deɪ]",
+      "exampleSentence": "Have a nice day."
+    },
+    {
+      "originalWord": "week",
+      "translation": "星期",
+      "transcription": "[wiːk]",
+      "exampleSentence": "I have a busy week."
+    },
+    {
+      "originalWord": "month",
+      "translation": "月",
+      "transcription": "[mʌnθ]",
+      "exampleSentence": "This month is cold."
+    },
+    {
+      "originalWord": "year",
+      "translation": "年",
+      "transcription": "[jɪr]",
+      "exampleSentence": "Next year will be better."
+    },
+    {
+      "originalWord": "to be",
+      "translation": "是",
+      "transcription": "[tuː biː]",
+      "exampleSentence": "I am happy today."
+    },
+    {
+      "originalWord": "to have",
+      "translation": "有",
+      "transcription": "[tuː hæv]",
+      "exampleSentence": "I have a question."
+    },
+    {
+      "originalWord": "to do",
+      "translation": "做",
+      "transcription": "[tuː duː]",
+      "exampleSentence": "What do you do on weekends?"
+    },
+    {
+      "originalWord": "to go",
+      "translation": "去",
+      "transcription": "[tuː ɡoʊ]",
+      "exampleSentence": "I go to school every day."
+    },
+    {
+      "originalWord": "to come",
+      "translation": "来",
+      "transcription": "[tuː kʌm]",
+      "exampleSentence": "Please come here."
+    },
+    {
+      "originalWord": "to want",
+      "translation": "想要",
+      "transcription": "[tuː wɑːnt]",
+      "exampleSentence": "I want some water."
+    },
+    {
+      "originalWord": "to need",
+      "translation": "需要",
+      "transcription": "[tuː niːd]",
+      "exampleSentence": "I need help, please."
+    },
+    {
+      "originalWord": "to like",
+      "translation": "喜欢",
+      "transcription": "[tuː laɪk]",
+      "exampleSentence": "I like this song."
+    },
+    {
+      "originalWord": "to love",
+      "translation": "爱",
+      "transcription": "[tuː lʌv]",
+      "exampleSentence": "I love my family."
+    },
+    {
+      "originalWord": "to see",
+      "translation": "看见",
+      "transcription": "[tuː siː]",
+      "exampleSentence": "I see the bus."
+    },
+    {
+      "originalWord": "good",
+      "translation": "好",
+      "transcription": "[ɡʊd]",
+      "exampleSentence": "This is a good idea."
+    },
+    {
+      "originalWord": "bad",
+      "translation": "坏",
+      "transcription": "[bæd]",
+      "exampleSentence": "The weather is bad today."
+    },
+    {
+      "originalWord": "big",
+      "translation": "大",
+      "transcription": "[bɪɡ]",
+      "exampleSentence": "This is a big house."
+    },
+    {
+      "originalWord": "small",
+      "translation": "小",
+      "transcription": "[smɔːl]",
+      "exampleSentence": "I have a small dog."
+    },
+    {
+      "originalWord": "new",
+      "translation": "新",
+      "transcription": "[nuː]",
+      "exampleSentence": "I bought a new phone."
+    },
+    {
+      "originalWord": "old",
+      "translation": "旧",
+      "transcription": "[oʊld]",
+      "exampleSentence": "My car is old."
+    },
+    {
+      "originalWord": "hot",
+      "translation": "热",
+      "transcription": "[hɑːt]",
+      "exampleSentence": "The coffee is hot."
+    },
+    {
+      "originalWord": "cold",
+      "translation": "冷",
+      "transcription": "[koʊld]",
+      "exampleSentence": "The water is cold."
+    }
+  ]
+}

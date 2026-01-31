@@ -261,6 +261,162 @@
       "tags": ["food", "restaurant", "dining"],
       "downloadCount": 0,
       "rating": 5.0
+    },
+    {
+      "id": "en_es_common_100",
+      "title": {
+        "en": "🇬🇧EN/🇪🇸ES: Common 100",
+        "es": "🇬🇧EN/🇪🇸ES: Común 100",
+        "ru": "🇬🇧EN/🇪🇸ES: Общие 100",
+        "zh": "🇬🇧EN/🇪🇸ES: 常用100"
+      },
+      "description": {
+        "en": "100 most common words for everyday use",
+        "es": "100 palabras más comunes para uso diario",
+        "ru": "100 самых распространенных слов для повседневного использования",
+        "zh": "日常使用最常见的100个单词"
+      },
+      "fromLanguage": "en",
+      "toLanguage": "es",
+      "wordCount": 100,
+      "difficulty": "intermediate",
+      "category": "general",
+      "isPremium": false,
+      "icon": "star.circle.fill",
+      "color": "#FF6B6B",
+      "tags": ["popular", "common", "essential"],
+      "downloadCount": 0,
+      "rating": 5.0
+    },
+    {
+      "id": "es_en_comun_100",
+      "title": {
+        "en": "🇪🇸ES/🇬🇧EN: Common 100",
+        "es": "🇪🇸ES/🇬🇧EN: Común 100",
+        "ru": "🇪🇸ES/🇬🇧EN: Общие 100",
+        "zh": "🇪🇸ES/🇬🇧EN: 常用100"
+      },
+      "description": {
+        "en": "100 most common words for everyday use",
+        "es": "100 palabras más comunes para uso diario",
+        "ru": "100 самых распространенных слов для повседневного использования",
+        "zh": "日常使用最常见的100个单词"
+      },
+      "fromLanguage": "es",
+      "toLanguage": "en",
+      "wordCount": 100,
+      "difficulty": "intermediate",
+      "category": "general",
+      "isPremium": false,
+      "icon": "star.circle.fill",
+      "color": "#4ECDC4",
+      "tags": ["popular", "common", "essential"],
+      "downloadCount": 0,
+      "rating": 5.0
+    },
+    {
+      "id": "en_ru_common_100",
+      "title": {
+        "en": "🇬🇧EN/🇷🇺RU: Common 100",
+        "es": "🇬🇧EN/🇷🇺RU: Común 100",
+        "ru": "🇬🇧EN/🇷🇺RU: Общие 100",
+        "zh": "🇬🇧EN/🇷🇺RU: 常用100"
+      },
+      "description": {
+        "en": "100 most common words for everyday use",
+        "es": "100 palabras más comunes para uso diario",
+        "ru": "100 самых распространенных слов для повседневного использования",
+        "zh": "日常使用最常见的100个单词"
+      },
+      "fromLanguage": "en",
+      "toLanguage": "ru",
+      "wordCount": 100,
+      "difficulty": "intermediate",
+      "category": "general",
+      "isPremium": false,
+      "icon": "star.circle.fill",
+      "color": "#95E1D3",
+      "tags": ["popular", "common", "essential"],
+      "downloadCount": 0,
+      "rating": 5.0
+    },
+    {
+      "id": "ru_en_common_100",
+      "title": {
+        "en": "🇷🇺RU/🇬🇧EN: Common 100",
+        "es": "🇷🇺RU/🇬🇧EN: Común 100",
+        "ru": "🇷🇺RU/🇬🇧EN: Общие 100",
+        "zh": "🇷🇺RU/🇬🇧EN: 常用100"
+      },
+      "description": {
+        "en": "100 most common words for everyday use",
+        "es": "100 palabras más comunes para uso diario",
+        "ru": "100 самых распространенных слов для повседневного использования",
+        "zh": "日常使用最常见的100个单词"
+      },
+      "fromLanguage": "ru",
+      "toLanguage": "en",
+      "wordCount": 100,
+      "difficulty": "intermediate",
+      "category": "general",
+      "isPremium": false,
+      "icon": "star.circle.fill",
+      "color": "#F38181",
+      "tags": ["popular", "common", "essential"],
+      "downloadCount": 0,
+      "rating": 5.0
+    },
+    {
+      "id": "en_zh_common_100",
+      "title": {
+        "en": "🇬🇧EN/🇨🇳ZH: Common 100",
+        "es": "🇬🇧EN/🇨🇳ZH: Común 100",
+        "ru": "🇬🇧EN/🇨🇳ZH: Общие 100",
+        "zh": "🇬🇧EN/🇨🇳ZH: 常用100"
+      },
+      "description": {
+        "en": "100 most common words for everyday use",
+        "es": "100 palabras más comunes para uso diario",
+        "ru": "100 самых распространенных слов для повседневного использования",
+        "zh": "日常使用最常见的100个单词"
+      },
+      "fromLanguage": "en",
+      "toLanguage": "zh",
+      "wordCount": 100,
+      "difficulty": "intermediate",
+      "category": "general",
+      "isPremium": false,
+      "icon": "star.circle.fill",
+      "color": "#AA96DA",
+      "tags": ["popular", "common", "essential"],
+      "downloadCount": 0,
+      "rating": 5.0
+    },
+    {
+      "id": "zh_en_common_100",
+      "title": {
+        "en": "🇨🇳ZH/🇬🇧EN: Common 100",
+        "es": "🇨🇳ZH/🇬🇧EN: Común 100",
+        "ru": "🇨🇳ZH/🇬🇧EN: Общие 100",
+        "zh": "🇨🇳ZH/🇬🇧EN: 常用100"
+      },
+      "description": {
+        "en": "100 most common words for everyday use",
+        "es": "100 palabras más comunes para uso diario",
+        "ru": "100 самых распространенных слов для повседневного использования",
+        "zh": "日常使用最常见的100个单词"
+      },
+      "fromLanguage": "zh",
+      "toLanguage": "en",
+      "wordCount": 100,
+      "difficulty": "intermediate",
+      "category": "general",
+      "isPremium": false,
+      "icon": "star.circle.fill",
+      "color": "#FCBAD3",
+      "tags": ["popular", "common", "essential"],
+      "downloadCount": 0,
+      "rating": 5.0
     }
   ],
   "categories": [
