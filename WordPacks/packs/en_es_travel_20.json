@@ -6,121 +6,121 @@
       "originalWord": "airport",
       "translation": "aeropuerto",
       "transcription": "[aeɾoˈpweɾto]",
-      "exampleSentence": "I'm going to the airport."
+      "exampleSentence": "Voy al aeropuerto."
     },
     {
       "originalWord": "hotel",
       "translation": "hotel",
       "transcription": "[oˈtel]",
-      "exampleSentence": "Where is my hotel?"
+      "exampleSentence": "¿Dónde está mi hotel?"
     },
     {
       "originalWord": "ticket",
       "translation": "boleto",
       "transcription": "[boˈleto]",
-      "exampleSentence": "I need to buy a ticket."
+      "exampleSentence": "Necesito comprar un boleto."
     },
     {
       "originalWord": "passport",
       "translation": "pasaporte",
       "transcription": "[pasaˈpoɾte]",
-      "exampleSentence": "Here is my passport."
+      "exampleSentence": "Aquí está mi pasaporte."
     },
     {
       "originalWord": "luggage",
       "translation": "equipaje",
       "transcription": "[ekiˈpaxe]",
-      "exampleSentence": "Where is my luggage?"
+      "exampleSentence": "¿Dónde está mi equipaje?"
     },
     {
       "originalWord": "flight",
       "translation": "vuelo",
       "transcription": "[ˈbwelo]",
-      "exampleSentence": "My flight is at 3 PM."
+      "exampleSentence": "Mi vuelo es a las 3 PM."
     },
     {
       "originalWord": "train",
       "translation": "tren",
       "transcription": "[tɾen]",
-      "exampleSentence": "I'm taking the train."
+      "exampleSentence": "Voy en tren."
     },
     {
       "originalWord": "bus",
       "translation": "autobús",
       "transcription": "[awtoˈβus]",
-      "exampleSentence": "The bus is coming."
+      "exampleSentence": "El autobús ya viene."
     },
     {
       "originalWord": "taxi",
       "translation": "taxi",
       "transcription": "[ˈtaksi]",
-      "exampleSentence": "I need a taxi, please."
+      "exampleSentence": "Necesito un taxi, por favor."
     },
     {
       "originalWord": "map",
       "translation": "mapa",
       "transcription": "[ˈmapa]",
-      "exampleSentence": "Do you have a map?"
+      "exampleSentence": "¿Tienes un mapa?"
     },
     {
       "originalWord": "restaurant",
       "translation": "restaurante",
       "transcription": "[restauˈɾante]",
-      "exampleSentence": "Let's go to a restaurant."
+      "exampleSentence": "Vamos a un restaurante."
     },
     {
       "originalWord": "museum",
       "translation": "museo",
       "transcription": "[muˈseo]",
-      "exampleSentence": "The museum is closed today."
+      "exampleSentence": "El museo está cerrado hoy."
     },
     {
       "originalWord": "beach",
       "translation": "playa",
       "transcription": "[ˈplaʝa]",
-      "exampleSentence": "I love the beach!"
+      "exampleSentence": "¡Me encanta la playa!"
     },
     {
       "originalWord": "reservation",
       "translation": "reserva",
       "transcription": "[reˈseɾβa]",
-      "exampleSentence": "I have a reservation."
+      "exampleSentence": "Tengo una reserva."
     },
     {
       "originalWord": "entrance",
       "translation": "entrada",
       "transcription": "[enˈtɾaða]",
-      "exampleSentence": "Where is the entrance?"
+      "exampleSentence": "¿Dónde está la entrada?"
     },
     {
       "originalWord": "exit",
       "translation": "salida",
       "transcription": "[saˈliða]",
-      "exampleSentence": "The exit is over there."
+      "exampleSentence": "La salida está allí."
     },
     {
       "originalWord": "emergency",
       "translation": "emergencia",
       "transcription": "[emeɾˈxensja]",
-      "exampleSentence": "This is an emergency!"
+      "exampleSentence": "¡Esto es una emergencia!"
     },
     {
       "originalWord": "pharmacy",
       "translation": "farmacia",
       "transcription": "[faɾˈmasja]",
-      "exampleSentence": "I need to find a pharmacy."
+      "exampleSentence": "Necesito encontrar una farmacia."
     },
     {
       "originalWord": "money",
       "translation": "dinero",
       "transcription": "[diˈneɾo]",
-      "exampleSentence": "I don't have money."
+      "exampleSentence": "No tengo dinero."
     },
     {
       "originalWord": "credit card",
       "translation": "tarjeta de crédito",
       "transcription": "[taɾˈxeta ðe ˈkɾeðito]",
-      "exampleSentence": "Do you accept credit cards?"
+      "exampleSentence": "¿Aceptan tarjetas de crédito?"
     }
   ]
 }

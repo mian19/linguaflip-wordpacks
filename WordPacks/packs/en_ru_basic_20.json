@@ -5,122 +5,122 @@
     {
       "originalWord": "hello",
       "translation": "привет",
-      "transcription": "[həˈloʊ]",
-      "exampleSentence": "Hello, how are you?"
+      "transcription": "[prʲɪˈvʲet]",
+      "exampleSentence": "Привет, как дела?"
     },
     {
       "originalWord": "goodbye",
       "translation": "до свидания",
-      "transcription": "[ɡʊdˈbaɪ]",
-      "exampleSentence": "Goodbye, see you tomorrow!"
+      "transcription": "[də svʲɪˈdanʲɪjə]",
+      "exampleSentence": "До свидания, увидимся завтра!"
     },
     {
       "originalWord": "please",
       "translation": "пожалуйста",
-      "transcription": "[pliːz]",
-      "exampleSentence": "Can I have water, please?"
+      "transcription": "[pɐˈʐaɫʊstə]",
+      "exampleSentence": "Можно воды, пожалуйста?"
     },
     {
       "originalWord": "thank you",
       "translation": "спасибо",
-      "transcription": "[θæŋk juː]",
-      "exampleSentence": "Thank you very much!"
+      "transcription": "[spɐˈsʲibə]",
+      "exampleSentence": "Большое спасибо!"
     },
     {
       "originalWord": "yes",
       "translation": "да",
-      "transcription": "[jɛs]",
-      "exampleSentence": "Yes, I understand."
+      "transcription": "[da]",
+      "exampleSentence": "Да, я понимаю."
     },
     {
       "originalWord": "no",
       "translation": "нет",
-      "transcription": "[noʊ]",
-      "exampleSentence": "No, I don't want it."
+      "transcription": "[nʲet]",
+      "exampleSentence": "Нет, я не хочу это."
     },
     {
       "originalWord": "excuse me",
       "translation": "извините",
-      "transcription": "[ɪkˈskjuːz miː]",
-      "exampleSentence": "Excuse me, where is the bathroom?"
+      "transcription": "[ɪzvʲɪˈnʲitʲe]",
+      "exampleSentence": "Извините, где туалет?"
     },
     {
       "originalWord": "sorry",
       "translation": "простите",
-      "transcription": "[ˈsɑːri]",
-      "exampleSentence": "I'm sorry, I'm late."
+      "transcription": "[prɐˈsʲtʲitʲe]",
+      "exampleSentence": "Простите, я опоздал."
     },
     {
       "originalWord": "water",
       "translation": "вода",
-      "transcription": "[ˈwɔːtɚ]",
-      "exampleSentence": "I need a glass of water."
+      "transcription": "[vɐˈda]",
+      "exampleSentence": "Мне нужен стакан воды."
     },
     {
       "originalWord": "food",
       "translation": "еда",
-      "transcription": "[fuːd]",
-      "exampleSentence": "The food is delicious."
+      "transcription": "[jɪˈda]",
+      "exampleSentence": "Еда очень вкусная."
     },
     {
       "originalWord": "help",
       "translation": "помощь",
-      "transcription": "[hɛlp]",
-      "exampleSentence": "I need help, please."
+      "transcription": "[ˈpoməɕː]",
+      "exampleSentence": "Мне нужна помощь, пожалуйста."
     },
     {
       "originalWord": "bathroom",
       "translation": "туалет",
-      "transcription": "[ˈbæθruːm]",
-      "exampleSentence": "Where is the bathroom?"
+      "transcription": "[tʊɐˈlʲet]",
+      "exampleSentence": "Где находится туалет?"
     },
     {
       "originalWord": "how much",
       "translation": "сколько",
-      "transcription": "[haʊ mʌtʃ]",
-      "exampleSentence": "How much does this cost?"
+      "transcription": "[ˈskolʲkə]",
+      "exampleSentence": "Сколько это стоит?"
     },
     {
       "originalWord": "where",
       "translation": "где",
-      "transcription": "[wɛr]",
-      "exampleSentence": "Where is the hotel?"
+      "transcription": "[ɡdʲe]",
+      "exampleSentence": "Где находится отель?"
     },
     {
       "originalWord": "when",
       "translation": "когда",
-      "transcription": "[wɛn]",
-      "exampleSentence": "When does the train arrive?"
+      "transcription": "[kɐɡˈda]",
+      "exampleSentence": "Когда приходит поезд?"
     },
     {
       "originalWord": "good",
       "translation": "хороший",
-      "transcription": "[ɡʊd]",
-      "exampleSentence": "This is very good!"
+      "transcription": "[xɐˈroʂɨj]",
+      "exampleSentence": "Это очень хорошо!"
     },
     {
       "originalWord": "bad",
       "translation": "плохой",
-      "transcription": "[bæd]",
-      "exampleSentence": "The weather is bad today."
+      "transcription": "[plɐˈxoj]",
+      "exampleSentence": "Сегодня плохая погода."
     },
     {
       "originalWord": "big",
       "translation": "большой",
-      "transcription": "[bɪɡ]",
-      "exampleSentence": "This is a big house."
+      "transcription": "[bɐlʲˈʂoj]",
+      "exampleSentence": "Это большой дом."
     },
     {
       "originalWord": "small",
       "translation": "маленький",
-      "transcription": "[smɔːl]",
-      "exampleSentence": "I have a small dog."
+      "transcription": "[ˈmalʲɪnʲkʲɪj]",
+      "exampleSentence": "У меня маленькая собака."
     },
     {
       "originalWord": "I don't understand",
       "translation": "я не понимаю",
-      "transcription": "[aɪ doʊnt ˌʌndərˈstænd]",
-      "exampleSentence": "Sorry, I don't understand Russian."
+      "transcription": "[ja nʲe pənʲɪˈmajʊ]",
+      "exampleSentence": "Извините, я не понимаю английский."
     }
   ]
 }

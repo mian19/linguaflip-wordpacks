@@ -5,26 +5,26 @@
     {
       "originalWord": "breakfast",
       "translation": "早餐",
-      "transcription": "[ˈbrɛkfəst]",
-      "exampleSentence": "I eat breakfast at 8 AM."
+      "transcription": "[zǎo cān]",
+      "exampleSentence": "我早上8点吃早餐。"
     },
     {
       "originalWord": "lunch",
       "translation": "午餐",
-      "transcription": "[lʌntʃ]",
-      "exampleSentence": "Let's have lunch together."
+      "transcription": "[wǔ cān]",
+      "exampleSentence": "我们一起吃午餐吧。"
     },
     {
       "originalWord": "dinner",
       "translation": "晚餐",
-      "transcription": "[ˈdɪnɚ]",
-      "exampleSentence": "Dinner is ready!"
+      "transcription": "[wǎn cān]",
+      "exampleSentence": "晚餐准备好了！"
     },
     {
       "originalWord": "rice",
       "translation": "米饭",
-      "transcription": "[raɪs]",
-      "exampleSentence": "I eat rice every day."
+      "transcription": "[mǐ fàn]",
+      "exampleSentence": "我每天都做饭。"
     },
     {
       "originalWord": "noodles",
@@ -35,62 +35,62 @@
     {
       "originalWord": "meat",
       "translation": "肉",
-      "transcription": "[miːt]",
-      "exampleSentence": "I don't eat meat."
+      "transcription": "[ròu]",
+      "exampleSentence": "我不吃肉。"
     },
     {
       "originalWord": "chicken",
       "translation": "鸡肉",
-      "transcription": "[ˈtʃɪkɪn]",
-      "exampleSentence": "Grilled chicken is delicious."
+      "transcription": "[jī ròu]",
+      "exampleSentence": "烤鸡肉很好吃。"
     },
     {
       "originalWord": "fish",
       "translation": "鱼",
-      "transcription": "[fɪʃ]",
-      "exampleSentence": "I prefer fish over meat."
+      "transcription": "[yú]",
+      "exampleSentence": "我更喜欢鱼而不是肉。"
     },
     {
       "originalWord": "vegetables",
       "translation": "蔬菜",
-      "transcription": "[ˈvɛdʒtəbəlz]",
-      "exampleSentence": "Eat your vegetables!"
+      "transcription": "[shū cài]",
+      "exampleSentence": "吃你的蔬菜！"
     },
     {
       "originalWord": "fruit",
       "translation": "水果",
-      "transcription": "[fruːt]",
-      "exampleSentence": "Fresh fruit is healthy."
+      "transcription": "[shuǐ guǒ]",
+      "exampleSentence": "新鲜的水果很健康。"
     },
     {
       "originalWord": "tea",
       "translation": "茶",
-      "transcription": "[tiː]",
-      "exampleSentence": "Would you like some tea?"
+      "transcription": "[chá]",
+      "exampleSentence": "你想喝茶吗？"
     },
     {
       "originalWord": "coffee",
       "translation": "咖啡",
-      "transcription": "[ˈkɔːfi]",
-      "exampleSentence": "I need coffee in the morning."
+      "transcription": "[kā fēi]",
+      "exampleSentence": "我早上需要咖啡。"
     },
     {
       "originalWord": "juice",
       "translation": "果汁",
-      "transcription": "[dʒuːs]",
-      "exampleSentence": "Orange juice is my favorite."
+      "transcription": "[guǒ zhī]",
+      "exampleSentence": "橙汁是我的最爱。"
     },
     {
       "originalWord": "milk",
       "translation": "牛奶",
-      "transcription": "[mɪlk]",
-      "exampleSentence": "I drink milk every morning."
+      "transcription": "[niú nǎi]",
+      "exampleSentence": "我每天早上喝牛奶。"
     },
     {
       "originalWord": "egg",
       "translation": "鸡蛋",
-      "transcription": "[ɛɡ]",
-      "exampleSentence": "I eat two eggs for breakfast."
+      "transcription": "[jī dàn]",
+      "exampleSentence": "我早餐吃两个鸡蛋。"
     },
     {
       "originalWord": "soup",
@@ -101,20 +101,20 @@
     {
       "originalWord": "bread",
       "translation": "面包",
-      "transcription": "[brɛd]",
-      "exampleSentence": "I love fresh bread."
+      "transcription": "[miàn bāo]",
+      "exampleSentence": "我喜欢新鲜的面包。"
     },
     {
       "originalWord": "salt",
       "translation": "盐",
-      "transcription": "[sɔːlt]",
-      "exampleSentence": "Pass me the salt, please."
+      "transcription": "[yán]",
+      "exampleSentence": "请把盐递给我。"
     },
     {
       "originalWord": "menu",
       "translation": "菜单",
-      "transcription": "[ˈmɛnjuː]",
-      "exampleSentence": "Can I see the menu?"
+      "transcription": "[cài dān]",
+      "exampleSentence": "我可以看看菜单吗？"
     },
     {
       "originalWord": "delicious",

@@ -5,602 +5,602 @@
     {
       "originalWord": "hello",
       "translation": "привет",
-      "transcription": "[həˈloʊ]",
-      "exampleSentence": "Hello, how are you?"
+      "transcription": "[prʲɪˈvʲet]",
+      "exampleSentence": "Привет, приятно познакомиться."
     },
     {
       "originalWord": "hi",
       "translation": "привет",
-      "transcription": "[haɪ]",
-      "exampleSentence": "Hi, nice to meet you."
+      "transcription": "[prʲɪˈvʲet]",
+      "exampleSentence": "Привет, приятно познакомиться."
     },
     {
       "originalWord": "good morning",
       "translation": "доброе утро",
-      "transcription": "[ɡʊd ˈmɔːrnɪŋ]",
-      "exampleSentence": "Good morning, everyone."
+      "transcription": "[ˈdobrəjə ˈutrə]",
+      "exampleSentence": "Доброе утро, всем!"
     },
     {
       "originalWord": "good afternoon",
       "translation": "добрый день",
-      "transcription": "[ɡʊd ˌæftɚˈnuːn]",
-      "exampleSentence": "Good afternoon, Mr. Ivanov."
+      "transcription": "[ˈdobrɨj dʲenʲ]",
+      "exampleSentence": "Добрый день, господин Иванов."
     },
     {
       "originalWord": "good evening",
       "translation": "добрый вечер",
-      "transcription": "[ɡʊd ˈiːvnɪŋ]",
-      "exampleSentence": "Good evening, welcome!"
+      "transcription": "[ˈdobrɨj ˈvʲetɕɪr]",
+      "exampleSentence": "Добрый вечер, добро пожаловать!"
     },
     {
       "originalWord": "good night",
       "translation": "спокойной ночи",
-      "transcription": "[ɡʊd ˈnaɪt]",
-      "exampleSentence": "Good night, sleep well."
+      "transcription": "[spɐˈkoj.nəj ˈnotɕɪ]",
+      "exampleSentence": "Спокойной ночи, спи хорошо."
     },
     {
       "originalWord": "goodbye",
       "translation": "до свидания",
-      "transcription": "[ɡʊdˈbaɪ]",
-      "exampleSentence": "Goodbye, see you tomorrow!"
+      "transcription": "[dɐ svʲɪˈdanʲɪjə]",
+      "exampleSentence": "До свидания, увидимся завтра!"
     },
     {
       "originalWord": "see you later",
       "translation": "увидимся позже",
-      "transcription": "[siː juː ˈleɪtɚ]",
-      "exampleSentence": "See you later, take care."
+      "transcription": "[ʊˈvʲidʲɪmsʲə ˈpoʐɨ]",
+      "exampleSentence": "Увидимся позже, береги себя."
     },
     {
       "originalWord": "please",
       "translation": "пожалуйста",
-      "transcription": "[pliːz]",
-      "exampleSentence": "Please sit down."
+      "transcription": "[pɐˈʐalʊstə]",
+      "exampleSentence": "Пожалуйста, садитесь."
     },
     {
       "originalWord": "thank you",
       "translation": "спасибо",
-      "transcription": "[θæŋk juː]",
-      "exampleSentence": "Thank you for your help."
+      "transcription": "[spɐˈsʲibə]",
+      "exampleSentence": "Спасибо за вашу помощь."
     },
     {
       "originalWord": "you're welcome",
       "translation": "не за что",
-      "transcription": "[jʊr ˈwɛlkəm]",
-      "exampleSentence": "You're welcome, no problem."
+      "transcription": "[nʲe zɐ ʂto]",
+      "exampleSentence": "Не за что, без проблем."
     },
     {
       "originalWord": "excuse me",
       "translation": "извините",
-      "transcription": "[ɪkˈskjuːz miː]",
-      "exampleSentence": "Excuse me, where is the bathroom?"
+      "transcription": "[ɪzvʲɪˈnʲitʲe]",
+      "exampleSentence": "Извините, где туалет?"
     },
     {
       "originalWord": "sorry",
       "translation": "извини(те)",
-      "transcription": "[ˈsɑːri]",
-      "exampleSentence": "Sorry, I'm late."
+      "transcription": "[ɪzvʲɪˈnʲi] / [ɪzvʲɪˈnʲitʲe]",
+      "exampleSentence": "Извини(те), я опоздал(а)."
     },
     {
       "originalWord": "yes",
       "translation": "да",
-      "transcription": "[jɛs]",
-      "exampleSentence": "Yes, I understand."
+      "transcription": "[da]",
+      "exampleSentence": "Да, я понимаю."
     },
     {
       "originalWord": "no",
       "translation": "нет",
-      "transcription": "[noʊ]",
-      "exampleSentence": "No, I don't want it."
+      "transcription": "[nʲet]",
+      "exampleSentence": "Нет, я не хочу этого."
     },
     {
       "originalWord": "maybe",
       "translation": "возможно",
-      "transcription": "[ˈmeɪbi]",
-      "exampleSentence": "Maybe we can go later."
+      "transcription": "[vɐzˈmoʐnə]",
+      "exampleSentence": "Возможно, мы сможем пойти позже."
     },
     {
       "originalWord": "okay",
       "translation": "хорошо",
-      "transcription": "[oʊˈkeɪ]",
-      "exampleSentence": "Okay, let's start."
+      "transcription": "[xɐrɐˈʂo]",
+      "exampleSentence": "Хорошо, давай начнём."
     },
     {
       "originalWord": "please help",
       "translation": "помогите, пожалуйста",
-      "transcription": "[pliːz hɛlp]",
-      "exampleSentence": "Please help me."
+      "transcription": "[pəmɐˈɡʲitʲe pɐˈʐalʊstə]",
+      "exampleSentence": "Помогите, пожалуйста."
     },
     {
       "originalWord": "I don't understand",
       "translation": "я не понимаю",
-      "transcription": "[aɪ doʊnt ˌʌndərˈstænd]",
-      "exampleSentence": "Sorry, I don't understand."
+      "transcription": "[ja nʲe pənʲɪˈmajʊ]",
+      "exampleSentence": "Извините, я не понимаю."
     },
     {
       "originalWord": "do you speak English?",
       "translation": "вы говорите по-английски?",
-      "transcription": "[duː juː spiːk ˈɪŋɡlɪʃ]",
-      "exampleSentence": "Do you speak English?"
+      "transcription": "[vɨ ɡəvɐˈrʲitʲe pɐ ɐnˈɡlʲijskʲɪ]",
+      "exampleSentence": "Вы говорите по-английски?"
     },
     {
       "originalWord": "zero",
       "translation": "ноль",
-      "transcription": "[ˈzɪroʊ]",
-      "exampleSentence": "Zero is the first number."
+      "transcription": "[nolʲ]",
+      "exampleSentence": "Ноль — это первое число."
     },
     {
       "originalWord": "one",
       "translation": "один",
-      "transcription": "[wʌn]",
-      "exampleSentence": "I have one sister."
+      "transcription": "[ɐˈdʲin]",
+      "exampleSentence": "У меня одно яблоко."
     },
     {
       "originalWord": "two",
       "translation": "два",
-      "transcription": "[tuː]",
-      "exampleSentence": "I need two tickets."
+      "transcription": "[dva]",
+      "exampleSentence": "У меня два яблока."
     },
     {
       "originalWord": "three",
       "translation": "три",
-      "transcription": "[θriː]",
-      "exampleSentence": "There are three apples."
+      "transcription": "[trʲi]",
+      "exampleSentence": "У меня три яблока."
     },
     {
       "originalWord": "four",
       "translation": "четыре",
-      "transcription": "[fɔːr]",
-      "exampleSentence": "She has four books."
+      "transcription": "[tɕɪˈtɨrʲɪ]",
+      "exampleSentence": "У меня четыре яблока."
     },
     {
       "originalWord": "five",
       "translation": "пять",
-      "transcription": "[faɪv]",
-      "exampleSentence": "I work five days a week."
+      "transcription": "[pʲætʲ]",
+      "exampleSentence": "У меня пять яблок."
     },
     {
       "originalWord": "six",
       "translation": "шесть",
-      "transcription": "[sɪks]",
-      "exampleSentence": "We have six chairs."
+      "transcription": "[ʂesʲtʲ]",
+      "exampleSentence": "У меня шесть яблок."
     },
     {
       "originalWord": "seven",
       "translation": "семь",
-      "transcription": "[ˈsɛvən]",
-      "exampleSentence": "Seven is my lucky number."
+      "transcription": "[sʲemʲ]",
+      "exampleSentence": "У меня семь яблок."
     },
     {
       "originalWord": "eight",
       "translation": "восемь",
-      "transcription": "[eɪt]",
-      "exampleSentence": "I wake up at eight."
+      "transcription": "[ˈvosʲɪmʲ]",
+      "exampleSentence": "У меня восемь яблок."
     },
     {
       "originalWord": "nine",
       "translation": "девять",
-      "transcription": "[naɪn]",
-      "exampleSentence": "It's nine o'clock."
+      "transcription": "[ˈdʲevʲɪtʲ]",
+      "exampleSentence": "У меня девять яблок."
     },
     {
       "originalWord": "ten",
       "translation": "десять",
-      "transcription": "[tɛn]",
-      "exampleSentence": "Ten people are here."
+      "transcription": "[ˈdʲesʲɪtʲ]",
+      "exampleSentence": "У меня десять яблок."
     },
     {
       "originalWord": "eleven",
       "translation": "одиннадцать",
-      "transcription": "[ɪˈlɛvən]",
-      "exampleSentence": "My room is number eleven."
+      "transcription": "[ɐˈdʲinːət͡sətʲ]",
+      "exampleSentence": "У меня одиннадцать яблок."
     },
     {
       "originalWord": "twelve",
       "translation": "двенадцать",
-      "transcription": "[twɛlv]",
-      "exampleSentence": "There are twelve months."
+      "transcription": "[dvʲɪˈnat͡sətʲ]",
+      "exampleSentence": "У меня двенадцать яблок."
     },
     {
       "originalWord": "thirteen",
       "translation": "тринадцать",
-      "transcription": "[ˌθɝːˈtiːn]",
-      "exampleSentence": "Thirteen is a big number."
+      "transcription": "[trʲɪˈnat͡sətʲ]",
+      "exampleSentence": "У меня тринадцать яблок."
     },
     {
       "originalWord": "fourteen",
       "translation": "четырнадцать",
-      "transcription": "[ˌfɔːrˈtiːn]",
-      "exampleSentence": "I am fourteen years old."
+      "transcription": "[tɕɪˈtɨrnət͡sətʲ]",
+      "exampleSentence": "У меня четырнадцать яблок."
     },
     {
       "originalWord": "fifteen",
       "translation": "пятнадцать",
-      "transcription": "[ˌfɪfˈtiːn]",
-      "exampleSentence": "The meeting is at fifteen past two."
+      "transcription": "[pʲɪtˈnat͡sətʲ]",
+      "exampleSentence": "У меня пятнадцать яблок."
     },
     {
       "originalWord": "sixteen",
       "translation": "шестнадцать",
-      "transcription": "[ˌsɪkˈstiːn]",
-      "exampleSentence": "She is sixteen today."
+      "transcription": "[ʂɨsʲtˈnat͡sətʲ]",
+      "exampleSentence": "У меня шестнадцать яблок."
     },
     {
       "originalWord": "seventeen",
       "translation": "семнадцать",
-      "transcription": "[ˌsɛvənˈtiːn]",
-      "exampleSentence": "Seventeen students came."
+      "transcription": "[sʲɪmˈnat͡sətʲ]",
+      "exampleSentence": "У меня семнадцать яблок."
     },
     {
       "originalWord": "eighteen",
       "translation": "восемнадцать",
-      "transcription": "[ˌeɪˈtiːn]",
-      "exampleSentence": "I turn eighteen next year."
+      "transcription": "[vɐsʲɪmˈnat͡sətʲ]",
+      "exampleSentence": "У меня восемнадцать яблок."
     },
     {
       "originalWord": "nineteen",
       "translation": "девятнадцать",
-      "transcription": "[ˌnaɪnˈtiːn]",
-      "exampleSentence": "Nineteen is almost twenty."
+      "transcription": "[dʲɪvʲɪtˈnat͡sətʲ]",
+      "exampleSentence": "У меня девятнадцать яблок."
     },
     {
       "originalWord": "twenty",
       "translation": "двадцать",
-      "transcription": "[ˈtwɛnti]",
-      "exampleSentence": "I have twenty euros."
+      "transcription": "[ˈdvat͡sətʲ]",
+      "exampleSentence": "У меня двадцать яблок."
     },
     {
       "originalWord": "red",
       "translation": "красный",
-      "transcription": "[rɛd]",
-      "exampleSentence": "My car is red."
+      "transcription": "[ˈkrasnɨj]",
+      "exampleSentence": "Моя машина красная."
     },
     {
       "originalWord": "blue",
       "translation": "синий",
-      "transcription": "[bluː]",
-      "exampleSentence": "The sky is blue."
+      "transcription": "[ˈsʲinʲɪj]",
+      "exampleSentence": "Моя машина синяя."
     },
     {
       "originalWord": "green",
       "translation": "зелёный",
-      "transcription": "[ɡriːn]",
-      "exampleSentence": "I like green apples."
+      "transcription": "[zʲɪˈlʲonɨj]",
+      "exampleSentence": "Моя машина зелёная."
     },
     {
       "originalWord": "yellow",
       "translation": "жёлтый",
-      "transcription": "[ˈjɛloʊ]",
-      "exampleSentence": "The sun is yellow."
+      "transcription": "[ˈʐoltɨj]",
+      "exampleSentence": "Моя машина жёлтая."
     },
     {
       "originalWord": "black",
       "translation": "чёрный",
-      "transcription": "[blæk]",
-      "exampleSentence": "My shoes are black."
+      "transcription": "[ˈtɕornɨj]",
+      "exampleSentence": "Моя машина чёрная."
     },
     {
       "originalWord": "white",
       "translation": "белый",
-      "transcription": "[waɪt]",
-      "exampleSentence": "The wall is white."
+      "transcription": "[ˈbʲelɨj]",
+      "exampleSentence": "Моя машина белая."
     },
     {
       "originalWord": "orange",
       "translation": "оранжевый",
-      "transcription": "[ˈɔːrɪndʒ]",
-      "exampleSentence": "Orange is my favorite color."
+      "transcription": "[ɐˈranʐɨvɨj]",
+      "exampleSentence": "Моя машина оранжевая."
     },
     {
       "originalWord": "purple",
       "translation": "фиолетовый",
-      "transcription": "[ˈpɝːpəl]",
-      "exampleSentence": "She wears a purple dress."
+      "transcription": "[fʲɪɐˈlʲetəbɨj]",
+      "exampleSentence": "Моя машина фиолетовая."
     },
     {
       "originalWord": "pink",
       "translation": "розовый",
-      "transcription": "[pɪŋk]",
-      "exampleSentence": "I bought a pink shirt."
+      "transcription": "[ˈrozəvɨj]",
+      "exampleSentence": "Моя машина розовая."
     },
     {
       "originalWord": "brown",
       "translation": "коричневый",
-      "transcription": "[braʊn]",
-      "exampleSentence": "The table is brown."
+      "transcription": "[kɐˈrʲitɕnʲɪvɨj]",
+      "exampleSentence": "Моя машина коричневая."
     },
     {
       "originalWord": "gray",
       "translation": "серый",
-      "transcription": "[ɡreɪ]",
-      "exampleSentence": "The sky is gray today."
+      "transcription": "[ˈsʲerɨj]",
+      "exampleSentence": "Моя машина серая."
     },
     {
       "originalWord": "family",
       "translation": "семья",
-      "transcription": "[ˈfæməli]",
-      "exampleSentence": "My family is big."
+      "transcription": "[sʲɪˈmʲja]",
+      "exampleSentence": "Моя семья большая."
     },
     {
       "originalWord": "mother",
       "translation": "мама",
-      "transcription": "[ˈmʌðɚ]",
-      "exampleSentence": "My mother is kind."
+      "transcription": "[ˈmamə]",
+      "exampleSentence": "Моя мама добрая."
     },
     {
       "originalWord": "father",
       "translation": "папа",
-      "transcription": "[ˈfɑːðɚ]",
-      "exampleSentence": "My father works a lot."
+      "transcription": "[ˈpapə]",
+      "exampleSentence": "Мой папа много работает."
     },
     {
       "originalWord": "parents",
       "translation": "родители",
-      "transcription": "[ˈpɛrənts]",
-      "exampleSentence": "My parents live nearby."
+      "transcription": "[rɐˈdʲitʲɪlʲɪ]",
+      "exampleSentence": "Мои родители живут рядом."
     },
     {
       "originalWord": "son",
       "translation": "сын",
-      "transcription": "[sʌn]",
-      "exampleSentence": "Their son is at school."
+      "transcription": "[sɨn]",
+      "exampleSentence": "Их сын в школе."
     },
     {
       "originalWord": "daughter",
       "translation": "дочь",
-      "transcription": "[ˈdɔːtɚ]",
-      "exampleSentence": "Her daughter is five."
+      "transcription": "[dotɕ]",
+      "exampleSentence": "Ей пять лет."
     },
     {
       "originalWord": "brother",
       "translation": "брат",
-      "transcription": "[ˈbrʌðɚ]",
-      "exampleSentence": "My brother likes music."
+      "transcription": "[brat]",
+      "exampleSentence": "Мой брат любит музыку."
     },
     {
       "originalWord": "sister",
       "translation": "сестра",
-      "transcription": "[ˈsɪstɚ]",
-      "exampleSentence": "My sister is friendly."
+      "transcription": "[sʲɪˈstra]",
+      "exampleSentence": "Моя сестра дружелюбная."
     },
     {
       "originalWord": "husband",
       "translation": "муж",
-      "transcription": "[ˈhʌzbənd]",
-      "exampleSentence": "Her husband is a doctor."
+      "transcription": "[muʂ]",
+      "exampleSentence": "Её муж — врач."
     },
     {
       "originalWord": "wife",
       "translation": "жена",
-      "transcription": "[waɪf]",
-      "exampleSentence": "My wife is at work."
+      "transcription": "[ʐɨˈna]",
+      "exampleSentence": "Моя жена на работе."
     },
     {
       "originalWord": "child",
       "translation": "ребёнок",
-      "transcription": "[tʃaɪld]",
-      "exampleSentence": "That child is happy."
+      "transcription": "[rʲɪˈbʲonək]",
+      "exampleSentence": "Этот ребёнок счастлив."
     },
     {
       "originalWord": "friend",
       "translation": "друг / подруга",
-      "transcription": "[frɛnd]",
-      "exampleSentence": "You are my friend."
+      "transcription": "[druk] / [pɐˈdruɡə]",
+      "exampleSentence": "Ты мой друг."
     },
     {
       "originalWord": "time",
       "translation": "время",
-      "transcription": "[taɪm]",
-      "exampleSentence": "What time is it?"
+      "transcription": "[ˈvrʲemʲə]",
+      "exampleSentence": "Сколько сейчас времени?"
     },
     {
       "originalWord": "today",
       "translation": "сегодня",
-      "transcription": "[təˈdeɪ]",
-      "exampleSentence": "Today is a good day."
+      "transcription": "[sʲɪˈvodʲnʲə]",
+      "exampleSentence": "Сегодня хороший день."
     },
     {
       "originalWord": "tomorrow",
       "translation": "завтра",
-      "transcription": "[təˈmɑːroʊ]",
-      "exampleSentence": "Tomorrow I will study."
+      "transcription": "[ˈzaftrə]",
+      "exampleSentence": "Завтра я буду учиться."
     },
     {
       "originalWord": "yesterday",
       "translation": "вчера",
-      "transcription": "[ˈjɛstɚdeɪ]",
-      "exampleSentence": "Yesterday I was busy."
+      "transcription": "[ˈftɕerə]",
+      "exampleSentence": "Вчера я был(а) занят(а)."
     },
     {
       "originalWord": "now",
       "translation": "сейчас",
-      "transcription": "[naʊ]",
-      "exampleSentence": "I need it now."
+      "transcription": "[sʲɪˈtɕas]",
+      "exampleSentence": "Мне нужно это сейчас."
     },
     {
       "originalWord": "later",
       "translation": "позже",
-      "transcription": "[ˈleɪtɚ]",
-      "exampleSentence": "I'll call you later."
+      "transcription": "[ˈpoʐɨ]",
+      "exampleSentence": "Я позвоню тебе позже."
     },
     {
       "originalWord": "early",
       "translation": "рано",
-      "transcription": "[ˈɝːli]",
-      "exampleSentence": "I wake up early."
+      "transcription": "[ˈranə]",
+      "exampleSentence": "Я встаю рано."
     },
     {
       "originalWord": "late",
       "translation": "поздно",
-      "transcription": "[leɪt]",
-      "exampleSentence": "The bus is late."
+      "transcription": "[ˈpoznə]",
+      "exampleSentence": "Автобус опаздывает."
     },
     {
       "originalWord": "morning",
       "translation": "утро",
-      "transcription": "[ˈmɔːrnɪŋ]",
-      "exampleSentence": "I drink coffee in the morning."
+      "transcription": "[ˈutrə]",
+      "exampleSentence": "Утром я пью кофе."
     },
     {
       "originalWord": "afternoon",
       "translation": "после обеда",
-      "transcription": "[ˌæftɚˈnuːn]",
-      "exampleSentence": "I work in the afternoon."
+      "transcription": "[ˈposlʲɪ ɐˈbʲedə]",
+      "exampleSentence": "После обеда я работаю."
     },
     {
       "originalWord": "evening",
       "translation": "вечер",
-      "transcription": "[ˈiːvnɪŋ]",
-      "exampleSentence": "We walk in the evening."
+      "transcription": "[ˈvʲetɕɪr]",
+      "exampleSentence": "Мы гуляем вечером."
     },
     {
       "originalWord": "night",
       "translation": "ночь",
-      "transcription": "[naɪt]",
-      "exampleSentence": "At night, I read a book."
+      "transcription": "[notɕ]",
+      "exampleSentence": "Ночью я читаю книгу."
     },
     {
       "originalWord": "hour",
       "translation": "час",
-      "transcription": "[ˈaʊɚ]",
-      "exampleSentence": "It takes one hour."
+      "transcription": "[tɕas]",
+      "exampleSentence": "Это занимает один час."
     },
     {
       "originalWord": "minute",
       "translation": "минута",
-      "transcription": "[ˈmɪnɪt]",
-      "exampleSentence": "Wait a minute, please."
+      "transcription": "[mʲɪˈnutə]",
+      "exampleSentence": "Подожди минуту, пожалуйста."
     },
     {
       "originalWord": "day",
       "translation": "день",
-      "transcription": "[deɪ]",
-      "exampleSentence": "Have a nice day."
+      "transcription": "[dʲenʲ]",
+      "exampleSentence": "Хорошего дня!"
     },
     {
       "originalWord": "week",
       "translation": "неделя",
-      "transcription": "[wiːk]",
-      "exampleSentence": "I have a busy week."
+      "transcription": "[nʲɪˈdʲelʲə]",
+      "exampleSentence": "У меня напряжённая неделя."
     },
     {
       "originalWord": "month",
       "translation": "месяц",
-      "transcription": "[mʌnθ]",
-      "exampleSentence": "This month is cold."
+      "transcription": "[ˈmʲesʲɪt͡s]",
+      "exampleSentence": "В этом месяце холодно."
     },
     {
       "originalWord": "year",
       "translation": "год",
-      "transcription": "[jɪr]",
-      "exampleSentence": "Next year will be better."
+      "transcription": "[ɡot]",
+      "exampleSentence": "Следующий год будет лучше."
     },
     {
       "originalWord": "to be",
       "translation": "быть",
-      "transcription": "[tuː biː]",
-      "exampleSentence": "I am happy today."
+      "transcription": "[bɨtʲ]",
+      "exampleSentence": "Я сегодня счастлив(а)."
     },
     {
       "originalWord": "to have",
       "translation": "иметь",
-      "transcription": "[tuː hæv]",
-      "exampleSentence": "I have a question."
+      "transcription": "[ɪˈmʲetʲ]",
+      "exampleSentence": "У меня есть вопрос."
     },
     {
       "originalWord": "to do",
       "translation": "делать",
-      "transcription": "[tuː duː]",
-      "exampleSentence": "What do you do on weekends?"
+      "transcription": "[ˈdʲelətʲ]",
+      "exampleSentence": "Что ты делаешь по выходным?"
     },
     {
       "originalWord": "to go",
       "translation": "идти",
-      "transcription": "[tuː ɡoʊ]",
-      "exampleSentence": "I go to school every day."
+      "transcription": "[ɪˈtʲi]",
+      "exampleSentence": "Я хожу в школу каждый день."
     },
     {
       "originalWord": "to come",
       "translation": "приходить",
-      "transcription": "[tuː kʌm]",
-      "exampleSentence": "Please come here."
+      "transcription": "[prʲɪxɐˈdʲitʲ]",
+      "exampleSentence": "Пожалуйста, подойди сюда."
     },
     {
       "originalWord": "to want",
       "translation": "хотеть",
-      "transcription": "[tuː wɑːnt]",
-      "exampleSentence": "I want some water."
+      "transcription": "[xɐˈtʲetʲ]",
+      "exampleSentence": "Я хочу воды."
     },
     {
       "originalWord": "to need",
       "translation": "нуждаться",
-      "transcription": "[tuː niːd]",
-      "exampleSentence": "I need help, please."
+      "transcription": "[nʊʐˈdat͡sːə]",
+      "exampleSentence": "Мне нужна помощь, пожалуйста."
     },
     {
       "originalWord": "to like",
       "translation": "нравиться",
-      "transcription": "[tuː laɪk]",
-      "exampleSentence": "I like this song."
+      "transcription": "[ˈnravʲɪt͡sːə]",
+      "exampleSentence": "Мне нравится эта песня."
     },
     {
       "originalWord": "to love",
       "translation": "любить",
-      "transcription": "[tuː lʌv]",
-      "exampleSentence": "I love my family."
+      "transcription": "[lʲʊˈbʲitʲ]",
+      "exampleSentence": "Я люблю свою семью."
     },
     {
       "originalWord": "to see",
       "translation": "видеть",
-      "transcription": "[tuː siː]",
-      "exampleSentence": "I see the bus."
+      "transcription": "[ˈvʲidʲɪtʲ]",
+      "exampleSentence": "Я вижу автобус."
     },
     {
       "originalWord": "good",
       "translation": "хороший",
-      "transcription": "[ɡʊd]",
-      "exampleSentence": "This is a good idea."
+      "transcription": "[xɐˈroʂɨj]",
+      "exampleSentence": "Это хорошая идея."
     },
     {
       "originalWord": "bad",
       "translation": "плохой",
-      "transcription": "[bæd]",
-      "exampleSentence": "The weather is bad today."
+      "transcription": "[plɐˈxoj]",
+      "exampleSentence": "Сегодня плохая погода."
     },
     {
       "originalWord": "big",
       "translation": "большой",
-      "transcription": "[bɪɡ]",
-      "exampleSentence": "This is a big house."
+      "transcription": "[bɐlʲˈʂoj]",
+      "exampleSentence": "Это большой дом."
     },
     {
       "originalWord": "small",
       "translation": "маленький",
-      "transcription": "[smɔːl]",
-      "exampleSentence": "I have a small dog."
+      "transcription": "[ˈmalʲɪnʲkʲɪj]",
+      "exampleSentence": "У меня маленькая собака."
     },
     {
       "originalWord": "new",
       "translation": "новый",
-      "transcription": "[nuː]",
-      "exampleSentence": "I bought a new phone."
+      "transcription": "[ˈnovɨj]",
+      "exampleSentence": "Я купил(а) новый телефон."
     },
     {
       "originalWord": "old",
       "translation": "старый",
-      "transcription": "[oʊld]",
-      "exampleSentence": "My car is old."
+      "transcription": "[ˈstarɨj]",
+      "exampleSentence": "Моя машина старая."
     },
     {
       "originalWord": "hot",
       "translation": "горячий",
-      "transcription": "[hɑːt]",
-      "exampleSentence": "The coffee is hot."
+      "transcription": "[ɡɐˈrʲatɕɪj]",
+      "exampleSentence": "Кофе горячий."
     },
     {
       "originalWord": "cold",
       "translation": "холодный",
-      "transcription": "[koʊld]",
-      "exampleSentence": "The water is cold."
+      "transcription": "[xɐˈlodnɨj]",
+      "exampleSentence": "Вода холодная."
     }
   ]
 }

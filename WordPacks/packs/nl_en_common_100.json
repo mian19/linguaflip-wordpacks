@@ -5,602 +5,602 @@
     {
       "originalWord": "hallo",
       "translation": "hello",
-      "transcription": "[ˈɦɑ.lo]",
-      "exampleSentence": "Hallo is een voorbeeldzin."
+      "transcription": "[həˈloʊ]",
+      "exampleSentence": "Hello, how are you?"
     },
     {
       "originalWord": "hoi",
       "translation": "hi",
-      "transcription": "[ɦɔɪ]",
-      "exampleSentence": "Hoi is een voorbeeldzin."
+      "transcription": "[haɪ]",
+      "exampleSentence": "Hi, nice to meet you."
     },
     {
       "originalWord": "goedemorgen",
       "translation": "good morning",
-      "transcription": "[ˌɣuː.dəˈmɔr.ɣə]",
-      "exampleSentence": "Goedemorgen is een voorbeeldzin."
+      "transcription": "[ɡʊd ˈmɔːrnɪŋ]",
+      "exampleSentence": "Good morning, everyone."
     },
     {
       "originalWord": "goedemiddag",
       "translation": "good afternoon",
-      "transcription": "[ˌɣuː.dəˈmɪ.dɑx]",
-      "exampleSentence": "Goedemiddag is een voorbeeldzin."
+      "transcription": "[ɡʊd ˌæftɚˈnuːn]",
+      "exampleSentence": "Good afternoon, Mr. Jansen."
     },
     {
       "originalWord": "goedenavond",
       "translation": "good evening",
-      "transcription": "[ˌɣuː.dəˈnaː.vɔnt]",
-      "exampleSentence": "Goedenavond is een voorbeeldzin."
+      "transcription": "[ɡʊd ˈiːvnɪŋ]",
+      "exampleSentence": "Good evening, welcome!"
     },
     {
       "originalWord": "goedenacht",
       "translation": "good night",
-      "transcription": "[ˌɣuː.dəˈnɑxt]",
-      "exampleSentence": "Goedenacht is een voorbeeldzin."
+      "transcription": "[ɡʊd ˈnaɪt]",
+      "exampleSentence": "Good night, sleep well."
     },
     {
       "originalWord": "tot ziens",
       "translation": "goodbye",
-      "transcription": "[tɔt zins]",
-      "exampleSentence": "Tot ziens is een voorbeeldzin."
+      "transcription": "[ɡʊdˈbaɪ]",
+      "exampleSentence": "Goodbye, see you tomorrow!"
     },
     {
       "originalWord": "tot later",
       "translation": "see you later",
-      "transcription": "[tɔt ˈlaː.tər]",
-      "exampleSentence": "Tot later is een voorbeeldzin."
+      "transcription": "[siː juː ˈleɪtɚ]",
+      "exampleSentence": "See you later, take care."
     },
     {
       "originalWord": "alstublieft",
       "translation": "please",
-      "transcription": "[ɑls.tyˈblift]",
-      "exampleSentence": "Alstublieft is een voorbeeldzin."
+      "transcription": "[pliːz]",
+      "exampleSentence": "Please sit down."
     },
     {
       "originalWord": "dank je",
       "translation": "thank you",
-      "transcription": "[dɑŋk jə]",
-      "exampleSentence": "Dank je is een voorbeeldzin."
+      "transcription": "[θæŋk juː]",
+      "exampleSentence": "Thank you for your help."
     },
     {
       "originalWord": "graag gedaan",
       "translation": "you're welcome",
-      "transcription": "[xraːx xəˈdaːn]",
-      "exampleSentence": "Graag gedaan is een voorbeeldzin."
+      "transcription": "[jʊr ˈwɛlkəm]",
+      "exampleSentence": "You're welcome, no problem."
     },
     {
       "originalWord": "pardon",
       "translation": "excuse me",
-      "transcription": "[pɑrˈdɔn]",
-      "exampleSentence": "Pardon is een voorbeeldzin."
+      "transcription": "[ɪkˈskjuːz miː]",
+      "exampleSentence": "Excuse me, where is the bathroom?"
     },
     {
       "originalWord": "sorry",
       "translation": "sorry",
-      "transcription": "[ˈsɔ.rɪ]",
-      "exampleSentence": "Sorry is een voorbeeldzin."
+      "transcription": "[ˈsɑːri]",
+      "exampleSentence": "Sorry, I'm late."
     },
     {
       "originalWord": "ja",
       "translation": "yes",
-      "transcription": "[jaː]",
-      "exampleSentence": "Ja is een voorbeeldzin."
+      "transcription": "[jɛs]",
+      "exampleSentence": "Yes, I understand."
     },
     {
       "originalWord": "nee",
       "translation": "no",
-      "transcription": "[neː]",
-      "exampleSentence": "Nee is een voorbeeldzin."
+      "transcription": "[noʊ]",
+      "exampleSentence": "No, I don't want it."
     },
     {
       "originalWord": "misschien",
       "translation": "maybe",
-      "transcription": "[mɪsˈsxin]",
-      "exampleSentence": "Misschien is een voorbeeldzin."
+      "transcription": "[ˈmeɪbi]",
+      "exampleSentence": "Maybe we can go later."
     },
     {
       "originalWord": "oké",
       "translation": "okay",
-      "transcription": "[oˈkeː]",
-      "exampleSentence": "Oké is een voorbeeldzin."
+      "transcription": "[oʊˈkeɪ]",
+      "exampleSentence": "Okay, let's start."
     },
     {
       "originalWord": "help alstublieft",
       "translation": "please help",
-      "transcription": "[hɛlp ɑls.tyˈblift]",
-      "exampleSentence": "Help alstublieft is een voorbeeldzin."
+      "transcription": "[pliːz hɛlp]",
+      "exampleSentence": "Please help me."
     },
     {
       "originalWord": "ik begrijp het niet",
       "translation": "I don't understand",
-      "transcription": "[ɪk bəˈxreːp ət nit]",
-      "exampleSentence": "Ik begrijp het niet is een voorbeeldzin."
+      "transcription": "[aɪ doʊnt ˌʌndərˈstænd]",
+      "exampleSentence": "Sorry, I don't understand."
     },
     {
       "originalWord": "spreek je Engels?",
       "translation": "do you speak English?",
-      "transcription": "[spreːk jə ˈɛŋ.əls]",
-      "exampleSentence": "Spreek je engels? is een voorbeeldzin."
+      "transcription": "[duː juː spiːk ˈɪŋɡlɪʃ]",
+      "exampleSentence": "Do you speak English?"
     },
     {
       "originalWord": "nul",
       "translation": "zero",
-      "transcription": "[—]",
-      "exampleSentence": "Nul is een voorbeeldzin."
+      "transcription": "[ˈzɪroʊ]",
+      "exampleSentence": "Zero is the first number."
     },
     {
       "originalWord": "een",
       "translation": "one",
-      "transcription": "[—]",
-      "exampleSentence": "Een is een voorbeeldzin."
+      "transcription": "[wʌn]",
+      "exampleSentence": "I have one sister."
     },
     {
       "originalWord": "twee",
       "translation": "two",
-      "transcription": "[—]",
-      "exampleSentence": "Twee is een voorbeeldzin."
+      "transcription": "[tuː]",
+      "exampleSentence": "I need two tickets."
     },
     {
       "originalWord": "drie",
       "translation": "three",
-      "transcription": "[—]",
-      "exampleSentence": "Drie is een voorbeeldzin."
+      "transcription": "[θriː]",
+      "exampleSentence": "There are three apples."
     },
     {
       "originalWord": "vier",
       "translation": "four",
-      "transcription": "[—]",
-      "exampleSentence": "Vier is een voorbeeldzin."
+      "transcription": "[fɔːr]",
+      "exampleSentence": "She has four books."
     },
     {
       "originalWord": "vijf",
       "translation": "five",
-      "transcription": "[—]",
-      "exampleSentence": "Vijf is een voorbeeldzin."
+      "transcription": "[faɪv]",
+      "exampleSentence": "I work five days a week."
     },
     {
       "originalWord": "zes",
       "translation": "six",
-      "transcription": "[—]",
-      "exampleSentence": "Zes is een voorbeeldzin."
+      "transcription": "[sɪks]",
+      "exampleSentence": "We have six chairs."
     },
     {
       "originalWord": "zeven",
       "translation": "seven",
-      "transcription": "[—]",
-      "exampleSentence": "Zeven is een voorbeeldzin."
+      "transcription": "[ˈsɛvən]",
+      "exampleSentence": "Seven is my lucky number."
     },
     {
       "originalWord": "acht",
       "translation": "eight",
-      "transcription": "[—]",
-      "exampleSentence": "Acht is een voorbeeldzin."
+      "transcription": "[eɪt]",
+      "exampleSentence": "I wake up at eight."
     },
     {
       "originalWord": "negen",
       "translation": "nine",
-      "transcription": "[—]",
-      "exampleSentence": "Negen is een voorbeeldzin."
+      "transcription": "[naɪn]",
+      "exampleSentence": "It's nine o'clock."
     },
     {
       "originalWord": "tien",
       "translation": "ten",
-      "transcription": "[—]",
-      "exampleSentence": "Tien is een voorbeeldzin."
+      "transcription": "[tɛn]",
+      "exampleSentence": "Ten people are here."
     },
     {
       "originalWord": "elf",
       "translation": "eleven",
-      "transcription": "[—]",
-      "exampleSentence": "Elf is een voorbeeldzin."
+      "transcription": "[ɪˈlɛvən]",
+      "exampleSentence": "My room is number eleven."
     },
     {
       "originalWord": "twaalf",
       "translation": "twelve",
-      "transcription": "[—]",
-      "exampleSentence": "Twaalf is een voorbeeldzin."
+      "transcription": "[twɛlv]",
+      "exampleSentence": "There are twelve months."
     },
     {
       "originalWord": "dertien",
       "translation": "thirteen",
-      "transcription": "[—]",
-      "exampleSentence": "Dertien is een voorbeeldzin."
+      "transcription": "[ˌθɝːˈtiːn]",
+      "exampleSentence": "Thirteen is a big number."
     },
     {
       "originalWord": "veertien",
       "translation": "fourteen",
-      "transcription": "[—]",
-      "exampleSentence": "Veertien is een voorbeeldzin."
+      "transcription": "[ˌfɔːrˈtiːn]",
+      "exampleSentence": "I am fourteen years old."
     },
     {
       "originalWord": "vijftien",
       "translation": "fifteen",
-      "transcription": "[—]",
-      "exampleSentence": "Vijftien is een voorbeeldzin."
+      "transcription": "[ˌfɪfˈtiːn]",
+      "exampleSentence": "The meeting is at fifteen past two."
     },
     {
       "originalWord": "zestien",
       "translation": "sixteen",
-      "transcription": "[—]",
-      "exampleSentence": "Zestien is een voorbeeldzin."
+      "transcription": "[ˌsɪkˈstiːn]",
+      "exampleSentence": "She is sixteen today."
     },
     {
       "originalWord": "zeventien",
       "translation": "seventeen",
-      "transcription": "[—]",
-      "exampleSentence": "Zeventien is een voorbeeldzin."
+      "transcription": "[ˌsɛvənˈtiːn]",
+      "exampleSentence": "Seventeen students came."
     },
     {
       "originalWord": "achttien",
       "translation": "eighteen",
-      "transcription": "[—]",
-      "exampleSentence": "Achttien is een voorbeeldzin."
+      "transcription": "[ˌeɪˈtiːn]",
+      "exampleSentence": "I turn eighteen next year."
     },
     {
       "originalWord": "negentien",
       "translation": "nineteen",
-      "transcription": "[—]",
-      "exampleSentence": "Negentien is een voorbeeldzin."
+      "transcription": "[ˌnaɪnˈtiːn]",
+      "exampleSentence": "Nineteen is almost twenty."
     },
     {
       "originalWord": "twintig",
       "translation": "twenty",
-      "transcription": "[—]",
-      "exampleSentence": "Twintig is een voorbeeldzin."
+      "transcription": "[ˈtwɛnti]",
+      "exampleSentence": "I have twenty euros."
     },
     {
       "originalWord": "rood",
       "translation": "red",
-      "transcription": "[—]",
-      "exampleSentence": "Rood is een voorbeeldzin."
+      "transcription": "[rɛd]",
+      "exampleSentence": "My car is red."
     },
     {
       "originalWord": "blauw",
       "translation": "blue",
-      "transcription": "[—]",
-      "exampleSentence": "Blauw is een voorbeeldzin."
+      "transcription": "[bluː]",
+      "exampleSentence": "The sky is blue."
     },
     {
       "originalWord": "groen",
       "translation": "green",
-      "transcription": "[—]",
-      "exampleSentence": "Groen is een voorbeeldzin."
+      "transcription": "[ɡriːn]",
+      "exampleSentence": "I like green apples."
     },
     {
       "originalWord": "geel",
       "translation": "yellow",
-      "transcription": "[—]",
-      "exampleSentence": "Geel is een voorbeeldzin."
+      "transcription": "[ˈjɛloʊ]",
+      "exampleSentence": "The sun is yellow."
     },
     {
       "originalWord": "zwart",
       "translation": "black",
-      "transcription": "[—]",
-      "exampleSentence": "Zwart is een voorbeeldzin."
+      "transcription": "[blæk]",
+      "exampleSentence": "My shoes are black."
     },
     {
       "originalWord": "wit",
       "translation": "white",
-      "transcription": "[—]",
-      "exampleSentence": "Wit is een voorbeeldzin."
+      "transcription": "[waɪt]",
+      "exampleSentence": "The wall is white."
     },
     {
       "originalWord": "oranje",
       "translation": "orange",
-      "transcription": "[—]",
-      "exampleSentence": "Oranje is een voorbeeldzin."
+      "transcription": "[ˈɔːrɪndʒ]",
+      "exampleSentence": "Orange is my favorite color."
     },
     {
       "originalWord": "paars",
       "translation": "purple",
-      "transcription": "[—]",
-      "exampleSentence": "Paars is een voorbeeldzin."
+      "transcription": "[ˈpɝːpəl]",
+      "exampleSentence": "She wears a purple dress."
     },
     {
       "originalWord": "roze",
       "translation": "pink",
-      "transcription": "[—]",
-      "exampleSentence": "Roze is een voorbeeldzin."
+      "transcription": "[pɪŋk]",
+      "exampleSentence": "I bought a pink shirt."
     },
     {
       "originalWord": "bruin",
       "translation": "brown",
-      "transcription": "[—]",
-      "exampleSentence": "Bruin is een voorbeeldzin."
+      "transcription": "[braʊn]",
+      "exampleSentence": "The table is brown."
     },
     {
       "originalWord": "grijs",
       "translation": "gray",
-      "transcription": "[—]",
-      "exampleSentence": "Grijs is een voorbeeldzin."
+      "transcription": "[ɡreɪ]",
+      "exampleSentence": "The sky is gray today."
     },
     {
       "originalWord": "familie",
       "translation": "family",
-      "transcription": "[—]",
-      "exampleSentence": "Familie is een voorbeeldzin."
+      "transcription": "[ˈfæməli]",
+      "exampleSentence": "My family is big."
     },
     {
       "originalWord": "moeder",
       "translation": "mother",
-      "transcription": "[—]",
-      "exampleSentence": "Moeder is een voorbeeldzin."
+      "transcription": "[ˈmʌðɚ]",
+      "exampleSentence": "My mother is kind."
     },
     {
       "originalWord": "vader",
       "translation": "father",
-      "transcription": "[—]",
-      "exampleSentence": "Vader is een voorbeeldzin."
+      "transcription": "[ˈfɑːðɚ]",
+      "exampleSentence": "My father works a lot."
     },
     {
       "originalWord": "ouders",
       "translation": "parents",
-      "transcription": "[—]",
-      "exampleSentence": "Ouders is een voorbeeldzin."
+      "transcription": "[ˈpɛrənts]",
+      "exampleSentence": "My parents live nearby."
     },
     {
       "originalWord": "zoon",
       "translation": "son",
-      "transcription": "[—]",
-      "exampleSentence": "Zoon is een voorbeeldzin."
+      "transcription": "[sʌn]",
+      "exampleSentence": "Their son is at school."
     },
     {
       "originalWord": "dochter",
       "translation": "daughter",
-      "transcription": "[—]",
-      "exampleSentence": "Dochter is een voorbeeldzin."
+      "transcription": "[ˈdɔːtɚ]",
+      "exampleSentence": "Her daughter is five."
     },
     {
       "originalWord": "broer",
       "translation": "brother",
-      "transcription": "[—]",
-      "exampleSentence": "Broer is een voorbeeldzin."
+      "transcription": "[ˈbrʌðɚ]",
+      "exampleSentence": "My brother likes music."
     },
     {
       "originalWord": "zus",
       "translation": "sister",
-      "transcription": "[—]",
-      "exampleSentence": "Zus is een voorbeeldzin."
+      "transcription": "[ˈsɪstɚ]",
+      "exampleSentence": "My sister is friendly."
     },
     {
       "originalWord": "man",
       "translation": "husband",
-      "transcription": "[—]",
-      "exampleSentence": "Man is een voorbeeldzin."
+      "transcription": "[ˈhʌzbənd]",
+      "exampleSentence": "Her husband is a doctor."
     },
     {
       "originalWord": "vrouw",
       "translation": "wife",
-      "transcription": "[—]",
-      "exampleSentence": "Vrouw is een voorbeeldzin."
+      "transcription": "[waɪf]",
+      "exampleSentence": "My wife is at work."
     },
     {
       "originalWord": "kind",
       "translation": "child",
-      "transcription": "[—]",
-      "exampleSentence": "Kind is een voorbeeldzin."
+      "transcription": "[tʃaɪld]",
+      "exampleSentence": "That child is happy."
     },
     {
       "originalWord": "vriend",
       "translation": "friend",
-      "transcription": "[—]",
-      "exampleSentence": "Vriend is een voorbeeldzin."
+      "transcription": "[frɛnd]",
+      "exampleSentence": "You are my friend."
     },
     {
       "originalWord": "tijd",
       "translation": "time",
-      "transcription": "[—]",
-      "exampleSentence": "Tijd is een voorbeeldzin."
+      "transcription": "[taɪm]",
+      "exampleSentence": "What time is it?"
     },
     {
       "originalWord": "vandaag",
       "translation": "today",
-      "transcription": "[—]",
-      "exampleSentence": "Vandaag is een voorbeeldzin."
+      "transcription": "[təˈdeɪ]",
+      "exampleSentence": "Today is a good day."
     },
     {
       "originalWord": "morgen",
       "translation": "tomorrow",
-      "transcription": "[—]",
-      "exampleSentence": "Morgen is een voorbeeldzin."
+      "transcription": "[təˈmɑːroʊ]",
+      "exampleSentence": "Tomorrow I will study."
     },
     {
       "originalWord": "gisteren",
       "translation": "yesterday",
-      "transcription": "[—]",
-      "exampleSentence": "Gisteren is een voorbeeldzin."
+      "transcription": "[ˈjɛstɚdeɪ]",
+      "exampleSentence": "Yesterday I was busy."
     },
     {
       "originalWord": "nu",
       "translation": "now",
-      "transcription": "[—]",
-      "exampleSentence": "Nu is een voorbeeldzin."
+      "transcription": "[naʊ]",
+      "exampleSentence": "I need it now."
     },
     {
       "originalWord": "later",
       "translation": "later",
-      "transcription": "[—]",
-      "exampleSentence": "Later is een voorbeeldzin."
+      "transcription": "[ˈleɪtɚ]",
+      "exampleSentence": "I'll call you later."
     },
     {
       "originalWord": "vroeg",
       "translation": "early",
-      "transcription": "[—]",
-      "exampleSentence": "Vroeg is een voorbeeldzin."
+      "transcription": "[ˈɝːli]",
+      "exampleSentence": "I wake up early."
     },
     {
       "originalWord": "laat",
       "translation": "late",
-      "transcription": "[—]",
-      "exampleSentence": "Laat is een voorbeeldzin."
+      "transcription": "[leɪt]",
+      "exampleSentence": "The bus is late."
     },
     {
       "originalWord": "ochtend",
       "translation": "morning",
-      "transcription": "[—]",
-      "exampleSentence": "Ochtend is een voorbeeldzin."
+      "transcription": "[ˈmɔːrnɪŋ]",
+      "exampleSentence": "I drink coffee in the morning."
     },
     {
       "originalWord": "middag",
       "translation": "afternoon",
-      "transcription": "[—]",
-      "exampleSentence": "Middag is een voorbeeldzin."
+      "transcription": "[ˌæftɚˈnuːn]",
+      "exampleSentence": "I work in the afternoon."
     },
     {
       "originalWord": "avond",
       "translation": "evening",
-      "transcription": "[—]",
-      "exampleSentence": "Avond is een voorbeeldzin."
+      "transcription": "[ˈiːvnɪŋ]",
+      "exampleSentence": "We walk in the evening."
     },
     {
       "originalWord": "nacht",
       "translation": "night",
-      "transcription": "[—]",
-      "exampleSentence": "Nacht is een voorbeeldzin."
+      "transcription": "[naɪt]",
+      "exampleSentence": "At night, I read a book."
     },
     {
       "originalWord": "uur",
       "translation": "hour",
-      "transcription": "[—]",
-      "exampleSentence": "Uur is een voorbeeldzin."
+      "transcription": "[ˈaʊɚ]",
+      "exampleSentence": "It takes one hour."
     },
     {
       "originalWord": "minuut",
       "translation": "minute",
-      "transcription": "[—]",
-      "exampleSentence": "Minuut is een voorbeeldzin."
+      "transcription": "[ˈmɪnɪt]",
+      "exampleSentence": "Wait a minute, please."
     },
     {
       "originalWord": "dag",
       "translation": "day",
-      "transcription": "[—]",
-      "exampleSentence": "Dag is een voorbeeldzin."
+      "transcription": "[deɪ]",
+      "exampleSentence": "Have a nice day."
     },
     {
       "originalWord": "week",
       "translation": "week",
-      "transcription": "[—]",
-      "exampleSentence": "Week is een voorbeeldzin."
+      "transcription": "[wiːk]",
+      "exampleSentence": "I have a busy week."
     },
     {
       "originalWord": "maand",
       "translation": "month",
-      "transcription": "[—]",
-      "exampleSentence": "Maand is een voorbeeldzin."
+      "transcription": "[mʌnθ]",
+      "exampleSentence": "This month is cold."
     },
     {
       "originalWord": "jaar",
       "translation": "year",
-      "transcription": "[—]",
-      "exampleSentence": "Jaar is een voorbeeldzin."
+      "transcription": "[jɪr]",
+      "exampleSentence": "Next year will be better."
     },
     {
       "originalWord": "zijn",
       "translation": "to be",
-      "transcription": "[—]",
-      "exampleSentence": "Zijn is een voorbeeldzin."
+      "transcription": "[tuː biː]",
+      "exampleSentence": "I am happy today."
     },
     {
       "originalWord": "hebben",
       "translation": "to have",
-      "transcription": "[—]",
-      "exampleSentence": "Hebben is een voorbeeldzin."
+      "transcription": "[tuː hæv]",
+      "exampleSentence": "I have a question."
     },
     {
       "originalWord": "doen",
       "translation": "to do",
-      "transcription": "[—]",
-      "exampleSentence": "Doen is een voorbeeldzin."
+      "transcription": "[tuː duː]",
+      "exampleSentence": "What do you do on weekends?"
     },
     {
       "originalWord": "gaan",
       "translation": "to go",
-      "transcription": "[—]",
-      "exampleSentence": "Gaan is een voorbeeldzin."
+      "transcription": "[tuː ɡoʊ]",
+      "exampleSentence": "I go to school every day."
     },
     {
       "originalWord": "komen",
       "translation": "to come",
-      "transcription": "[—]",
-      "exampleSentence": "Komen is een voorbeeldzin."
+      "transcription": "[tuː kʌm]",
+      "exampleSentence": "Please come here."
     },
     {
       "originalWord": "willen",
       "translation": "to want",
-      "transcription": "[—]",
-      "exampleSentence": "Willen is een voorbeeldzin."
+      "transcription": "[tuː wɑːnt]",
+      "exampleSentence": "I want some water."
     },
     {
       "originalWord": "nodig hebben",
       "translation": "to need",
-      "transcription": "[—]",
-      "exampleSentence": "Nodig hebben is een voorbeeldzin."
+      "transcription": "[tuː niːd]",
+      "exampleSentence": "I need help, please."
     },
     {
       "originalWord": "leuk vinden",
       "translation": "to like",
-      "transcription": "[—]",
-      "exampleSentence": "Leuk vinden is een voorbeeldzin."
+      "transcription": "[tuː laɪk]",
+      "exampleSentence": "I like this song."
     },
     {
       "originalWord": "houden van",
       "translation": "to love",
-      "transcription": "[—]",
-      "exampleSentence": "Houden van is een voorbeeldzin."
+      "transcription": "[tuː lʌv]",
+      "exampleSentence": "I love my family."
     },
     {
       "originalWord": "zien",
       "translation": "to see",
-      "transcription": "[—]",
-      "exampleSentence": "Zien is een voorbeeldzin."
+      "transcription": "[tuː siː]",
+      "exampleSentence": "I see the bus."
     },
     {
       "originalWord": "goed",
       "translation": "good",
-      "transcription": "[—]",
-      "exampleSentence": "Goed is een voorbeeldzin."
+      "transcription": "[ɡʊd]",
+      "exampleSentence": "This is a good idea."
     },
     {
       "originalWord": "slecht",
       "translation": "bad",
-      "transcription": "[—]",
-      "exampleSentence": "Slecht is een voorbeeldzin."
+      "transcription": "[bæd]",
+      "exampleSentence": "The weather is bad today."
     },
     {
       "originalWord": "groot",
       "translation": "big",
-      "transcription": "[—]",
-      "exampleSentence": "Groot is een voorbeeldzin."
+      "transcription": "[bɪɡ]",
+      "exampleSentence": "This is a big house."
     },
     {
       "originalWord": "klein",
       "translation": "small",
-      "transcription": "[—]",
-      "exampleSentence": "Klein is een voorbeeldzin."
+      "transcription": "[smɔːl]",
+      "exampleSentence": "I have a small dog."
     },
     {
       "originalWord": "nieuw",
       "translation": "new",
-      "transcription": "[—]",
-      "exampleSentence": "Nieuw is een voorbeeldzin."
+      "transcription": "[nuː]",
+      "exampleSentence": "I bought a new phone."
     },
     {
       "originalWord": "oud",
       "translation": "old",
-      "transcription": "[—]",
-      "exampleSentence": "Oud is een voorbeeldzin."
+      "transcription": "[oʊld]",
+      "exampleSentence": "My car is old."
     },
     {
       "originalWord": "heet",
       "translation": "hot",
-      "transcription": "[—]",
-      "exampleSentence": "Heet is een voorbeeldzin."
+      "transcription": "[hɑːt]",
+      "exampleSentence": "The coffee is hot."
     },
     {
       "originalWord": "koud",
       "translation": "cold",
-      "transcription": "[—]",
-      "exampleSentence": "Koud is een voorbeeldzin."
+      "transcription": "[koʊld]",
+      "exampleSentence": "The water is cold."
     }
   ]
 }

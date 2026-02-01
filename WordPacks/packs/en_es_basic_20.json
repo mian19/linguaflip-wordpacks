@@ -5,122 +5,122 @@
     {
       "originalWord": "hello",
       "translation": "hola",
-      "transcription": "[həˈloʊ]",
-      "exampleSentence": "Hello, how are you?"
+      "transcription": "[ˈola]",
+      "exampleSentence": "Hola, ¿cómo estás?"
     },
     {
       "originalWord": "goodbye",
       "translation": "adiós",
-      "transcription": "[ɡʊdˈbaɪ]",
-      "exampleSentence": "Goodbye, see you tomorrow!"
+      "transcription": "[aˈðjos]",
+      "exampleSentence": "Adiós, ¡hasta mañana!"
     },
     {
       "originalWord": "please",
       "translation": "por favor",
-      "transcription": "[pliːz]",
-      "exampleSentence": "Can I have water, please?"
+      "transcription": "[por faˈβor]",
+      "exampleSentence": "¿Puedo tener agua, por favor?"
     },
     {
       "originalWord": "thank you",
       "translation": "gracias",
-      "transcription": "[θæŋk juː]",
-      "exampleSentence": "Thank you very much!"
+      "transcription": "[ˈɡɾasjas]",
+      "exampleSentence": "¡Muchas gracias!"
     },
     {
       "originalWord": "yes",
       "translation": "sí",
-      "transcription": "[jɛs]",
-      "exampleSentence": "Yes, I understand."
+      "transcription": "[si]",
+      "exampleSentence": "Sí, entiendo."
     },
     {
       "originalWord": "no",
       "translation": "no",
-      "transcription": "[noʊ]",
-      "exampleSentence": "No, I don't want it."
+      "transcription": "[no]",
+      "exampleSentence": "No, no lo quiero."
     },
     {
       "originalWord": "excuse me",
       "translation": "perdón",
-      "transcription": "[ɪkˈskjuːz miː]",
-      "exampleSentence": "Excuse me, where is the bathroom?"
+      "transcription": "[perˈðon]",
+      "exampleSentence": "Perdón, ¿dónde está el baño?"
     },
     {
       "originalWord": "sorry",
       "translation": "lo siento",
-      "transcription": "[ˈsɑːri]",
-      "exampleSentence": "I'm sorry, I'm late."
+      "transcription": "[lo ˈsjento]",
+      "exampleSentence": "Lo siento, llego tarde."
     },
     {
       "originalWord": "water",
       "translation": "agua",
-      "transcription": "[ˈwɔːtɚ]",
-      "exampleSentence": "I need a glass of water."
+      "transcription": "[ˈaɣwa]",
+      "exampleSentence": "Necesito un vaso de agua."
     },
     {
       "originalWord": "food",
       "translation": "comida",
-      "transcription": "[fuːd]",
-      "exampleSentence": "The food is delicious."
+      "transcription": "[koˈmiða]",
+      "exampleSentence": "La comida está deliciosa."
     },
     {
       "originalWord": "help",
       "translation": "ayuda",
-      "transcription": "[hɛlp]",
-      "exampleSentence": "I need help, please."
+      "transcription": "[aˈʝuða]",
+      "exampleSentence": "Necesito ayuda, por favor."
     },
     {
       "originalWord": "bathroom",
       "translation": "baño",
-      "transcription": "[ˈbæθruːm]",
-      "exampleSentence": "Where is the bathroom?"
+      "transcription": "[ˈbaɲo]",
+      "exampleSentence": "¿Dónde está el baño?"
     },
     {
       "originalWord": "how much",
       "translation": "cuánto",
-      "transcription": "[haʊ mʌtʃ]",
-      "exampleSentence": "How much does this cost?"
+      "transcription": "[ˈkwanto]",
+      "exampleSentence": "¿Cuánto cuesta esto?"
     },
     {
       "originalWord": "where",
       "translation": "dónde",
-      "transcription": "[wɛr]",
-      "exampleSentence": "Where is the hotel?"
+      "transcription": "[ˈdonde]",
+      "exampleSentence": "¿Dónde está el hotel?"
     },
     {
       "originalWord": "when",
       "translation": "cuándo",
-      "transcription": "[wɛn]",
-      "exampleSentence": "When does the train arrive?"
+      "transcription": "[ˈkwando]",
+      "exampleSentence": "¿Cuándo llega el tren?"
     },
     {
       "originalWord": "good",
       "translation": "bueno",
-      "transcription": "[ɡʊd]",
-      "exampleSentence": "This is very good!"
+      "transcription": "[ˈbweno]",
+      "exampleSentence": "¡Esto es muy bueno!"
     },
     {
       "originalWord": "bad",
       "translation": "malo",
-      "transcription": "[bæd]",
-      "exampleSentence": "The weather is bad today."
+      "transcription": "[ˈmalo]",
+      "exampleSentence": "El clima está malo hoy."
     },
     {
       "originalWord": "big",
       "translation": "grande",
-      "transcription": "[bɪɡ]",
-      "exampleSentence": "This is a big house."
+      "transcription": "[ˈɡɾande]",
+      "exampleSentence": "Esta es una casa grande."
     },
     {
       "originalWord": "small",
       "translation": "pequeño",
-      "transcription": "[smɔːl]",
-      "exampleSentence": "I have a small dog."
+      "transcription": "[peˈkeɲo]",
+      "exampleSentence": "Tengo un perro pequeño."
     },
     {
       "originalWord": "I don't understand",
       "translation": "no entiendo",
-      "transcription": "[aɪ doʊnt ˌʌndərˈstænd]",
-      "exampleSentence": "Sorry, I don't understand Spanish."
+      "transcription": "[no enˈtjendo]",
+      "exampleSentence": "Perdón, no entiendo inglés."
     }
   ]
 }

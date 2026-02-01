@@ -5,602 +5,602 @@
     {
       "originalWord": "ciao",
       "translation": "hola",
-      "transcription": "[—]",
-      "exampleSentence": "Ciao è un esempio."
+      "transcription": "[ˈo.la]",
+      "exampleSentence": "Hola, ¿cómo estás?"
     },
     {
       "originalWord": "buongiorno",
       "translation": "buenos días",
-      "transcription": "[—]",
-      "exampleSentence": "Buongiorno è un esempio."
+      "transcription": "[ˈbwe.nos ˈdi.as]",
+      "exampleSentence": "Buenos días a todos."
     },
     {
       "originalWord": "buon pomeriggio",
       "translation": "buenas tardes",
-      "transcription": "[—]",
-      "exampleSentence": "Buon pomeriggio è un esempio."
+      "transcription": "[ˈbwe.nas ˈtaɾ.des]",
+      "exampleSentence": "Buenas tardes, señor."
     },
     {
       "originalWord": "buonasera",
       "translation": "buenas noches",
-      "transcription": "[—]",
-      "exampleSentence": "Buonasera è un esempio."
+      "transcription": "[ˈbwe.nas ˈnotʃes]",
+      "exampleSentence": "Buenas noches, duerme bien."
     },
     {
       "originalWord": "arrivederci",
       "translation": "adiós",
-      "transcription": "[—]",
-      "exampleSentence": "Arrivederci è un esempio."
+      "transcription": "[aˈðjos]",
+      "exampleSentence": "Adiós, hasta mañana."
     },
     {
       "originalWord": "a dopo",
       "translation": "hasta luego",
-      "transcription": "[—]",
-      "exampleSentence": "A dopo è un esempio."
+      "transcription": "[ˈas.ta ˈlwe.ɣo]",
+      "exampleSentence": "Hasta luego, cuídate."
     },
     {
       "originalWord": "per favore",
       "translation": "por favor",
-      "transcription": "[—]",
-      "exampleSentence": "Per favore è un esempio."
+      "transcription": "[poɾ faˈβoɾ]",
+      "exampleSentence": "Por favor, siéntate."
     },
     {
       "originalWord": "grazie",
       "translation": "gracias",
-      "transcription": "[—]",
-      "exampleSentence": "Grazie è un esempio."
+      "transcription": "[ˈɡɾa.sjas]",
+      "exampleSentence": "Gracias por tu ayuda."
     },
     {
       "originalWord": "prego",
       "translation": "de nada",
-      "transcription": "[—]",
-      "exampleSentence": "Prego è un esempio."
+      "transcription": "[de ˈna.ða]",
+      "exampleSentence": "De nada, no hay problema."
     },
     {
       "originalWord": "scusa",
       "translation": "perdón",
-      "transcription": "[—]",
-      "exampleSentence": "Scusa è un esempio."
+      "transcription": "[peɾˈðon]",
+      "exampleSentence": "Perdón, llego tarde."
     },
     {
       "originalWord": "sì",
       "translation": "sí",
-      "transcription": "[—]",
-      "exampleSentence": "Sì è un esempio."
+      "transcription": "[si]",
+      "exampleSentence": "Sí, entiendo."
     },
     {
       "originalWord": "no",
       "translation": "no",
-      "transcription": "[—]",
-      "exampleSentence": "No è un esempio."
+      "transcription": "[no]",
+      "exampleSentence": "No, no quiero."
     },
     {
       "originalWord": "forse",
       "translation": "tal vez",
-      "transcription": "[—]",
-      "exampleSentence": "Forse è un esempio."
+      "transcription": "[tal ˈβes]",
+      "exampleSentence": "Tal vez más tarde."
     },
     {
       "originalWord": "va bene",
       "translation": "vale",
-      "transcription": "[—]",
-      "exampleSentence": "Va bene è un esempio."
+      "transcription": "[ˈba.le]",
+      "exampleSentence": "Vale, empezamos."
     },
     {
       "originalWord": "aiuto",
       "translation": "ayuda",
-      "transcription": "[—]",
-      "exampleSentence": "Aiuto è un esempio."
+      "transcription": "[aˈʝu.ða]",
+      "exampleSentence": "Ayuda, por favor."
     },
     {
       "originalWord": "non capisco",
       "translation": "no entiendo",
-      "transcription": "[—]",
-      "exampleSentence": "Non capisco è un esempio."
+      "transcription": "[no enˈtjen.do]",
+      "exampleSentence": "No entiendo."
     },
     {
       "originalWord": "parli inglese?",
       "translation": "¿hablas inglés?",
-      "transcription": "[—]",
-      "exampleSentence": "Parli inglese? è un esempio."
+      "transcription": "[ˈa.βlas inˈɡles]",
+      "exampleSentence": "¿Hablas inglés?"
     },
     {
       "originalWord": "bene",
       "translation": "bien",
-      "transcription": "[—]",
-      "exampleSentence": "Bene è un esempio."
+      "transcription": "[bjen]",
+      "exampleSentence": "Estoy bien."
     },
     {
       "originalWord": "male",
       "translation": "mal",
-      "transcription": "[—]",
-      "exampleSentence": "Male è un esempio."
+      "transcription": "[mal]",
+      "exampleSentence": "Estoy mal."
     },
     {
       "originalWord": "amico",
       "translation": "amigo",
-      "transcription": "[—]",
-      "exampleSentence": "Amico è un esempio."
+      "transcription": "[aˈmi.ɣo]",
+      "exampleSentence": "Mi amigo llega."
     },
     {
       "originalWord": "uno",
       "translation": "uno",
-      "transcription": "[—]",
-      "exampleSentence": "Uno è un esempio."
+      "transcription": "[ˈu.no]",
+      "exampleSentence": "Tengo uno."
     },
     {
       "originalWord": "due",
       "translation": "dos",
-      "transcription": "[—]",
-      "exampleSentence": "Due è un esempio."
+      "transcription": "[dos]",
+      "exampleSentence": "Tengo dos."
     },
     {
       "originalWord": "tre",
       "translation": "tres",
-      "transcription": "[—]",
-      "exampleSentence": "Tre è un esempio."
+      "transcription": "[tɾes]",
+      "exampleSentence": "Tengo tres."
     },
     {
       "originalWord": "quattro",
       "translation": "cuatro",
-      "transcription": "[—]",
-      "exampleSentence": "Quattro è un esempio."
+      "transcription": "[ˈkwa.tɾo]",
+      "exampleSentence": "Cuatro libros."
     },
     {
       "originalWord": "cinque",
       "translation": "cinco",
-      "transcription": "[—]",
-      "exampleSentence": "Cinque è un esempio."
+      "transcription": "[ˈθiŋ.ko]",
+      "exampleSentence": "Cinco días."
     },
     {
       "originalWord": "sei",
       "translation": "seis",
-      "transcription": "[—]",
-      "exampleSentence": "Sei è un esempio."
+      "transcription": "[sejs]",
+      "exampleSentence": "Seis horas."
     },
     {
       "originalWord": "sette",
       "translation": "siete",
-      "transcription": "[—]",
-      "exampleSentence": "Sette è un esempio."
+      "transcription": "[ˈsje.te]",
+      "exampleSentence": "Siete amigos."
     },
     {
       "originalWord": "otto",
       "translation": "ocho",
-      "transcription": "[—]",
-      "exampleSentence": "Otto è un esempio."
+      "transcription": "[ˈo.tʃo]",
+      "exampleSentence": "Ocho años."
     },
     {
       "originalWord": "nove",
       "translation": "nueve",
-      "transcription": "[—]",
-      "exampleSentence": "Nove è un esempio."
+      "transcription": "[ˈnwe.βe]",
+      "exampleSentence": "Nueve meses."
     },
     {
       "originalWord": "dieci",
       "translation": "diez",
-      "transcription": "[—]",
-      "exampleSentence": "Dieci è un esempio."
+      "transcription": "[ˈdjeθ]",
+      "exampleSentence": "Diez personas."
     },
     {
       "originalWord": "undici",
       "translation": "once",
-      "transcription": "[—]",
-      "exampleSentence": "Undici è un esempio."
+      "transcription": "[ˈon.θe]",
+      "exampleSentence": "Once libros."
     },
     {
       "originalWord": "dodici",
       "translation": "doce",
-      "transcription": "[—]",
-      "exampleSentence": "Dodici è un esempio."
+      "transcription": "[ˈdo.θe]",
+      "exampleSentence": "Doce meses."
     },
     {
       "originalWord": "tredici",
       "translation": "trece",
-      "transcription": "[—]",
-      "exampleSentence": "Tredici è un esempio."
+      "transcription": "[ˈtɾe.θe]",
+      "exampleSentence": "Trece días."
     },
     {
       "originalWord": "quattordici",
       "translation": "catorce",
-      "transcription": "[—]",
-      "exampleSentence": "Quattordici è un esempio."
+      "transcription": "[kaˈtoɾ.θe]",
+      "exampleSentence": "Catorce años."
     },
     {
       "originalWord": "quindici",
       "translation": "quince",
-      "transcription": "[—]",
-      "exampleSentence": "Quindici è un esempio."
+      "transcription": "[ˈkin.θe]",
+      "exampleSentence": "Quince minutos."
     },
     {
       "originalWord": "sedici",
       "translation": "dieciséis",
-      "transcription": "[—]",
-      "exampleSentence": "Sedici è un esempio."
+      "transcription": "[dje.θiˈsejs]",
+      "exampleSentence": "Dieciséis años."
     },
     {
       "originalWord": "diciassette",
       "translation": "diecisiete",
-      "transcription": "[—]",
-      "exampleSentence": "Diciassette è un esempio."
+      "transcription": "[dje.θi.sje.te]",
+      "exampleSentence": "Diecisiete personas."
     },
     {
       "originalWord": "diciotto",
       "translation": "dieciocho",
-      "transcription": "[—]",
-      "exampleSentence": "Diciotto è un esempio."
+      "transcription": "[dje.θjo.tʃo]",
+      "exampleSentence": "Dieciocho años."
     },
     {
       "originalWord": "diciannove",
       "translation": "diecinueve",
-      "transcription": "[—]",
-      "exampleSentence": "Diciannove è un esempio."
+      "transcription": "[dje.θiˈnwe.βe]",
+      "exampleSentence": "Diecinueve libros."
     },
     {
       "originalWord": "venti",
       "translation": "veinte",
-      "transcription": "[—]",
-      "exampleSentence": "Venti è un esempio."
+      "transcription": "[ˈbejn.te]",
+      "exampleSentence": "Veinte euros."
     },
     {
       "originalWord": "rosso",
       "translation": "rojo",
-      "transcription": "[—]",
-      "exampleSentence": "Rosso è un esempio."
+      "transcription": "[ˈro.xo]",
+      "exampleSentence": "El coche es rojo."
     },
     {
       "originalWord": "blu",
       "translation": "azul",
-      "transcription": "[—]",
-      "exampleSentence": "Blu è un esempio."
+      "transcription": "[aˈθul]",
+      "exampleSentence": "El cielo es azul."
     },
     {
       "originalWord": "verde",
       "translation": "verde",
-      "transcription": "[—]",
-      "exampleSentence": "Verde è un esempio."
+      "transcription": "[ˈbeɾ.ðe]",
+      "exampleSentence": "La manzana es verde."
     },
     {
       "originalWord": "giallo",
       "translation": "amarillo",
-      "transcription": "[—]",
-      "exampleSentence": "Giallo è un esempio."
+      "transcription": "[a.maˈɾi.ʝo]",
+      "exampleSentence": "El sol es amarillo."
     },
     {
       "originalWord": "nero",
       "translation": "negro",
-      "transcription": "[—]",
-      "exampleSentence": "Nero è un esempio."
+      "transcription": "[ˈne.ɣɾo]",
+      "exampleSentence": "Zapatos negros."
     },
     {
       "originalWord": "bianco",
       "translation": "blanco",
-      "transcription": "[—]",
-      "exampleSentence": "Bianco è un esempio."
+      "transcription": "[ˈblaŋ.ko]",
+      "exampleSentence": "La pared es blanca."
     },
     {
       "originalWord": "rosa",
       "translation": "rosa",
-      "transcription": "[—]",
-      "exampleSentence": "Rosa è un esempio."
+      "transcription": "[ˈro.sa]",
+      "exampleSentence": "La flor es rosa."
     },
     {
       "originalWord": "marrone",
       "translation": "marrón",
-      "transcription": "[—]",
-      "exampleSentence": "Marrone è un esempio."
+      "transcription": "[maˈron]",
+      "exampleSentence": "La mesa es marrón."
     },
     {
       "originalWord": "grigio",
       "translation": "gris",
-      "transcription": "[—]",
-      "exampleSentence": "Grigio è un esempio."
+      "transcription": "[ɡɾis]",
+      "exampleSentence": "El día es gris."
     },
     {
       "originalWord": "arancione",
       "translation": "naranja",
-      "transcription": "[—]",
-      "exampleSentence": "Arancione è un esempio."
+      "transcription": "[naˈɾan.xa]",
+      "exampleSentence": "La naranja es naranja."
     },
     {
       "originalWord": "famiglia",
       "translation": "familia",
-      "transcription": "[—]",
-      "exampleSentence": "Famiglia è un esempio."
+      "transcription": "[faˈmi.lja]",
+      "exampleSentence": "Mi familia es grande."
     },
     {
       "originalWord": "madre",
       "translation": "madre",
-      "transcription": "[—]",
-      "exampleSentence": "Madre è un esempio."
+      "transcription": "[ˈma.ðɾe]",
+      "exampleSentence": "Mi madre es amable."
     },
     {
       "originalWord": "padre",
       "translation": "padre",
-      "transcription": "[—]",
-      "exampleSentence": "Padre è un esempio."
+      "transcription": "[ˈpa.ðɾe]",
+      "exampleSentence": "Mi padre trabaja."
     },
     {
       "originalWord": "figlio",
       "translation": "hijo",
-      "transcription": "[—]",
-      "exampleSentence": "Figlio è un esempio."
+      "transcription": "[ˈi.xo]",
+      "exampleSentence": "Mi hijo estudia."
     },
     {
       "originalWord": "figlia",
       "translation": "hija",
-      "transcription": "[—]",
-      "exampleSentence": "Figlia è un esempio."
+      "transcription": "[ˈi.xa]",
+      "exampleSentence": "Mi hija duerme."
     },
     {
       "originalWord": "fratello",
       "translation": "hermano",
-      "transcription": "[—]",
-      "exampleSentence": "Fratello è un esempio."
+      "transcription": "[eɾˈma.no]",
+      "exampleSentence": "Mi hermano viene."
     },
     {
       "originalWord": "sorella",
       "translation": "hermana",
-      "transcription": "[—]",
-      "exampleSentence": "Sorella è un esempio."
+      "transcription": "[eɾˈma.na]",
+      "exampleSentence": "Mi hermana canta."
     },
     {
       "originalWord": "amico",
       "translation": "amigo",
-      "transcription": "[—]",
-      "exampleSentence": "Amico è un esempio."
+      "transcription": "[aˈmi.ɣo]",
+      "exampleSentence": "Mi amigo llega."
     },
     {
       "originalWord": "bambino",
       "translation": "niño",
-      "transcription": "[—]",
-      "exampleSentence": "Bambino è un esempio."
+      "transcription": "[ˈni.ɲo]",
+      "exampleSentence": "El niño juega."
     },
     {
       "originalWord": "genitori",
       "translation": "padres",
-      "transcription": "[—]",
-      "exampleSentence": "Genitori è un esempio."
+      "transcription": "[ˈpa.ðɾes]",
+      "exampleSentence": "Mis padres vienen."
     },
     {
       "originalWord": "oggi",
       "translation": "hoy",
-      "transcription": "[—]",
-      "exampleSentence": "Oggi è un esempio."
+      "transcription": "[oj]",
+      "exampleSentence": "Hoy trabajo."
     },
     {
       "originalWord": "domani",
       "translation": "mañana",
-      "transcription": "[—]",
-      "exampleSentence": "Domani è un esempio."
+      "transcription": "[maˈɲa.na]",
+      "exampleSentence": "Mañana estudio."
     },
     {
       "originalWord": "ieri",
       "translation": "ayer",
-      "transcription": "[—]",
-      "exampleSentence": "Ieri è un esempio."
+      "transcription": "[aˈʝeɾ]",
+      "exampleSentence": "Ayer llovió."
     },
     {
       "originalWord": "adesso",
       "translation": "ahora",
-      "transcription": "[—]",
-      "exampleSentence": "Adesso è un esempio."
+      "transcription": "[aˈo.ɾa]",
+      "exampleSentence": "Ahora salgo."
     },
     {
       "originalWord": "tardi",
       "translation": "tarde",
-      "transcription": "[—]",
-      "exampleSentence": "Tardi è un esempio."
+      "transcription": "[ˈtaɾ.ðe]",
+      "exampleSentence": "Llego tarde."
     },
     {
       "originalWord": "presto",
       "translation": "temprano",
-      "transcription": "[—]",
-      "exampleSentence": "Presto è un esempio."
+      "transcription": "[temˈpɾa.no]",
+      "exampleSentence": "Llego temprano."
     },
     {
       "originalWord": "giorno",
       "translation": "día",
-      "transcription": "[—]",
-      "exampleSentence": "Giorno è un esempio."
+      "transcription": "[ˈdi.a]",
+      "exampleSentence": "Buen día."
     },
     {
       "originalWord": "notte",
       "translation": "noche",
-      "transcription": "[—]",
-      "exampleSentence": "Notte è un esempio."
+      "transcription": "[ˈno.tʃe]",
+      "exampleSentence": "Buenas noches."
     },
     {
       "originalWord": "anno",
       "translation": "año",
-      "transcription": "[—]",
-      "exampleSentence": "Anno è un esempio."
+      "transcription": "[ˈa.ɲo]",
+      "exampleSentence": "Nuevo año."
     },
     {
       "originalWord": "essere",
       "translation": "ser",
-      "transcription": "[—]",
-      "exampleSentence": "Essere è un esempio."
+      "transcription": "[seɾ]",
+      "exampleSentence": "Quiero ser feliz."
     },
     {
       "originalWord": "avere",
       "translation": "tener",
-      "transcription": "[—]",
-      "exampleSentence": "Avere è un esempio."
+      "transcription": "[teˈneɾ]",
+      "exampleSentence": "Tengo tiempo."
     },
     {
       "originalWord": "fare",
       "translation": "hacer",
-      "transcription": "[—]",
-      "exampleSentence": "Fare è un esempio."
+      "transcription": "[aˈθeɾ]",
+      "exampleSentence": "Quiero hacer eso."
     },
     {
       "originalWord": "andare",
       "translation": "ir",
-      "transcription": "[—]",
-      "exampleSentence": "Andare è un esempio."
+      "transcription": "[iɾ]",
+      "exampleSentence": "Voy allí."
     },
     {
       "originalWord": "venire",
       "translation": "venir",
-      "transcription": "[—]",
-      "exampleSentence": "Venire è un esempio."
+      "transcription": "[beˈniɾ]",
+      "exampleSentence": "Vengo ahora."
     },
     {
       "originalWord": "volere",
       "translation": "querer",
-      "transcription": "[—]",
-      "exampleSentence": "Volere è un esempio."
+      "transcription": "[keˈɾeɾ]",
+      "exampleSentence": "Quiero comer."
     },
     {
       "originalWord": "piacere",
       "translation": "gustar",
-      "transcription": "[—]",
-      "exampleSentence": "Piacere è un esempio."
+      "transcription": "[ɡusˈtaɾ]",
+      "exampleSentence": "Me gusta."
     },
     {
       "originalWord": "buono",
       "translation": "bueno",
-      "transcription": "[—]",
-      "exampleSentence": "Buono è un esempio."
+      "transcription": "[ˈbwe.no]",
+      "exampleSentence": "Es bueno."
     },
     {
       "originalWord": "cattivo",
       "translation": "malo",
-      "transcription": "[—]",
-      "exampleSentence": "Cattivo è un esempio."
+      "transcription": "[ˈma.lo]",
+      "exampleSentence": "Es malo."
     },
     {
       "originalWord": "grande",
       "translation": "grande",
-      "transcription": "[—]",
-      "exampleSentence": "Grande è un esempio."
+      "transcription": "[ˈɡɾan.de]",
+      "exampleSentence": "Casa grande."
     },
     {
       "originalWord": "piccolo",
       "translation": "pequeño",
-      "transcription": "[—]",
-      "exampleSentence": "Piccolo è un esempio."
+      "transcription": "[peˈke.ɲo]",
+      "exampleSentence": "Perro pequeño."
     },
     {
       "originalWord": "nuovo",
       "translation": "nuevo",
-      "transcription": "[—]",
-      "exampleSentence": "Nuovo è un esempio."
+      "transcription": "[ˈnwe.βo]",
+      "exampleSentence": "Es nuevo."
     },
     {
       "originalWord": "vecchio",
       "translation": "viejo",
-      "transcription": "[—]",
-      "exampleSentence": "Vecchio è un esempio."
+      "transcription": "[ˈbje.xo]",
+      "exampleSentence": "Es viejo."
     },
     {
       "originalWord": "caldo",
       "translation": "caliente",
-      "transcription": "[—]",
-      "exampleSentence": "Caldo è un esempio."
+      "transcription": "[kaˈljen.te]",
+      "exampleSentence": "Está caliente."
     },
     {
       "originalWord": "freddo",
       "translation": "frío",
-      "transcription": "[—]",
-      "exampleSentence": "Freddo è un esempio."
+      "transcription": "[ˈfɾi.o]",
+      "exampleSentence": "Está frío."
     },
     {
       "originalWord": "veloce",
       "translation": "rápido",
-      "transcription": "[—]",
-      "exampleSentence": "Veloce è un esempio."
+      "transcription": "[ˈra.pi.ðo]",
+      "exampleSentence": "Es rápido."
     },
     {
       "originalWord": "lento",
       "translation": "lento",
-      "transcription": "[—]",
-      "exampleSentence": "Lento è un esempio."
+      "transcription": "[ˈlen.to]",
+      "exampleSentence": "Es lento."
     },
     {
       "originalWord": "felice",
       "translation": "feliz",
-      "transcription": "[—]",
-      "exampleSentence": "Felice è un esempio."
+      "transcription": "[feˈliθ]",
+      "exampleSentence": "Estoy feliz."
     },
     {
       "originalWord": "triste",
       "translation": "triste",
-      "transcription": "[—]",
-      "exampleSentence": "Triste è un esempio."
+      "transcription": "[ˈtɾis.te]",
+      "exampleSentence": "Estoy triste."
     },
     {
       "originalWord": "lavorare",
       "translation": "trabajar",
-      "transcription": "[—]",
-      "exampleSentence": "Lavorare è un esempio."
+      "transcription": "[tɾa.βaˈxaɾ]",
+      "exampleSentence": "Trabajo aquí."
     },
     {
       "originalWord": "vivere",
       "translation": "vivir",
-      "transcription": "[—]",
-      "exampleSentence": "Vivere è un esempio."
+      "transcription": "[biˈβiɾ]",
+      "exampleSentence": "Vivo aquí."
     },
     {
       "originalWord": "mangiare",
       "translation": "comer",
-      "transcription": "[—]",
-      "exampleSentence": "Mangiare è un esempio."
+      "transcription": "[koˈmeɾ]",
+      "exampleSentence": "Quiero comer."
     },
     {
       "originalWord": "bere",
       "translation": "beber",
-      "transcription": "[—]",
-      "exampleSentence": "Bere è un esempio."
+      "transcription": "[beˈβeɾ]",
+      "exampleSentence": "Quiero beber."
     },
     {
       "originalWord": "acqua",
       "translation": "agua",
-      "transcription": "[—]",
-      "exampleSentence": "Acqua è un esempio."
+      "transcription": "[ˈa.ɣwa]",
+      "exampleSentence": "Quiero agua."
     },
     {
       "originalWord": "casa",
       "translation": "casa",
-      "transcription": "[—]",
-      "exampleSentence": "Casa è un esempio."
+      "transcription": "[ˈka.sa]",
+      "exampleSentence": "Mi casa."
     },
     {
       "originalWord": "città",
       "translation": "ciudad",
-      "transcription": "[—]",
-      "exampleSentence": "Città è un esempio."
+      "transcription": "[θjuˈðað]",
+      "exampleSentence": "La ciudad es grande."
     },
     {
       "originalWord": "tempo",
       "translation": "tiempo",
-      "transcription": "[—]",
-      "exampleSentence": "Tempo è un esempio."
+      "transcription": "[ˈtjem.po]",
+      "exampleSentence": "No hay tiempo."
     },
     {
       "originalWord": "settimana",
       "translation": "semana",
-      "transcription": "[—]",
-      "exampleSentence": "Settimana è un esempio."
+      "transcription": "[seˈma.na]",
+      "exampleSentence": "Buena semana."
     },
     {
       "originalWord": "mese",
       "translation": "mes",
-      "transcription": "[—]",
-      "exampleSentence": "Mese è un esempio."
+      "transcription": "[mes]",
+      "exampleSentence": "Este mes."
     },
     {
       "originalWord": "qui",
       "translation": "aquí",
-      "transcription": "[—]",
-      "exampleSentence": "Qui è un esempio."
+      "transcription": "[aˈki]",
+      "exampleSentence": "Estoy aquí."
     },
     {
       "originalWord": "lì",
       "translation": "allí",
-      "transcription": "[—]",
-      "exampleSentence": "Lì è un esempio."
+      "transcription": "[aˈʎi]",
+      "exampleSentence": "Voy allí."
     }
   ]
 }

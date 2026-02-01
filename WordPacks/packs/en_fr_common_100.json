@@ -5,602 +5,602 @@
     {
       "originalWord": "hello",
       "translation": "bonjour",
-      "transcription": "[həˈloʊ]",
-      "exampleSentence": "Hello, how are you?"
+      "transcription": "[bɔ̃ʒur]",
+      "exampleSentence": "Bonjour à tous."
     },
     {
       "originalWord": "hi",
       "translation": "salut",
-      "transcription": "[haɪ]",
-      "exampleSentence": "Hi, nice to meet you."
+      "transcription": "[salut]",
+      "exampleSentence": "Salut, enchanté."
     },
     {
       "originalWord": "good morning",
       "translation": "bonjour",
-      "transcription": "[ɡʊd ˈmɔːrnɪŋ]",
-      "exampleSentence": "Good morning, everyone."
+      "transcription": "[bɔ̃ʒur]",
+      "exampleSentence": "Bonjour à tous."
     },
     {
       "originalWord": "good afternoon",
       "translation": "bon après-midi",
-      "transcription": "[ɡʊd ˌæftɚˈnuːn]",
-      "exampleSentence": "Good afternoon, Mr. Martin."
+      "transcription": "[bɔ̃ apresmidi]",
+      "exampleSentence": "Bon après-midi, monsieur."
     },
     {
       "originalWord": "good evening",
       "translation": "bonsoir",
-      "transcription": "[ɡʊd ˈiːvnɪŋ]",
-      "exampleSentence": "Good evening, welcome!"
+      "transcription": "[bɔ̃swar]",
+      "exampleSentence": "Bonsoir, bienvenue."
     },
     {
       "originalWord": "good night",
       "translation": "bonne nuit",
-      "transcription": "[ɡʊd ˈnaɪt]",
-      "exampleSentence": "Good night, sleep well."
+      "transcription": "[bɔ̃ne nuit]",
+      "exampleSentence": "Bonne nuit, dors bien."
     },
     {
       "originalWord": "goodbye",
       "translation": "au revoir",
-      "transcription": "[ɡʊdˈbaɪ]",
-      "exampleSentence": "Goodbye, see you tomorrow!"
+      "transcription": "[o revwar]",
+      "exampleSentence": "Au revoir, à demain."
     },
     {
       "originalWord": "see you later",
       "translation": "à plus tard",
-      "transcription": "[siː juː ˈleɪtɚ]",
-      "exampleSentence": "See you later, take care."
+      "transcription": "[a plus tard]",
+      "exampleSentence": "À plus tard."
     },
     {
       "originalWord": "please",
       "translation": "s'il vous plaît",
-      "transcription": "[pliːz]",
-      "exampleSentence": "Please sit down."
+      "transcription": "[sil vus plait]",
+      "exampleSentence": "S'il vous plaît, asseyez-vous."
     },
     {
       "originalWord": "thank you",
       "translation": "merci",
-      "transcription": "[θæŋk juː]",
-      "exampleSentence": "Thank you for your help."
+      "transcription": "[merci]",
+      "exampleSentence": "Merci pour votre aide."
     },
     {
       "originalWord": "you're welcome",
       "translation": "de rien",
-      "transcription": "[jʊr ˈwɛlkəm]",
-      "exampleSentence": "You're welcome, no problem."
+      "transcription": "[de riɑ̃]",
+      "exampleSentence": "De rien."
     },
     {
       "originalWord": "excuse me",
       "translation": "excusez-moi",
-      "transcription": "[ɪkˈskjuːz miː]",
-      "exampleSentence": "Excuse me, where is the bathroom?"
+      "transcription": "[excusezmwa]",
+      "exampleSentence": "Excusez-moi, où sont les toilettes ?"
     },
     {
       "originalWord": "sorry",
       "translation": "désolé(e)",
-      "transcription": "[ˈsɑːri]",
-      "exampleSentence": "Sorry, I'm late."
+      "transcription": "[desolee]",
+      "exampleSentence": "Désolé, je suis en retard."
     },
     {
       "originalWord": "yes",
       "translation": "oui",
-      "transcription": "[jɛs]",
-      "exampleSentence": "Yes, I understand."
+      "transcription": "[ui]",
+      "exampleSentence": "Oui, je comprends."
     },
     {
       "originalWord": "no",
       "translation": "non",
-      "transcription": "[noʊ]",
-      "exampleSentence": "No, I don't want it."
+      "transcription": "[nɔ̃]",
+      "exampleSentence": "Non, je ne veux pas."
     },
     {
       "originalWord": "maybe",
       "translation": "peut-être",
-      "transcription": "[ˈmeɪbi]",
-      "exampleSentence": "Maybe we can go later."
+      "transcription": "[peutetre]",
+      "exampleSentence": "Peut-être plus tard."
     },
     {
       "originalWord": "okay",
       "translation": "d'accord",
-      "transcription": "[oʊˈkeɪ]",
-      "exampleSentence": "Okay, let's start."
+      "transcription": "[daccord]",
+      "exampleSentence": "D'accord, on commence."
     },
     {
       "originalWord": "please help",
       "translation": "aidez-moi, s'il vous plaît",
-      "transcription": "[pliːz hɛlp]",
-      "exampleSentence": "Please help me."
+      "transcription": "[aidezmwa sil vus plait]",
+      "exampleSentence": "Aidez-moi, s'il vous plaît."
     },
     {
       "originalWord": "I don't understand",
       "translation": "je ne comprends pas",
-      "transcription": "[aɪ doʊnt ˌʌndərˈstænd]",
-      "exampleSentence": "Sorry, I don't understand."
+      "transcription": "[ʒe ne comprɑ̃ds pas]",
+      "exampleSentence": "Désolé, je ne comprends pas."
     },
     {
       "originalWord": "do you speak English?",
       "translation": "parlez-vous anglais ?",
-      "transcription": "[duː juː spiːk ˈɪŋɡlɪʃ]",
-      "exampleSentence": "Do you speak English?"
+      "transcription": "[parlezvus ɑ̃glais ]",
+      "exampleSentence": "Parlez-vous anglais ?"
     },
     {
       "originalWord": "zero",
       "translation": "zéro",
-      "transcription": "[ˈzɪroʊ]",
-      "exampleSentence": "Zero is the first number."
+      "transcription": "[zero]",
+      "exampleSentence": "Exemple avec zéro."
     },
     {
       "originalWord": "one",
       "translation": "un",
-      "transcription": "[wʌn]",
-      "exampleSentence": "I have one sister."
+      "transcription": "[un]",
+      "exampleSentence": "Exemple avec un."
     },
     {
       "originalWord": "two",
       "translation": "deux",
-      "transcription": "[tuː]",
-      "exampleSentence": "I need two tickets."
+      "transcription": "[deux]",
+      "exampleSentence": "Exemple avec deux."
     },
     {
       "originalWord": "three",
       "translation": "trois",
-      "transcription": "[θriː]",
-      "exampleSentence": "There are three apples."
+      "transcription": "[trwas]",
+      "exampleSentence": "Exemple avec trois."
     },
     {
       "originalWord": "four",
       "translation": "quatre",
-      "transcription": "[fɔːr]",
-      "exampleSentence": "She has four books."
+      "transcription": "[quatre]",
+      "exampleSentence": "Exemple avec quatre."
     },
     {
       "originalWord": "five",
       "translation": "cinq",
-      "transcription": "[faɪv]",
-      "exampleSentence": "I work five days a week."
+      "transcription": "[cinq]",
+      "exampleSentence": "Exemple avec cinq."
     },
     {
       "originalWord": "six",
       "translation": "six",
-      "transcription": "[sɪks]",
-      "exampleSentence": "We have six chairs."
+      "transcription": "[six]",
+      "exampleSentence": "Exemple avec six."
     },
     {
       "originalWord": "seven",
       "translation": "sept",
-      "transcription": "[ˈsɛvən]",
-      "exampleSentence": "Seven is my lucky number."
+      "transcription": "[sept]",
+      "exampleSentence": "Exemple avec sept."
     },
     {
       "originalWord": "eight",
       "translation": "huit",
-      "transcription": "[eɪt]",
-      "exampleSentence": "I wake up at eight."
+      "transcription": "[huit]",
+      "exampleSentence": "Exemple avec huit."
     },
     {
       "originalWord": "nine",
       "translation": "neuf",
-      "transcription": "[naɪn]",
-      "exampleSentence": "It's nine o'clock."
+      "transcription": "[neuf]",
+      "exampleSentence": "Exemple avec neuf."
     },
     {
       "originalWord": "ten",
       "translation": "dix",
-      "transcription": "[tɛn]",
-      "exampleSentence": "Ten people are here."
+      "transcription": "[dix]",
+      "exampleSentence": "Exemple avec dix."
     },
     {
       "originalWord": "eleven",
       "translation": "onze",
-      "transcription": "[ɪˈlɛvən]",
-      "exampleSentence": "My room is number eleven."
+      "transcription": "[ɔ̃ze]",
+      "exampleSentence": "Exemple avec onze."
     },
     {
       "originalWord": "twelve",
       "translation": "douze",
-      "transcription": "[twɛlv]",
-      "exampleSentence": "There are twelve months."
+      "transcription": "[duze]",
+      "exampleSentence": "Exemple avec douze."
     },
     {
       "originalWord": "thirteen",
       "translation": "treize",
-      "transcription": "[ˌθɝːˈtiːn]",
-      "exampleSentence": "Thirteen is a big number."
+      "transcription": "[treize]",
+      "exampleSentence": "Exemple avec treize."
     },
     {
       "originalWord": "fourteen",
       "translation": "quatorze",
-      "transcription": "[ˌfɔːrˈtiːn]",
-      "exampleSentence": "I am fourteen years old."
+      "transcription": "[quatorze]",
+      "exampleSentence": "Exemple avec quatorze."
     },
     {
       "originalWord": "fifteen",
       "translation": "quinze",
-      "transcription": "[ˌfɪfˈtiːn]",
-      "exampleSentence": "The meeting is at fifteen past two."
+      "transcription": "[quinze]",
+      "exampleSentence": "Exemple avec quinze."
     },
     {
       "originalWord": "sixteen",
       "translation": "seize",
-      "transcription": "[ˌsɪkˈstiːn]",
-      "exampleSentence": "She is sixteen today."
+      "transcription": "[seize]",
+      "exampleSentence": "Exemple avec seize."
     },
     {
       "originalWord": "seventeen",
       "translation": "dix-sept",
-      "transcription": "[ˌsɛvənˈtiːn]",
-      "exampleSentence": "Seventeen students came."
+      "transcription": "[dixsept]",
+      "exampleSentence": "Exemple avec dix-sept."
     },
     {
       "originalWord": "eighteen",
       "translation": "dix-huit",
-      "transcription": "[ˌeɪˈtiːn]",
-      "exampleSentence": "I turn eighteen next year."
+      "transcription": "[dixhuit]",
+      "exampleSentence": "Exemple avec dix-huit."
     },
     {
       "originalWord": "nineteen",
       "translation": "dix-neuf",
-      "transcription": "[ˌnaɪnˈtiːn]",
-      "exampleSentence": "Nineteen is almost twenty."
+      "transcription": "[dixneuf]",
+      "exampleSentence": "Exemple avec dix-neuf."
     },
     {
       "originalWord": "twenty",
       "translation": "vingt",
-      "transcription": "[ˈtwɛnti]",
-      "exampleSentence": "I have twenty euros."
+      "transcription": "[vingt]",
+      "exampleSentence": "Exemple avec vingt."
     },
     {
       "originalWord": "red",
       "translation": "rouge",
-      "transcription": "[rɛd]",
-      "exampleSentence": "My car is red."
+      "transcription": "[ruge]",
+      "exampleSentence": "Exemple avec rouge."
     },
     {
       "originalWord": "blue",
       "translation": "bleu",
-      "transcription": "[bluː]",
-      "exampleSentence": "The sky is blue."
+      "transcription": "[bleu]",
+      "exampleSentence": "Exemple avec bleu."
     },
     {
       "originalWord": "green",
       "translation": "vert",
-      "transcription": "[ɡriːn]",
-      "exampleSentence": "I like green apples."
+      "transcription": "[vert]",
+      "exampleSentence": "Exemple avec vert."
     },
     {
       "originalWord": "yellow",
       "translation": "jaune",
-      "transcription": "[ˈjɛloʊ]",
-      "exampleSentence": "The sun is yellow."
+      "transcription": "[ʒone]",
+      "exampleSentence": "Exemple avec jaune."
     },
     {
       "originalWord": "black",
       "translation": "noir",
-      "transcription": "[blæk]",
-      "exampleSentence": "My shoes are black."
+      "transcription": "[nwar]",
+      "exampleSentence": "Exemple avec noir."
     },
     {
       "originalWord": "white",
       "translation": "blanc",
-      "transcription": "[waɪt]",
-      "exampleSentence": "The wall is white."
+      "transcription": "[blɑ̃c]",
+      "exampleSentence": "Exemple avec blanc."
     },
     {
       "originalWord": "orange",
       "translation": "orange",
-      "transcription": "[ˈɔːrɪndʒ]",
-      "exampleSentence": "Orange is my favorite color."
+      "transcription": "[orɑ̃ge]",
+      "exampleSentence": "Exemple avec orange."
     },
     {
       "originalWord": "purple",
       "translation": "violet",
-      "transcription": "[ˈpɝːpəl]",
-      "exampleSentence": "She wears a purple dress."
+      "transcription": "[violet]",
+      "exampleSentence": "Exemple avec violet."
     },
     {
       "originalWord": "pink",
       "translation": "rose",
-      "transcription": "[pɪŋk]",
-      "exampleSentence": "I bought a pink shirt."
+      "transcription": "[rose]",
+      "exampleSentence": "Exemple avec rose."
     },
     {
       "originalWord": "brown",
       "translation": "marron",
-      "transcription": "[braʊn]",
-      "exampleSentence": "The table is brown."
+      "transcription": "[marrɔ̃]",
+      "exampleSentence": "Exemple avec marron."
     },
     {
       "originalWord": "gray",
       "translation": "gris",
-      "transcription": "[ɡreɪ]",
-      "exampleSentence": "The sky is gray today."
+      "transcription": "[gris]",
+      "exampleSentence": "Exemple avec gris."
     },
     {
       "originalWord": "family",
       "translation": "famille",
-      "transcription": "[ˈfæməli]",
-      "exampleSentence": "My family is big."
+      "transcription": "[famille]",
+      "exampleSentence": "Exemple avec famille."
     },
     {
       "originalWord": "mother",
       "translation": "mère",
-      "transcription": "[ˈmʌðɚ]",
-      "exampleSentence": "My mother is kind."
+      "transcription": "[mere]",
+      "exampleSentence": "Exemple avec mère."
     },
     {
       "originalWord": "father",
       "translation": "père",
-      "transcription": "[ˈfɑːðɚ]",
-      "exampleSentence": "My father works a lot."
+      "transcription": "[pere]",
+      "exampleSentence": "Exemple avec père."
     },
     {
       "originalWord": "parents",
       "translation": "parents",
-      "transcription": "[ˈpɛrənts]",
-      "exampleSentence": "My parents live nearby."
+      "transcription": "[parɑ̃ts]",
+      "exampleSentence": "Exemple avec parents."
     },
     {
       "originalWord": "son",
       "translation": "fils",
-      "transcription": "[sʌn]",
-      "exampleSentence": "Their son is at school."
+      "transcription": "[fils]",
+      "exampleSentence": "Exemple avec fils."
     },
     {
       "originalWord": "daughter",
       "translation": "fille",
-      "transcription": "[ˈdɔːtɚ]",
-      "exampleSentence": "Her daughter is five."
+      "transcription": "[fille]",
+      "exampleSentence": "Exemple avec fille."
     },
     {
       "originalWord": "brother",
       "translation": "frère",
-      "transcription": "[ˈbrʌðɚ]",
-      "exampleSentence": "My brother likes music."
+      "transcription": "[frere]",
+      "exampleSentence": "Exemple avec frère."
     },
     {
       "originalWord": "sister",
       "translation": "sœur",
-      "transcription": "[ˈsɪstɚ]",
-      "exampleSentence": "My sister is friendly."
+      "transcription": "[sœur]",
+      "exampleSentence": "Exemple avec sœur."
     },
     {
       "originalWord": "husband",
       "translation": "mari",
-      "transcription": "[ˈhʌzbənd]",
-      "exampleSentence": "Her husband is a doctor."
+      "transcription": "[mari]",
+      "exampleSentence": "Exemple avec mari."
     },
     {
       "originalWord": "wife",
       "translation": "femme",
-      "transcription": "[waɪf]",
-      "exampleSentence": "My wife is at work."
+      "transcription": "[femme]",
+      "exampleSentence": "Exemple avec femme."
     },
     {
       "originalWord": "child",
       "translation": "enfant",
-      "transcription": "[tʃaɪld]",
-      "exampleSentence": "That child is happy."
+      "transcription": "[ɑ̃fɑ̃t]",
+      "exampleSentence": "Exemple avec enfant."
     },
     {
       "originalWord": "friend",
       "translation": "ami(e)",
-      "transcription": "[frɛnd]",
-      "exampleSentence": "You are my friend."
+      "transcription": "[amie]",
+      "exampleSentence": "Exemple avec ami(e)."
     },
     {
       "originalWord": "time",
       "translation": "temps",
-      "transcription": "[taɪm]",
-      "exampleSentence": "What time is it?"
+      "transcription": "[temps]",
+      "exampleSentence": "Exemple avec temps."
     },
     {
       "originalWord": "today",
       "translation": "aujourd'hui",
-      "transcription": "[təˈdeɪ]",
-      "exampleSentence": "Today is a good day."
+      "transcription": "[oʒurdhui]",
+      "exampleSentence": "Exemple avec aujourd'hui."
     },
     {
       "originalWord": "tomorrow",
       "translation": "demain",
-      "transcription": "[təˈmɑːroʊ]",
-      "exampleSentence": "Tomorrow I will study."
+      "transcription": "[demain]",
+      "exampleSentence": "Exemple avec demain."
     },
     {
       "originalWord": "yesterday",
       "translation": "hier",
-      "transcription": "[ˈjɛstɚdeɪ]",
-      "exampleSentence": "Yesterday I was busy."
+      "transcription": "[hier]",
+      "exampleSentence": "Exemple avec hier."
     },
     {
       "originalWord": "now",
       "translation": "maintenant",
-      "transcription": "[naʊ]",
-      "exampleSentence": "I need it now."
+      "transcription": "[maintɑ̃ɑ̃t]",
+      "exampleSentence": "Exemple avec maintenant."
     },
     {
       "originalWord": "later",
       "translation": "plus tard",
-      "transcription": "[ˈleɪtɚ]",
-      "exampleSentence": "I'll call you later."
+      "transcription": "[plus tard]",
+      "exampleSentence": "Exemple avec plus tard."
     },
     {
       "originalWord": "early",
       "translation": "tôt",
-      "transcription": "[ˈɝːli]",
-      "exampleSentence": "I wake up early."
+      "transcription": "[tot]",
+      "exampleSentence": "Exemple avec tôt."
     },
     {
       "originalWord": "late",
       "translation": "en retard",
-      "transcription": "[leɪt]",
-      "exampleSentence": "The bus is late."
+      "transcription": "[ɑ̃ retard]",
+      "exampleSentence": "Exemple avec en retard."
     },
     {
       "originalWord": "morning",
       "translation": "matin",
-      "transcription": "[ˈmɔːrnɪŋ]",
-      "exampleSentence": "I drink coffee in the morning."
+      "transcription": "[matin]",
+      "exampleSentence": "Exemple avec matin."
     },
     {
       "originalWord": "afternoon",
       "translation": "après-midi",
-      "transcription": "[ˌæftɚˈnuːn]",
-      "exampleSentence": "I work in the afternoon."
+      "transcription": "[apresmidi]",
+      "exampleSentence": "Exemple avec après-midi."
     },
     {
       "originalWord": "evening",
       "translation": "soir",
-      "transcription": "[ˈiːvnɪŋ]",
-      "exampleSentence": "We walk in the evening."
+      "transcription": "[swar]",
+      "exampleSentence": "Exemple avec soir."
     },
     {
       "originalWord": "night",
       "translation": "nuit",
-      "transcription": "[naɪt]",
-      "exampleSentence": "At night, I read a book."
+      "transcription": "[nuit]",
+      "exampleSentence": "Exemple avec nuit."
     },
     {
       "originalWord": "hour",
       "translation": "heure",
-      "transcription": "[ˈaʊɚ]",
-      "exampleSentence": "It takes one hour."
+      "transcription": "[heure]",
+      "exampleSentence": "Exemple avec heure."
     },
     {
       "originalWord": "minute",
       "translation": "minute",
-      "transcription": "[ˈmɪnɪt]",
-      "exampleSentence": "Wait a minute, please."
+      "transcription": "[minute]",
+      "exampleSentence": "Exemple avec minute."
     },
     {
       "originalWord": "day",
       "translation": "jour",
-      "transcription": "[deɪ]",
-      "exampleSentence": "Have a nice day."
+      "transcription": "[ʒur]",
+      "exampleSentence": "Exemple avec jour."
     },
     {
       "originalWord": "week",
       "translation": "semaine",
-      "transcription": "[wiːk]",
-      "exampleSentence": "I have a busy week."
+      "transcription": "[semaine]",
+      "exampleSentence": "Exemple avec semaine."
     },
     {
       "originalWord": "month",
       "translation": "mois",
-      "transcription": "[mʌnθ]",
-      "exampleSentence": "This month is cold."
+      "transcription": "[mwas]",
+      "exampleSentence": "Exemple avec mois."
     },
     {
       "originalWord": "year",
       "translation": "année",
-      "transcription": "[jɪr]",
-      "exampleSentence": "Next year will be better."
+      "transcription": "[ɑ̃nee]",
+      "exampleSentence": "Exemple avec année."
     },
     {
       "originalWord": "to be",
       "translation": "être",
-      "transcription": "[tuː biː]",
-      "exampleSentence": "I am happy today."
+      "transcription": "[etre]",
+      "exampleSentence": "Exemple avec être."
     },
     {
       "originalWord": "to have",
       "translation": "avoir",
-      "transcription": "[tuː hæv]",
-      "exampleSentence": "I have a question."
+      "transcription": "[avwar]",
+      "exampleSentence": "Exemple avec avoir."
     },
     {
       "originalWord": "to do",
       "translation": "faire",
-      "transcription": "[tuː duː]",
-      "exampleSentence": "What do you do on weekends?"
+      "transcription": "[faire]",
+      "exampleSentence": "Exemple avec faire."
     },
     {
       "originalWord": "to go",
       "translation": "aller",
-      "transcription": "[tuː ɡoʊ]",
-      "exampleSentence": "I go to school every day."
+      "transcription": "[aller]",
+      "exampleSentence": "Exemple avec aller."
     },
     {
       "originalWord": "to come",
       "translation": "venir",
-      "transcription": "[tuː kʌm]",
-      "exampleSentence": "Please come here."
+      "transcription": "[vɑ̃ir]",
+      "exampleSentence": "Exemple avec venir."
     },
     {
       "originalWord": "to want",
       "translation": "vouloir",
-      "transcription": "[tuː wɑːnt]",
-      "exampleSentence": "I want some water."
+      "transcription": "[vulwar]",
+      "exampleSentence": "Exemple avec vouloir."
     },
     {
       "originalWord": "to need",
       "translation": "avoir besoin",
-      "transcription": "[tuː niːd]",
-      "exampleSentence": "I need help, please."
+      "transcription": "[avwar beswɑ̃]",
+      "exampleSentence": "Exemple avec avoir besoin."
     },
     {
       "originalWord": "to like",
       "translation": "aimer",
-      "transcription": "[tuː laɪk]",
-      "exampleSentence": "I like this song."
+      "transcription": "[aimer]",
+      "exampleSentence": "Exemple avec aimer."
     },
     {
       "originalWord": "to love",
       "translation": "adorer",
-      "transcription": "[tuː lʌv]",
-      "exampleSentence": "I love my family."
+      "transcription": "[adorer]",
+      "exampleSentence": "Exemple avec adorer."
     },
     {
       "originalWord": "to see",
       "translation": "voir",
-      "transcription": "[tuː siː]",
-      "exampleSentence": "I see the bus."
+      "transcription": "[vwar]",
+      "exampleSentence": "Exemple avec voir."
     },
     {
       "originalWord": "good",
       "translation": "bon",
-      "transcription": "[ɡʊd]",
-      "exampleSentence": "This is a good idea."
+      "transcription": "[bɔ̃]",
+      "exampleSentence": "Exemple avec bon."
     },
     {
       "originalWord": "bad",
       "translation": "mauvais",
-      "transcription": "[bæd]",
-      "exampleSentence": "The weather is bad today."
+      "transcription": "[movais]",
+      "exampleSentence": "Exemple avec mauvais."
     },
     {
       "originalWord": "big",
       "translation": "grand",
-      "transcription": "[bɪɡ]",
-      "exampleSentence": "This is a big house."
+      "transcription": "[grɑ̃d]",
+      "exampleSentence": "Exemple avec grand."
     },
     {
       "originalWord": "small",
       "translation": "petit",
-      "transcription": "[smɔːl]",
-      "exampleSentence": "I have a small dog."
+      "transcription": "[petit]",
+      "exampleSentence": "Exemple avec petit."
     },
     {
       "originalWord": "new",
       "translation": "nouveau",
-      "transcription": "[nuː]",
-      "exampleSentence": "I bought a new phone."
+      "transcription": "[nuvo]",
+      "exampleSentence": "Exemple avec nouveau."
     },
     {
       "originalWord": "old",
       "translation": "vieux",
-      "transcription": "[oʊld]",
-      "exampleSentence": "My car is old."
+      "transcription": "[vieux]",
+      "exampleSentence": "Exemple avec vieux."
     },
     {
       "originalWord": "hot",
       "translation": "chaud",
-      "transcription": "[hɑːt]",
-      "exampleSentence": "The coffee is hot."
+      "transcription": "[ʃod]",
+      "exampleSentence": "Exemple avec chaud."
     },
     {
       "originalWord": "cold",
       "translation": "froid",
-      "transcription": "[koʊld]",
-      "exampleSentence": "The water is cold."
+      "transcription": "[frwad]",
+      "exampleSentence": "Exemple avec froid."
     }
   ]
 }

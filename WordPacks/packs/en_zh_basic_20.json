@@ -5,122 +5,122 @@
     {
       "originalWord": "hello",
       "translation": "你好",
-      "transcription": "[həˈloʊ]",
-      "exampleSentence": "Hello, how are you?"
+      "transcription": "[nǐ hǎo]",
+      "exampleSentence": "你好，你好吗？"
     },
     {
       "originalWord": "goodbye",
       "translation": "再见",
-      "transcription": "[ɡʊdˈbaɪ]",
-      "exampleSentence": "Goodbye, see you tomorrow!"
+      "transcription": "[zài jiàn]",
+      "exampleSentence": "再见，明天见！"
     },
     {
       "originalWord": "please",
       "translation": "请",
-      "transcription": "[pliːz]",
-      "exampleSentence": "Can I have water, please?"
+      "transcription": "[qǐng]",
+      "exampleSentence": "请给我水，好吗？"
     },
     {
       "originalWord": "thank you",
       "translation": "谢谢",
-      "transcription": "[θæŋk juː]",
-      "exampleSentence": "Thank you very much!"
+      "transcription": "[xiè xie]",
+      "exampleSentence": "非常感谢！"
     },
     {
       "originalWord": "yes",
       "translation": "是",
-      "transcription": "[jɛs]",
-      "exampleSentence": "Yes, I understand."
+      "transcription": "[shì]",
+      "exampleSentence": "是的，我明白。"
     },
     {
       "originalWord": "no",
       "translation": "不",
-      "transcription": "[noʊ]",
-      "exampleSentence": "No, I don't want it."
+      "transcription": "[bù]",
+      "exampleSentence": "不，我不想要。"
     },
     {
       "originalWord": "excuse me",
       "translation": "对不起",
-      "transcription": "[ɪkˈskjuːz miː]",
-      "exampleSentence": "Excuse me, where is the bathroom?"
+      "transcription": "[duì bu qǐ]",
+      "exampleSentence": "对不起，洗手间在哪里？"
     },
     {
       "originalWord": "sorry",
       "translation": "抱歉",
-      "transcription": "[ˈsɑːri]",
-      "exampleSentence": "I'm sorry, I'm late."
+      "transcription": "[bào qiàn]",
+      "exampleSentence": "抱歉，我迟到了。"
     },
     {
       "originalWord": "water",
       "translation": "水",
-      "transcription": "[ˈwɔːtɚ]",
-      "exampleSentence": "I need a glass of water."
+      "transcription": "[shuǐ]",
+      "exampleSentence": "我需要一杯水。"
     },
     {
       "originalWord": "food",
       "translation": "食物",
-      "transcription": "[fuːd]",
-      "exampleSentence": "The food is delicious."
+      "transcription": "[shí wù]",
+      "exampleSentence": "食物很美味。"
     },
     {
       "originalWord": "help",
       "translation": "帮助",
-      "transcription": "[hɛlp]",
-      "exampleSentence": "I need help, please."
+      "transcription": "[bāng zhù]",
+      "exampleSentence": "我需要帮助，请。"
     },
     {
       "originalWord": "bathroom",
       "translation": "洗手间",
-      "transcription": "[ˈbæθruːm]",
-      "exampleSentence": "Where is the bathroom?"
+      "transcription": "[xǐ shǒu jiān]",
+      "exampleSentence": "洗手间在哪里？"
     },
     {
       "originalWord": "how much",
       "translation": "多少",
-      "transcription": "[haʊ mʌtʃ]",
-      "exampleSentence": "How much does this cost?"
+      "transcription": "[duō shǎo]",
+      "exampleSentence": "这个多少钱？"
     },
     {
       "originalWord": "where",
       "translation": "哪里",
-      "transcription": "[wɛr]",
-      "exampleSentence": "Where is the hotel?"
+      "transcription": "[nǎ lǐ]",
+      "exampleSentence": "酒店在哪里？"
     },
     {
       "originalWord": "when",
       "translation": "什么时候",
-      "transcription": "[wɛn]",
-      "exampleSentence": "When does the train arrive?"
+      "transcription": "[shén me shí hòu]",
+      "exampleSentence": "火车什么时候到？"
     },
     {
       "originalWord": "good",
       "translation": "好",
-      "transcription": "[ɡʊd]",
-      "exampleSentence": "This is very good!"
+      "transcription": "[hǎo]",
+      "exampleSentence": "这个非常好！"
     },
     {
       "originalWord": "bad",
       "translation": "坏",
-      "transcription": "[bæd]",
-      "exampleSentence": "The weather is bad today."
+      "transcription": "[huài]",
+      "exampleSentence": "今天天气很坏。"
     },
     {
       "originalWord": "big",
       "translation": "大",
-      "transcription": "[bɪɡ]",
-      "exampleSentence": "This is a big house."
+      "transcription": "[dà]",
+      "exampleSentence": "这是一个大房子。"
     },
     {
       "originalWord": "small",
       "translation": "小",
-      "transcription": "[smɔːl]",
-      "exampleSentence": "I have a small dog."
+      "transcription": "[xiǎo]",
+      "exampleSentence": "我有一只小狗。"
     },
     {
       "originalWord": "I don't understand",
       "translation": "我不明白",
-      "transcription": "[aɪ doʊnt ˌʌndərˈstænd]",
-      "exampleSentence": "Sorry, I don't understand Chinese."
+      "transcription": "[wǒ bù míng bái]",
+      "exampleSentence": "对不起，我不明白英语。"
     }
   ]
 }

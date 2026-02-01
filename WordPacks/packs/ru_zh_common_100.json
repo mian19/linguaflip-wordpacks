@@ -5,602 +5,602 @@
     {
       "originalWord": "привет",
       "translation": "你好",
-      "transcription": "[—]",
-      "exampleSentence": "Привет — пример."
+      "transcription": "[nǐ hǎo]",
+      "exampleSentence": "你好，你好吗？"
     },
     {
       "originalWord": "доброе утро",
       "translation": "早上好",
-      "transcription": "[—]",
-      "exampleSentence": "Доброе утро — пример."
+      "transcription": "[zǎo shàng hǎo]",
+      "exampleSentence": "早上好，大家好。"
     },
     {
       "originalWord": "добрый день",
       "translation": "下午好",
-      "transcription": "[—]",
-      "exampleSentence": "Добрый день — пример."
+      "transcription": "[xià wǔ hǎo]",
+      "exampleSentence": "下午好。"
     },
     {
       "originalWord": "добрый вечер",
       "translation": "晚上好",
-      "transcription": "[—]",
-      "exampleSentence": "Добрый вечер — пример."
+      "transcription": "[wǎn shàng hǎo]",
+      "exampleSentence": "晚上好。"
     },
     {
       "originalWord": "до свидания",
       "translation": "再见",
-      "transcription": "[—]",
-      "exampleSentence": "До свидания — пример."
+      "transcription": "[zài jiàn]",
+      "exampleSentence": "再见，明天见。"
     },
     {
       "originalWord": "увидимся позже",
       "translation": "一会儿见",
-      "transcription": "[—]",
-      "exampleSentence": "Увидимся позже — пример."
+      "transcription": "[yí huìr jiàn]",
+      "exampleSentence": "一会儿见。"
     },
     {
       "originalWord": "пожалуйста",
       "translation": "请",
-      "transcription": "[—]",
-      "exampleSentence": "Пожалуйста — пример."
+      "transcription": "[qǐng]",
+      "exampleSentence": "请坐。"
     },
     {
       "originalWord": "спасибо",
       "translation": "谢谢",
-      "transcription": "[—]",
-      "exampleSentence": "Спасибо — пример."
+      "transcription": "[xiè xie]",
+      "exampleSentence": "谢谢你的帮助。"
     },
     {
       "originalWord": "не за что",
       "translation": "不客气",
-      "transcription": "[—]",
-      "exampleSentence": "Не за что — пример."
+      "transcription": "[bú kè qi]",
+      "exampleSentence": "不客气。"
     },
     {
       "originalWord": "извини",
       "translation": "对不起",
-      "transcription": "[—]",
-      "exampleSentence": "Извини — пример."
+      "transcription": "[duì bu qǐ]",
+      "exampleSentence": "对不起，我迟到了。"
     },
     {
       "originalWord": "да",
       "translation": "是",
-      "transcription": "[—]",
-      "exampleSentence": "Да — пример."
+      "transcription": "[shì]",
+      "exampleSentence": "我要快乐。"
     },
     {
       "originalWord": "нет",
       "translation": "不是",
-      "transcription": "[—]",
-      "exampleSentence": "Нет — пример."
+      "transcription": "[bú shì]",
+      "exampleSentence": "不是，我不要。"
     },
     {
       "originalWord": "может быть",
       "translation": "也许",
-      "transcription": "[—]",
-      "exampleSentence": "Может быть — пример."
+      "transcription": "[yě xǔ]",
+      "exampleSentence": "也许以后。"
     },
     {
       "originalWord": "хорошо",
       "translation": "好的",
-      "transcription": "[—]",
-      "exampleSentence": "Хорошо — пример."
+      "transcription": "[hǎo de]",
+      "exampleSentence": "好的，我们开始。"
     },
     {
       "originalWord": "помощь",
       "translation": "帮忙",
-      "transcription": "[—]",
-      "exampleSentence": "Помощь — пример."
+      "transcription": "[bāng máng]",
+      "exampleSentence": "帮忙，请。"
     },
     {
       "originalWord": "я не понимаю",
       "translation": "我不懂",
-      "transcription": "[—]",
-      "exampleSentence": "Я не понимаю — пример."
+      "transcription": "[wǒ bù dǒng]",
+      "exampleSentence": "我不懂。"
     },
     {
       "originalWord": "вы говорите по-английски?",
       "translation": "你会说英语吗",
-      "transcription": "[—]",
-      "exampleSentence": "Вы говорите по-английски? — пример."
+      "transcription": "[nǐ huì shuō yīng yǔ ma]",
+      "exampleSentence": "你会说英语吗？"
     },
     {
       "originalWord": "хорошо",
       "translation": "好",
-      "transcription": "[—]",
-      "exampleSentence": "Хорошо — пример."
+      "transcription": "[hǎo]",
+      "exampleSentence": "很好。"
     },
     {
       "originalWord": "плохо",
       "translation": "坏",
-      "transcription": "[—]",
-      "exampleSentence": "Плохо — пример."
+      "transcription": "[huài]",
+      "exampleSentence": "不好。"
     },
     {
       "originalWord": "друг",
       "translation": "朋友",
-      "transcription": "[—]",
-      "exampleSentence": "Друг — пример."
+      "transcription": "[péng you]",
+      "exampleSentence": "他是朋友。"
     },
     {
       "originalWord": "один",
       "translation": "一",
-      "transcription": "[—]",
-      "exampleSentence": "Один — пример."
+      "transcription": "[yī]",
+      "exampleSentence": "我有一个。"
     },
     {
       "originalWord": "два",
       "translation": "二",
-      "transcription": "[—]",
-      "exampleSentence": "Два — пример."
+      "transcription": "[èr]",
+      "exampleSentence": "我有两个。"
     },
     {
       "originalWord": "три",
       "translation": "三",
-      "transcription": "[—]",
-      "exampleSentence": "Три — пример."
+      "transcription": "[sān]",
+      "exampleSentence": "三个苹果。"
     },
     {
       "originalWord": "четыре",
       "translation": "四",
-      "transcription": "[—]",
-      "exampleSentence": "Четыре — пример."
+      "transcription": "[sì]",
+      "exampleSentence": "四本书。"
     },
     {
       "originalWord": "пять",
       "translation": "五",
-      "transcription": "[—]",
-      "exampleSentence": "Пять — пример."
+      "transcription": "[wǔ]",
+      "exampleSentence": "五天。"
     },
     {
       "originalWord": "шесть",
       "translation": "六",
-      "transcription": "[—]",
-      "exampleSentence": "Шесть — пример."
+      "transcription": "[liù]",
+      "exampleSentence": "六小时。"
     },
     {
       "originalWord": "семь",
       "translation": "七",
-      "transcription": "[—]",
-      "exampleSentence": "Семь — пример."
+      "transcription": "[qī]",
+      "exampleSentence": "七个人。"
     },
     {
       "originalWord": "восемь",
       "translation": "八",
-      "transcription": "[—]",
-      "exampleSentence": "Восемь — пример."
+      "transcription": "[bā]",
+      "exampleSentence": "八岁。"
     },
     {
       "originalWord": "девять",
       "translation": "九",
-      "transcription": "[—]",
-      "exampleSentence": "Девять — пример."
+      "transcription": "[jiǔ]",
+      "exampleSentence": "九个月。"
     },
     {
       "originalWord": "десять",
       "translation": "十",
-      "transcription": "[—]",
-      "exampleSentence": "Десять — пример."
+      "transcription": "[shí]",
+      "exampleSentence": "十个人。"
     },
     {
       "originalWord": "одиннадцать",
       "translation": "十一",
-      "transcription": "[—]",
-      "exampleSentence": "Одиннадцать — пример."
+      "transcription": "[shí yī]",
+      "exampleSentence": "十一点。"
     },
     {
       "originalWord": "двенадцать",
       "translation": "十二",
-      "transcription": "[—]",
-      "exampleSentence": "Двенадцать — пример."
+      "transcription": "[shí èr]",
+      "exampleSentence": "十二个月。"
     },
     {
       "originalWord": "тринадцать",
       "translation": "十三",
-      "transcription": "[—]",
-      "exampleSentence": "Тринадцать — пример."
+      "transcription": "[shí sān]",
+      "exampleSentence": "十三岁。"
     },
     {
       "originalWord": "четырнадцать",
       "translation": "十四",
-      "transcription": "[—]",
-      "exampleSentence": "Четырнадцать — пример."
+      "transcription": "[shí sì]",
+      "exampleSentence": "十四岁。"
     },
     {
       "originalWord": "пятнадцать",
       "translation": "十五",
-      "transcription": "[—]",
-      "exampleSentence": "Пятнадцать — пример."
+      "transcription": "[shí wǔ]",
+      "exampleSentence": "十五分钟。"
     },
     {
       "originalWord": "шестнадцать",
       "translation": "十六",
-      "transcription": "[—]",
-      "exampleSentence": "Шестнадцать — пример."
+      "transcription": "[shí liù]",
+      "exampleSentence": "十六岁。"
     },
     {
       "originalWord": "семнадцать",
       "translation": "十七",
-      "transcription": "[—]",
-      "exampleSentence": "Семнадцать — пример."
+      "transcription": "[shí qī]",
+      "exampleSentence": "十七个人。"
     },
     {
       "originalWord": "восемнадцать",
       "translation": "十八",
-      "transcription": "[—]",
-      "exampleSentence": "Восемнадцать — пример."
+      "transcription": "[shí bā]",
+      "exampleSentence": "十八岁。"
     },
     {
       "originalWord": "девятнадцать",
       "translation": "十九",
-      "transcription": "[—]",
-      "exampleSentence": "Девятнадцать — пример."
+      "transcription": "[shí jiǔ]",
+      "exampleSentence": "十九本书。"
     },
     {
       "originalWord": "двадцать",
       "translation": "二十",
-      "transcription": "[—]",
-      "exampleSentence": "Двадцать — пример."
+      "transcription": "[èr shí]",
+      "exampleSentence": "二十 евро。"
     },
     {
       "originalWord": "красный",
       "translation": "红色",
-      "transcription": "[—]",
-      "exampleSentence": "Красный — пример."
+      "transcription": "[hóng sè]",
+      "exampleSentence": "车是红色的。"
     },
     {
       "originalWord": "синий",
       "translation": "蓝色",
-      "transcription": "[—]",
-      "exampleSentence": "Синий — пример."
+      "transcription": "[lán sè]",
+      "exampleSentence": "天空是蓝色的。"
     },
     {
       "originalWord": "зелёный",
       "translation": "绿色",
-      "transcription": "[—]",
-      "exampleSentence": "Зелёный — пример."
+      "transcription": "[lǜ sè]",
+      "exampleSentence": "苹果是绿色的。"
     },
     {
       "originalWord": "жёлтый",
       "translation": "黄色",
-      "transcription": "[—]",
-      "exampleSentence": "Жёлтый — пример."
+      "transcription": "[huáng sè]",
+      "exampleSentence": "太阳是黄色的。"
     },
     {
       "originalWord": "чёрный",
       "translation": "黑色",
-      "transcription": "[—]",
-      "exampleSentence": "Чёрный — пример."
+      "transcription": "[hēi sè]",
+      "exampleSentence": "鞋是黑色的。"
     },
     {
       "originalWord": "белый",
       "translation": "白色",
-      "transcription": "[—]",
-      "exampleSentence": "Белый — пример."
+      "transcription": "[bái sè]",
+      "exampleSentence": "墙是白色的。"
     },
     {
       "originalWord": "розовый",
       "translation": "粉色",
-      "transcription": "[—]",
-      "exampleSentence": "Розовый — пример."
+      "transcription": "[fěn sè]",
+      "exampleSentence": "花是粉色的。"
     },
     {
       "originalWord": "коричневый",
       "translation": "棕色",
-      "transcription": "[—]",
-      "exampleSentence": "Коричневый — пример."
+      "transcription": "[zōng sè]",
+      "exampleSentence": "桌子是棕色的。"
     },
     {
       "originalWord": "серый",
       "translation": "灰色",
-      "transcription": "[—]",
-      "exampleSentence": "Серый — пример."
+      "transcription": "[huī sè]",
+      "exampleSentence": "今天是灰色的天。"
     },
     {
       "originalWord": "оранжевый",
       "translation": "橙色",
-      "transcription": "[—]",
-      "exampleSentence": "Оранжевый — пример."
+      "transcription": "[chéng sè]",
+      "exampleSentence": "橙子是橙色的。"
     },
     {
       "originalWord": "семья",
       "translation": "家庭",
-      "transcription": "[—]",
-      "exampleSentence": "Семья — пример."
+      "transcription": "[jiā tíng]",
+      "exampleSentence": "我的家庭很大。"
     },
     {
       "originalWord": "мама",
       "translation": "妈妈",
-      "transcription": "[—]",
-      "exampleSentence": "Мама — пример."
+      "transcription": "[mā ma]",
+      "exampleSentence": "我妈妈很好。"
     },
     {
       "originalWord": "папа",
       "translation": "爸爸",
-      "transcription": "[—]",
-      "exampleSentence": "Папа — пример."
+      "transcription": "[bà ba]",
+      "exampleSentence": "我爸爸工作。"
     },
     {
       "originalWord": "сын",
       "translation": "儿子",
-      "transcription": "[—]",
-      "exampleSentence": "Сын — пример."
+      "transcription": "[ér zi]",
+      "exampleSentence": "我的儿子学习。"
     },
     {
       "originalWord": "дочь",
       "translation": "女儿",
-      "transcription": "[—]",
-      "exampleSentence": "Дочь — пример."
+      "transcription": "[nǚ ér]",
+      "exampleSentence": "我的女儿睡觉。"
     },
     {
       "originalWord": "брат",
       "translation": "兄弟",
-      "transcription": "[—]",
-      "exampleSentence": "Брат — пример."
+      "transcription": "[xiōng dì]",
+      "exampleSentence": "我的兄弟来了。"
     },
     {
       "originalWord": "сестра",
       "translation": "姐妹",
-      "transcription": "[—]",
-      "exampleSentence": "Сестра — пример."
+      "transcription": "[jiě mèi]",
+      "exampleSentence": "我的姐妹唱歌。"
     },
     {
       "originalWord": "друг",
       "translation": "朋友",
-      "transcription": "[—]",
-      "exampleSentence": "Друг — пример."
+      "transcription": "[péng you]",
+      "exampleSentence": "他是朋友。"
     },
     {
       "originalWord": "ребёнок",
       "translation": "孩子",
-      "transcription": "[—]",
-      "exampleSentence": "Ребёнок — пример."
+      "transcription": "[hái zi]",
+      "exampleSentence": "孩子在玩。"
     },
     {
       "originalWord": "родители",
       "translation": "父母",
-      "transcription": "[—]",
-      "exampleSentence": "Родители — пример."
+      "transcription": "[fù mǔ]",
+      "exampleSentence": "我的父母来了。"
     },
     {
       "originalWord": "сегодня",
       "translation": "今天",
-      "transcription": "[—]",
-      "exampleSentence": "Сегодня — пример."
+      "transcription": "[jīn tiān]",
+      "exampleSentence": "今天工作。"
     },
     {
       "originalWord": "завтра",
       "translation": "明天",
-      "transcription": "[—]",
-      "exampleSentence": "Завтра — пример."
+      "transcription": "[míng tiān]",
+      "exampleSentence": "明天学习。"
     },
     {
       "originalWord": "вчера",
       "translation": "昨天",
-      "transcription": "[—]",
-      "exampleSentence": "Вчера — пример."
+      "transcription": "[zuó tiān]",
+      "exampleSentence": "昨天下雨。"
     },
     {
       "originalWord": "сейчас",
       "translation": "现在",
-      "transcription": "[—]",
-      "exampleSentence": "Сейчас — пример."
+      "transcription": "[xiàn zài]",
+      "exampleSentence": "现在走。"
     },
     {
       "originalWord": "поздно",
       "translation": "晚",
-      "transcription": "[—]",
-      "exampleSentence": "Поздно — пример."
+      "transcription": "[wǎn]",
+      "exampleSentence": "我来晚了。"
     },
     {
       "originalWord": "рано",
       "translation": "早",
-      "transcription": "[—]",
-      "exampleSentence": "Рано — пример."
+      "transcription": "[zǎo]",
+      "exampleSentence": "我来得早。"
     },
     {
       "originalWord": "день",
       "translation": "天",
-      "transcription": "[—]",
-      "exampleSentence": "День — пример."
+      "transcription": "[tiān]",
+      "exampleSentence": "好的一天。"
     },
     {
       "originalWord": "ночь",
       "translation": "夜",
-      "transcription": "[—]",
-      "exampleSentence": "Ночь — пример."
+      "transcription": "[yè]",
+      "exampleSentence": "晚上好。"
     },
     {
       "originalWord": "год",
       "translation": "年",
-      "transcription": "[—]",
-      "exampleSentence": "Год — пример."
+      "transcription": "[nián]",
+      "exampleSentence": "新的一年。"
     },
     {
       "originalWord": "быть",
       "translation": "是",
-      "transcription": "[—]",
-      "exampleSentence": "Быть — пример."
+      "transcription": "[shì]",
+      "exampleSentence": "我要快乐。"
     },
     {
       "originalWord": "иметь",
       "translation": "有",
-      "transcription": "[—]",
-      "exampleSentence": "Иметь — пример."
+      "transcription": "[yǒu]",
+      "exampleSentence": "我有时间。"
     },
     {
       "originalWord": "делать",
       "translation": "做",
-      "transcription": "[—]",
-      "exampleSentence": "Делать — пример."
+      "transcription": "[zuò]",
+      "exampleSentence": "我要做。"
     },
     {
       "originalWord": "идти",
       "translation": "去",
-      "transcription": "[—]",
-      "exampleSentence": "Идти — пример."
+      "transcription": "[qù]",
+      "exampleSentence": "我去那里。"
     },
     {
       "originalWord": "приходить",
       "translation": "来",
-      "transcription": "[—]",
-      "exampleSentence": "Приходить — пример."
+      "transcription": "[lái]",
+      "exampleSentence": "我来了。"
     },
     {
       "originalWord": "хотеть",
       "translation": "想要",
-      "transcription": "[—]",
-      "exampleSentence": "Хотеть — пример."
+      "transcription": "[xiǎng yào]",
+      "exampleSentence": "我想要吃。"
     },
     {
       "originalWord": "нравиться",
       "translation": "喜欢",
-      "transcription": "[—]",
-      "exampleSentence": "Нравиться — пример."
+      "transcription": "[xǐ huān]",
+      "exampleSentence": "我喜欢。"
     },
     {
       "originalWord": "хороший",
       "translation": "好",
-      "transcription": "[—]",
-      "exampleSentence": "Хороший — пример."
+      "transcription": "[hǎo]",
+      "exampleSentence": "很好。"
     },
     {
       "originalWord": "плохой",
       "translation": "坏",
-      "transcription": "[—]",
-      "exampleSentence": "Плохой — пример."
+      "transcription": "[huài]",
+      "exampleSentence": "不好。"
     },
     {
       "originalWord": "большой",
       "translation": "大",
-      "transcription": "[—]",
-      "exampleSentence": "Большой — пример."
+      "transcription": "[dà]",
+      "exampleSentence": "房子大。"
     },
     {
       "originalWord": "маленький",
       "translation": "小",
-      "transcription": "[—]",
-      "exampleSentence": "Маленький — пример."
+      "transcription": "[xiǎo]",
+      "exampleSentence": "狗很小。"
     },
     {
       "originalWord": "новый",
       "translation": "新",
-      "transcription": "[—]",
-      "exampleSentence": "Новый — пример."
+      "transcription": "[xīn]",
+      "exampleSentence": "新的手机。"
     },
     {
       "originalWord": "старый",
       "translation": "老",
-      "transcription": "[—]",
-      "exampleSentence": "Старый — пример."
+      "transcription": "[lǎo]",
+      "exampleSentence": "老房子。"
     },
     {
       "originalWord": "горячий",
       "translation": "热",
-      "transcription": "[—]",
-      "exampleSentence": "Горячий — пример."
+      "transcription": "[rè]",
+      "exampleSentence": "水很热。"
     },
     {
       "originalWord": "холодный",
       "translation": "冷",
-      "transcription": "[—]",
-      "exampleSentence": "Холодный — пример."
+      "transcription": "[lěng]",
+      "exampleSentence": "水很冷。"
     },
     {
       "originalWord": "быстрый",
       "translation": "快",
-      "transcription": "[—]",
-      "exampleSentence": "Быстрый — пример."
+      "transcription": "[kuài]",
+      "exampleSentence": "车很快。"
     },
     {
       "originalWord": "медленный",
       "translation": "慢",
-      "transcription": "[—]",
-      "exampleSentence": "Медленный — пример."
+      "transcription": "[màn]",
+      "exampleSentence": "他很慢。"
     },
     {
       "originalWord": "счастливый",
       "translation": "开心",
-      "transcription": "[—]",
-      "exampleSentence": "Счастливый — пример."
+      "transcription": "[kāi xīn]",
+      "exampleSentence": "我很开心。"
     },
     {
       "originalWord": "грустный",
       "translation": "伤心",
-      "transcription": "[—]",
-      "exampleSentence": "Грустный — пример."
+      "transcription": "[shāng xīn]",
+      "exampleSentence": "我很伤心。"
     },
     {
       "originalWord": "работать",
       "translation": "工作",
-      "transcription": "[—]",
-      "exampleSentence": "Работать — пример."
+      "transcription": "[gōng zuò]",
+      "exampleSentence": "我工作。"
     },
     {
       "originalWord": "жить",
       "translation": "住",
-      "transcription": "[—]",
-      "exampleSentence": "Жить — пример."
+      "transcription": "[zhù]",
+      "exampleSentence": "我住这里。"
     },
     {
       "originalWord": "есть",
       "translation": "吃",
-      "transcription": "[—]",
-      "exampleSentence": "Есть — пример."
+      "transcription": "[chī]",
+      "exampleSentence": "我要吃。"
     },
     {
       "originalWord": "пить",
       "translation": "喝",
-      "transcription": "[—]",
-      "exampleSentence": "Пить — пример."
+      "transcription": "[hē]",
+      "exampleSentence": "我要喝水。"
     },
     {
       "originalWord": "вода",
       "translation": "水",
-      "transcription": "[—]",
-      "exampleSentence": "Вода — пример."
+      "transcription": "[shuǐ]",
+      "exampleSentence": "我喝水。"
     },
     {
       "originalWord": "дом",
       "translation": "家",
-      "transcription": "[—]",
-      "exampleSentence": "Дом — пример."
+      "transcription": "[jiā]",
+      "exampleSentence": "我家。"
     },
     {
       "originalWord": "город",
       "translation": "城市",
-      "transcription": "[—]",
-      "exampleSentence": "Город — пример."
+      "transcription": "[chéng shì]",
+      "exampleSentence": "城市很大。"
     },
     {
       "originalWord": "время",
       "translation": "时间",
-      "transcription": "[—]",
-      "exampleSentence": "Время — пример."
+      "transcription": "[shí jiān]",
+      "exampleSentence": "没有时间。"
     },
     {
       "originalWord": "неделя",
       "translation": "周",
-      "transcription": "[—]",
-      "exampleSentence": "Неделя — пример."
+      "transcription": "[zhōu]",
+      "exampleSentence": "一周。"
     },
     {
       "originalWord": "месяц",
       "translation": "月",
-      "transcription": "[—]",
-      "exampleSentence": "Месяц — пример."
+      "transcription": "[yuè]",
+      "exampleSentence": "这个月。"
     },
     {
       "originalWord": "здесь",
       "translation": "这里",
-      "transcription": "[—]",
-      "exampleSentence": "Здесь — пример."
+      "transcription": "[zhè lǐ]",
+      "exampleSentence": "我在这里。"
     },
     {
       "originalWord": "там",
       "translation": "那里",
-      "transcription": "[—]",
-      "exampleSentence": "Там — пример."
+      "transcription": "[nà lǐ]",
+      "exampleSentence": "我去那里。"
     }
   ]
 }

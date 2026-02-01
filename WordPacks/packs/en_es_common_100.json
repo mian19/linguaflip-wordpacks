@@ -5,602 +5,602 @@
     {
       "originalWord": "hello",
       "translation": "hola",
-      "transcription": "[həˈloʊ]",
-      "exampleSentence": "Hello, how are you?"
+      "transcription": "[ˈola]",
+      "exampleSentence": "Hola, mucho gusto."
     },
     {
       "originalWord": "hi",
       "translation": "hola",
-      "transcription": "[haɪ]",
-      "exampleSentence": "Hi, nice to meet you."
+      "transcription": "[ˈola]",
+      "exampleSentence": "Hola, mucho gusto."
     },
     {
       "originalWord": "good morning",
       "translation": "buenos días",
-      "transcription": "[ɡʊd ˈmɔːrnɪŋ]",
-      "exampleSentence": "Good morning, everyone."
+      "transcription": "[bwˈenos] [dˈias]",
+      "exampleSentence": "Buenos días a todos."
     },
     {
       "originalWord": "good afternoon",
       "translation": "buenas tardes",
-      "transcription": "[ɡʊd ˌæftɚˈnuːn]",
-      "exampleSentence": "Good afternoon, Mr. López."
+      "transcription": "[bwˈenas] [tˈardes]",
+      "exampleSentence": "Buenas tardes, señor López."
     },
     {
       "originalWord": "good evening",
       "translation": "buenas noches",
-      "transcription": "[ɡʊd ˈiːvnɪŋ]",
-      "exampleSentence": "Good evening, welcome!"
+      "transcription": "[bwˈenas] [nˈotʃes]",
+      "exampleSentence": "Buenas noches, duerme bien."
     },
     {
       "originalWord": "good night",
       "translation": "buenas noches",
-      "transcription": "[ɡʊd ˈnaɪt]",
-      "exampleSentence": "Good night, sleep well."
+      "transcription": "[bwˈenas] [nˈotʃes]",
+      "exampleSentence": "Buenas noches, duerme bien."
     },
     {
       "originalWord": "goodbye",
       "translation": "adiós",
-      "transcription": "[ɡʊdˈbaɪ]",
-      "exampleSentence": "Goodbye, see you tomorrow!"
+      "transcription": "[adiˈos]",
+      "exampleSentence": "Adiós, ¡hasta mañana!"
     },
     {
       "originalWord": "see you later",
       "translation": "hasta luego",
-      "transcription": "[siː juː ˈleɪtɚ]",
-      "exampleSentence": "See you later, take care."
+      "transcription": "[ˈasta] [lwˈeɡo]",
+      "exampleSentence": "Hasta luego, cuídate."
     },
     {
       "originalWord": "please",
       "translation": "por favor",
-      "transcription": "[pliːz]",
-      "exampleSentence": "Please sit down."
+      "transcription": "[pˈor] [fabˈor]",
+      "exampleSentence": "Por favor, siéntate."
     },
     {
       "originalWord": "thank you",
       "translation": "gracias",
-      "transcription": "[θæŋk juː]",
-      "exampleSentence": "Thank you for your help."
+      "transcription": "[ɡrˈasias]",
+      "exampleSentence": "Gracias por tu ayuda."
     },
     {
       "originalWord": "you're welcome",
       "translation": "de nada",
-      "transcription": "[jʊr ˈwɛlkəm]",
-      "exampleSentence": "You're welcome, no problem."
+      "transcription": "[dˈe] [nˈada]",
+      "exampleSentence": "De nada, no hay problema."
     },
     {
       "originalWord": "excuse me",
       "translation": "perdón / disculpe",
-      "transcription": "[ɪkˈskjuːz miː]",
-      "exampleSentence": "Excuse me, where is the bathroom?"
+      "transcription": "[perdˈon] / [diskˈulpe]",
+      "exampleSentence": "Perdón, ¿dónde está el baño?"
     },
     {
       "originalWord": "sorry",
       "translation": "lo siento",
-      "transcription": "[ˈsɑːri]",
-      "exampleSentence": "Sorry, I'm late."
+      "transcription": "[lˈo] [sˈiento]",
+      "exampleSentence": "Lo siento, llego tarde."
     },
     {
       "originalWord": "yes",
       "translation": "sí",
-      "transcription": "[jɛs]",
-      "exampleSentence": "Yes, I understand."
+      "transcription": "[sˈi]",
+      "exampleSentence": "Sí, entiendo."
     },
     {
       "originalWord": "no",
       "translation": "no",
-      "transcription": "[noʊ]",
-      "exampleSentence": "No, I don't want it."
+      "transcription": "[nˈo]",
+      "exampleSentence": "No, no lo quiero."
     },
     {
       "originalWord": "maybe",
       "translation": "tal vez",
-      "transcription": "[ˈmeɪbi]",
-      "exampleSentence": "Maybe we can go later."
+      "transcription": "[tˈal] [bˈes]",
+      "exampleSentence": "Tal vez podamos ir más tarde."
     },
     {
       "originalWord": "okay",
       "translation": "está bien",
-      "transcription": "[oʊˈkeɪ]",
-      "exampleSentence": "Okay, let's start."
+      "transcription": "[estˈa] [bˈien]",
+      "exampleSentence": "Está bien, empecemos."
     },
     {
       "originalWord": "please help",
       "translation": "por favor, ayúdame",
-      "transcription": "[pliːz hɛlp]",
-      "exampleSentence": "Please help me."
+      "transcription": "[pˈor] [fabˈor], [aʝˈudame]",
+      "exampleSentence": "Por favor, ayúdame."
     },
     {
       "originalWord": "I don't understand",
       "translation": "no entiendo",
-      "transcription": "[aɪ doʊnt ˌʌndərˈstænd]",
-      "exampleSentence": "Sorry, I don't understand."
+      "transcription": "[nˈo] [entˈiendo]",
+      "exampleSentence": "Perdón, no entiendo."
     },
     {
       "originalWord": "do you speak English?",
       "translation": "¿hablas inglés?",
-      "transcription": "[duː juː spiːk ˈɪŋɡlɪʃ]",
-      "exampleSentence": "Do you speak English?"
+      "transcription": "¿[ˈablas] [inɡlˈes]?",
+      "exampleSentence": "¿Hablas inglés?"
     },
     {
       "originalWord": "zero",
       "translation": "cero",
-      "transcription": "[ˈzɪroʊ]",
-      "exampleSentence": "Zero is the first number."
+      "transcription": "[sˈeɾo]",
+      "exampleSentence": "Cero es el primer número."
     },
     {
       "originalWord": "one",
       "translation": "uno",
-      "transcription": "[wʌn]",
-      "exampleSentence": "I have one sister."
+      "transcription": "[ˈuno]",
+      "exampleSentence": "Tengo uno manzanas."
     },
     {
       "originalWord": "two",
       "translation": "dos",
-      "transcription": "[tuː]",
-      "exampleSentence": "I need two tickets."
+      "transcription": "[dˈos]",
+      "exampleSentence": "Tengo dos manzanas."
     },
     {
       "originalWord": "three",
       "translation": "tres",
-      "transcription": "[θriː]",
-      "exampleSentence": "There are three apples."
+      "transcription": "[trˈes]",
+      "exampleSentence": "Tengo tres manzanas."
     },
     {
       "originalWord": "four",
       "translation": "cuatro",
-      "transcription": "[fɔːr]",
-      "exampleSentence": "She has four books."
+      "transcription": "[kwˈatro]",
+      "exampleSentence": "Tengo cuatro manzanas."
     },
     {
       "originalWord": "five",
       "translation": "cinco",
-      "transcription": "[faɪv]",
-      "exampleSentence": "I work five days a week."
+      "transcription": "[sˈinko]",
+      "exampleSentence": "Tengo cinco manzanas."
     },
     {
       "originalWord": "six",
       "translation": "seis",
-      "transcription": "[sɪks]",
-      "exampleSentence": "We have six chairs."
+      "transcription": "[sˈeis]",
+      "exampleSentence": "Tengo seis manzanas."
     },
     {
       "originalWord": "seven",
       "translation": "siete",
-      "transcription": "[ˈsɛvən]",
-      "exampleSentence": "Seven is my lucky number."
+      "transcription": "[sˈiete]",
+      "exampleSentence": "Tengo siete manzanas."
     },
     {
       "originalWord": "eight",
       "translation": "ocho",
-      "transcription": "[eɪt]",
-      "exampleSentence": "I wake up at eight."
+      "transcription": "[ˈotʃo]",
+      "exampleSentence": "Tengo ocho manzanas."
     },
     {
       "originalWord": "nine",
       "translation": "nueve",
-      "transcription": "[naɪn]",
-      "exampleSentence": "It's nine o'clock."
+      "transcription": "[nwˈebe]",
+      "exampleSentence": "Tengo nueve manzanas."
     },
     {
       "originalWord": "ten",
       "translation": "diez",
-      "transcription": "[tɛn]",
-      "exampleSentence": "Ten people are here."
+      "transcription": "[dˈies]",
+      "exampleSentence": "Tengo diez manzanas."
     },
     {
       "originalWord": "eleven",
       "translation": "once",
-      "transcription": "[ɪˈlɛvən]",
-      "exampleSentence": "My room is number eleven."
+      "transcription": "[ˈonse]",
+      "exampleSentence": "Tengo once manzanas."
     },
     {
       "originalWord": "twelve",
       "translation": "doce",
-      "transcription": "[twɛlv]",
-      "exampleSentence": "There are twelve months."
+      "transcription": "[dˈose]",
+      "exampleSentence": "Tengo doce manzanas."
     },
     {
       "originalWord": "thirteen",
       "translation": "trece",
-      "transcription": "[ˌθɝːˈtiːn]",
-      "exampleSentence": "Thirteen is a big number."
+      "transcription": "[trˈese]",
+      "exampleSentence": "Tengo trece manzanas."
     },
     {
       "originalWord": "fourteen",
       "translation": "catorce",
-      "transcription": "[ˌfɔːrˈtiːn]",
-      "exampleSentence": "I am fourteen years old."
+      "transcription": "[katˈorse]",
+      "exampleSentence": "Tengo catorce manzanas."
     },
     {
       "originalWord": "fifteen",
       "translation": "quince",
-      "transcription": "[ˌfɪfˈtiːn]",
-      "exampleSentence": "The meeting is at fifteen past two."
+      "transcription": "[kˈinse]",
+      "exampleSentence": "Tengo quince manzanas."
     },
     {
       "originalWord": "sixteen",
       "translation": "dieciséis",
-      "transcription": "[ˌsɪkˈstiːn]",
-      "exampleSentence": "She is sixteen today."
+      "transcription": "[diesisˈeis]",
+      "exampleSentence": "Tengo dieciséis manzanas."
     },
     {
       "originalWord": "seventeen",
       "translation": "diecisiete",
-      "transcription": "[ˌsɛvənˈtiːn]",
-      "exampleSentence": "Seventeen students came."
+      "transcription": "[diesisˈiete]",
+      "exampleSentence": "Tengo diecisiete manzanas."
     },
     {
       "originalWord": "eighteen",
       "translation": "dieciocho",
-      "transcription": "[ˌeɪˈtiːn]",
-      "exampleSentence": "I turn eighteen next year."
+      "transcription": "[diesˈiotʃo]",
+      "exampleSentence": "Tengo dieciocho manzanas."
     },
     {
       "originalWord": "nineteen",
       "translation": "diecinueve",
-      "transcription": "[ˌnaɪnˈtiːn]",
-      "exampleSentence": "Nineteen is almost twenty."
+      "transcription": "[diesinwˈebe]",
+      "exampleSentence": "Tengo diecinueve manzanas."
     },
     {
       "originalWord": "twenty",
       "translation": "veinte",
-      "transcription": "[ˈtwɛnti]",
-      "exampleSentence": "I have twenty euros."
+      "transcription": "[bˈeinte]",
+      "exampleSentence": "Tengo veinte manzanas."
     },
     {
       "originalWord": "red",
       "translation": "rojo",
-      "transcription": "[rɛd]",
-      "exampleSentence": "My car is red."
+      "transcription": "[rˈokso]",
+      "exampleSentence": "Mi coche es rojo."
     },
     {
       "originalWord": "blue",
       "translation": "azul",
-      "transcription": "[bluː]",
-      "exampleSentence": "The sky is blue."
+      "transcription": "[asˈul]",
+      "exampleSentence": "Mi coche es azul."
     },
     {
       "originalWord": "green",
       "translation": "verde",
-      "transcription": "[ɡriːn]",
-      "exampleSentence": "I like green apples."
+      "transcription": "[bˈerde]",
+      "exampleSentence": "Mi coche es verde."
     },
     {
       "originalWord": "yellow",
       "translation": "amarillo",
-      "transcription": "[ˈjɛloʊ]",
-      "exampleSentence": "The sun is yellow."
+      "transcription": "[ˈamaɾiʝo]",
+      "exampleSentence": "Mi coche es amarillo."
     },
     {
       "originalWord": "black",
       "translation": "negro",
-      "transcription": "[blæk]",
-      "exampleSentence": "My shoes are black."
+      "transcription": "[nˈeɡro]",
+      "exampleSentence": "Mi coche es negro."
     },
     {
       "originalWord": "white",
       "translation": "blanco",
-      "transcription": "[waɪt]",
-      "exampleSentence": "The wall is white."
+      "transcription": "[blˈanko]",
+      "exampleSentence": "Mi coche es blanco."
     },
     {
       "originalWord": "orange",
       "translation": "naranja",
-      "transcription": "[ˈɔːrɪndʒ]",
-      "exampleSentence": "Orange is my favorite color."
+      "transcription": "[nˈaɾanksa]",
+      "exampleSentence": "Mi coche es naranja."
     },
     {
       "originalWord": "purple",
       "translation": "morado",
-      "transcription": "[ˈpɝːpəl]",
-      "exampleSentence": "She wears a purple dress."
+      "transcription": "[mˈoɾado]",
+      "exampleSentence": "Mi coche es morado."
     },
     {
       "originalWord": "pink",
       "translation": "rosa",
-      "transcription": "[pɪŋk]",
-      "exampleSentence": "I bought a pink shirt."
+      "transcription": "[rˈosa]",
+      "exampleSentence": "Mi coche es rosa."
     },
     {
       "originalWord": "brown",
       "translation": "marrón / café",
-      "transcription": "[braʊn]",
-      "exampleSentence": "The table is brown."
+      "transcription": "[maɾˈon] / [kafˈe]",
+      "exampleSentence": "Mi coche es marrón."
     },
     {
       "originalWord": "gray",
       "translation": "gris",
-      "transcription": "[ɡreɪ]",
-      "exampleSentence": "The sky is gray today."
+      "transcription": "[ɡrˈis]",
+      "exampleSentence": "Mi coche es gris."
     },
     {
       "originalWord": "family",
       "translation": "familia",
-      "transcription": "[ˈfæməli]",
-      "exampleSentence": "My family is big."
+      "transcription": "[famˈilia]",
+      "exampleSentence": "Mi familia es grande."
     },
     {
       "originalWord": "mother",
       "translation": "madre",
-      "transcription": "[ˈmʌðɚ]",
-      "exampleSentence": "My mother is kind."
+      "transcription": "[mˈadre]",
+      "exampleSentence": "Mi madre es muy amable."
     },
     {
       "originalWord": "father",
       "translation": "padre",
-      "transcription": "[ˈfɑːðɚ]",
-      "exampleSentence": "My father works a lot."
+      "transcription": "[pˈadre]",
+      "exampleSentence": "Mi padre trabaja mucho."
     },
     {
       "originalWord": "parents",
       "translation": "padres",
-      "transcription": "[ˈpɛrənts]",
-      "exampleSentence": "My parents live nearby."
+      "transcription": "[pˈadres]",
+      "exampleSentence": "Mis padres viven cerca."
     },
     {
       "originalWord": "son",
       "translation": "hijo",
-      "transcription": "[sʌn]",
-      "exampleSentence": "Their son is at school."
+      "transcription": "[ˈikso]",
+      "exampleSentence": "Mi hijo está en la escuela."
     },
     {
       "originalWord": "daughter",
       "translation": "hija",
-      "transcription": "[ˈdɔːtɚ]",
-      "exampleSentence": "Her daughter is five."
+      "transcription": "[ˈiksa]",
+      "exampleSentence": "Mi hija está en la escuela."
     },
     {
       "originalWord": "brother",
       "translation": "hermano",
-      "transcription": "[ˈbrʌðɚ]",
-      "exampleSentence": "My brother is tall."
+      "transcription": "[ermˈano]",
+      "exampleSentence": "Mi hermano le gusta la música."
     },
     {
       "originalWord": "sister",
       "translation": "hermana",
-      "transcription": "[ˈsɪstɚ]",
-      "exampleSentence": "My sister likes music."
+      "transcription": "[ermˈana]",
+      "exampleSentence": "Mi hermana le gusta la música."
     },
     {
       "originalWord": "husband",
       "translation": "esposo / marido",
-      "transcription": "[ˈhʌzbənd]",
-      "exampleSentence": "Her husband is a doctor."
+      "transcription": "[espˈoso] / [mˈaɾido]",
+      "exampleSentence": "Su esposo es médico."
     },
     {
       "originalWord": "wife",
       "translation": "esposa",
-      "transcription": "[waɪf]",
-      "exampleSentence": "My wife is at work."
+      "transcription": "[espˈosa]",
+      "exampleSentence": "Mi esposa está en el trabajo."
     },
     {
       "originalWord": "child",
       "translation": "niño / hija",
-      "transcription": "[tʃaɪld]",
-      "exampleSentence": "That child is happy."
+      "transcription": "[nˈiɲo] / [ˈiksa]",
+      "exampleSentence": "Ese niño está contento."
     },
     {
       "originalWord": "friend",
       "translation": "amigo / amiga",
-      "transcription": "[frɛnd]",
-      "exampleSentence": "You are my friend."
+      "transcription": "[amˈiɡo] / [amˈiɡa]",
+      "exampleSentence": "Eres mi amigo."
     },
     {
       "originalWord": "time",
       "translation": "tiempo",
-      "transcription": "[taɪm]",
-      "exampleSentence": "What time is it?"
+      "transcription": "[tˈiempo]",
+      "exampleSentence": "¿Qué hora es?"
     },
     {
       "originalWord": "today",
       "translation": "hoy",
-      "transcription": "[təˈdeɪ]",
-      "exampleSentence": "Today is a good day."
+      "transcription": "[ˈoi]",
+      "exampleSentence": "Hoy es un buen día."
     },
     {
       "originalWord": "tomorrow",
       "translation": "mañana",
-      "transcription": "[təˈmɑːroʊ]",
-      "exampleSentence": "Tomorrow I will study."
+      "transcription": "[mˈaɲana]",
+      "exampleSentence": "Mañana voy a estudiar."
     },
     {
       "originalWord": "yesterday",
       "translation": "ayer",
-      "transcription": "[ˈjɛstɚdeɪ]",
-      "exampleSentence": "Yesterday I was busy."
+      "transcription": "[ˈaʝer]",
+      "exampleSentence": "Ayer estuve ocupado."
     },
     {
       "originalWord": "now",
       "translation": "ahora",
-      "transcription": "[naʊ]",
-      "exampleSentence": "I need it now."
+      "transcription": "[ˈaoɾa]",
+      "exampleSentence": "Lo necesito ahora."
     },
     {
       "originalWord": "later",
       "translation": "más tarde",
-      "transcription": "[ˈleɪtɚ]",
-      "exampleSentence": "I'll call you later."
+      "transcription": "[mˈas] [tˈarde]",
+      "exampleSentence": "Te llamo más tarde."
     },
     {
       "originalWord": "early",
       "translation": "temprano",
-      "transcription": "[ˈɝːli]",
-      "exampleSentence": "I wake up early."
+      "transcription": "[temprˈano]",
+      "exampleSentence": "Me levanto temprano."
     },
     {
       "originalWord": "late",
       "translation": "tarde",
-      "transcription": "[leɪt]",
-      "exampleSentence": "The bus is late."
+      "transcription": "[tˈarde]",
+      "exampleSentence": "El autobús llega tarde."
     },
     {
       "originalWord": "morning",
       "translation": "mañana",
-      "transcription": "[ˈmɔːrnɪŋ]",
-      "exampleSentence": "I drink coffee in the morning."
+      "transcription": "[mˈaɲana]",
+      "exampleSentence": "Mañana voy a estudiar."
     },
     {
       "originalWord": "afternoon",
       "translation": "tarde",
-      "transcription": "[ˌæftɚˈnuːn]",
-      "exampleSentence": "I work in the afternoon."
+      "transcription": "[tˈarde]",
+      "exampleSentence": "El autobús llega tarde."
     },
     {
       "originalWord": "evening",
       "translation": "noche",
-      "transcription": "[ˈiːvnɪŋ]",
-      "exampleSentence": "We walk in the evening."
+      "transcription": "[nˈotʃe]",
+      "exampleSentence": "Por la noche leo un libro."
     },
     {
       "originalWord": "night",
       "translation": "noche",
-      "transcription": "[naɪt]",
-      "exampleSentence": "At night, I read a book."
+      "transcription": "[nˈotʃe]",
+      "exampleSentence": "Por la noche leo un libro."
     },
     {
       "originalWord": "hour",
       "translation": "hora",
-      "transcription": "[ˈaʊɚ]",
-      "exampleSentence": "It takes one hour."
+      "transcription": "[ˈoɾa]",
+      "exampleSentence": "Tarda una hora."
     },
     {
       "originalWord": "minute",
       "translation": "minuto",
-      "transcription": "[ˈmɪnɪt]",
-      "exampleSentence": "Wait a minute, please."
+      "transcription": "[minˈuto]",
+      "exampleSentence": "Espera un minuto, por favor."
     },
     {
       "originalWord": "day",
       "translation": "día",
-      "transcription": "[deɪ]",
-      "exampleSentence": "Have a nice day."
+      "transcription": "[dˈia]",
+      "exampleSentence": "Que tengas un buen día."
     },
     {
       "originalWord": "week",
       "translation": "semana",
-      "transcription": "[wiːk]",
-      "exampleSentence": "I have a busy week."
+      "transcription": "[semˈana]",
+      "exampleSentence": "Tengo una semana ocupada."
     },
     {
       "originalWord": "month",
       "translation": "mes",
-      "transcription": "[mʌnθ]",
-      "exampleSentence": "This month is cold."
+      "transcription": "[mˈes]",
+      "exampleSentence": "Este mes hace frío."
     },
     {
       "originalWord": "year",
       "translation": "año",
-      "transcription": "[jɪr]",
-      "exampleSentence": "Next year will be better."
+      "transcription": "[ˈaɲo]",
+      "exampleSentence": "El próximo año será mejor."
     },
     {
       "originalWord": "to be",
       "translation": "ser / estar",
-      "transcription": "[tuː biː]",
-      "exampleSentence": "I am happy today."
+      "transcription": "[sˈer] / [estˈar]",
+      "exampleSentence": "Estoy feliz hoy."
     },
     {
       "originalWord": "to have",
       "translation": "tener",
-      "transcription": "[tuː hæv]",
-      "exampleSentence": "I have a question."
+      "transcription": "[tenˈer]",
+      "exampleSentence": "Tengo una pregunta."
     },
     {
       "originalWord": "to do",
       "translation": "hacer",
-      "transcription": "[tuː duː]",
-      "exampleSentence": "What do you do on weekends?"
+      "transcription": "[asˈer]",
+      "exampleSentence": "¿Qué haces los fines de semana?"
     },
     {
       "originalWord": "to go",
       "translation": "ir",
-      "transcription": "[tuː ɡoʊ]",
-      "exampleSentence": "I go to school every day."
+      "transcription": "[ˈir]",
+      "exampleSentence": "Voy a la escuela todos los días."
     },
     {
       "originalWord": "to come",
       "translation": "venir",
-      "transcription": "[tuː kʌm]",
-      "exampleSentence": "Please come here."
+      "transcription": "[benˈir]",
+      "exampleSentence": "Por favor, ven aquí."
     },
     {
       "originalWord": "to want",
       "translation": "querer",
-      "transcription": "[tuː wɑːnt]",
-      "exampleSentence": "I want some water."
+      "transcription": "[kˈeɾer]",
+      "exampleSentence": "Quiero un poco de agua."
     },
     {
       "originalWord": "to need",
       "translation": "necesitar",
-      "transcription": "[tuː niːd]",
-      "exampleSentence": "I need a doctor."
+      "transcription": "[nesesitˈar]",
+      "exampleSentence": "Necesito un médico."
     },
     {
       "originalWord": "to like",
       "translation": "gustar",
-      "transcription": "[tuː laɪk]",
-      "exampleSentence": "I like this song."
+      "transcription": "[ɡustˈar]",
+      "exampleSentence": "Me gusta esta canción."
     },
     {
       "originalWord": "to love",
       "translation": "amar / encantar",
-      "transcription": "[tuː lʌv]",
-      "exampleSentence": "I love my family."
+      "transcription": "[amˈar] / [enkantˈar]",
+      "exampleSentence": "Amo a mi familia."
     },
     {
       "originalWord": "to see",
       "translation": "ver",
-      "transcription": "[tuː siː]",
-      "exampleSentence": "I see the bus."
+      "transcription": "[bˈer]",
+      "exampleSentence": "Veo el autobús."
     },
     {
       "originalWord": "good",
       "translation": "bueno",
-      "transcription": "[ɡʊd]",
-      "exampleSentence": "This is a good idea."
+      "transcription": "[bwˈeno]",
+      "exampleSentence": "Esto es una buena idea."
     },
     {
       "originalWord": "bad",
       "translation": "malo",
-      "transcription": "[bæd]",
-      "exampleSentence": "The weather is bad today."
+      "transcription": "[mˈalo]",
+      "exampleSentence": "El clima está malo hoy."
     },
     {
       "originalWord": "big",
       "translation": "grande",
-      "transcription": "[bɪɡ]",
-      "exampleSentence": "This is a big house."
+      "transcription": "[ɡrˈande]",
+      "exampleSentence": "Esta casa es grande."
     },
     {
       "originalWord": "small",
       "translation": "pequeño",
-      "transcription": "[smɔːl]",
-      "exampleSentence": "I have a small dog."
+      "transcription": "[pˈekeɲo]",
+      "exampleSentence": "Tengo un perro pequeño."
     },
     {
       "originalWord": "new",
       "translation": "nuevo",
-      "transcription": "[nuː]",
-      "exampleSentence": "I bought a new phone."
+      "transcription": "[nwˈebo]",
+      "exampleSentence": "Compré un teléfono nuevo."
     },
     {
       "originalWord": "old",
       "translation": "viejo",
-      "transcription": "[oʊld]",
-      "exampleSentence": "My car is old."
+      "transcription": "[bˈiekso]",
+      "exampleSentence": "Mi coche es viejo."
     },
     {
       "originalWord": "hot",
       "translation": "caliente",
-      "transcription": "[hɑːt]",
-      "exampleSentence": "The coffee is hot."
+      "transcription": "[kalˈiente]",
+      "exampleSentence": "El café está caliente."
     },
     {
       "originalWord": "cold",
       "translation": "frío",
-      "transcription": "[koʊld]",
-      "exampleSentence": "The water is cold."
+      "transcription": "[frˈio]",
+      "exampleSentence": "El agua está fría."
     }
   ]
 }

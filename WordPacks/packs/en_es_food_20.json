@@ -5,122 +5,122 @@
     {
       "originalWord": "breakfast",
       "translation": "desayuno",
-      "transcription": "[ˈbrɛkfəst]",
-      "exampleSentence": "I eat breakfast at 8 AM."
+      "transcription": "[desaˈʝuno]",
+      "exampleSentence": "Desayuno a las 8 de la mañana."
     },
     {
       "originalWord": "lunch",
       "translation": "almuerzo",
-      "transcription": "[lʌntʃ]",
-      "exampleSentence": "Let's have lunch together."
+      "transcription": "[alˈmweɾso]",
+      "exampleSentence": "Vamos a almorzar juntos."
     },
     {
       "originalWord": "dinner",
       "translation": "cena",
-      "transcription": "[ˈdɪnɚ]",
-      "exampleSentence": "Dinner is ready!"
+      "transcription": "[ˈsena]",
+      "exampleSentence": "¡La cena está lista!"
     },
     {
       "originalWord": "bread",
       "translation": "pan",
-      "transcription": "[brɛd]",
-      "exampleSentence": "I love fresh bread."
+      "transcription": "[pan]",
+      "exampleSentence": "Me encanta el pan fresco."
     },
     {
       "originalWord": "meat",
       "translation": "carne",
-      "transcription": "[miːt]",
-      "exampleSentence": "I don't eat meat."
+      "transcription": "[ˈkaɾne]",
+      "exampleSentence": "No como carne."
     },
     {
       "originalWord": "chicken",
       "translation": "pollo",
-      "transcription": "[ˈtʃɪkɪn]",
-      "exampleSentence": "Grilled chicken is delicious."
+      "transcription": "[ˈpoʝo]",
+      "exampleSentence": "El pollo a la parrilla está delicioso."
     },
     {
       "originalWord": "fish",
       "translation": "pescado",
-      "transcription": "[fɪʃ]",
-      "exampleSentence": "I prefer fish over meat."
+      "transcription": "[pesˈkaðo]",
+      "exampleSentence": "Prefiero pescado a carne."
     },
     {
       "originalWord": "vegetables",
       "translation": "verduras",
-      "transcription": "[ˈvɛdʒtəbəlz]",
-      "exampleSentence": "Eat your vegetables!"
+      "transcription": "[beɾˈðuɾas]",
+      "exampleSentence": "¡Come tus verduras!"
     },
     {
       "originalWord": "fruit",
       "translation": "fruta",
-      "transcription": "[fruːt]",
-      "exampleSentence": "Fresh fruit is healthy."
+      "transcription": "[ˈfɾuta]",
+      "exampleSentence": "La fruta fresca es saludable."
     },
     {
       "originalWord": "rice",
       "translation": "arroz",
-      "transcription": "[raɪs]",
-      "exampleSentence": "I cook rice every day."
+      "transcription": "[aˈros]",
+      "exampleSentence": "Cocino arroz todos los días."
     },
     {
       "originalWord": "coffee",
       "translation": "café",
-      "transcription": "[ˈkɔːfi]",
-      "exampleSentence": "I need coffee in the morning."
+      "transcription": "[kaˈfe]",
+      "exampleSentence": "Necesito café por la mañana."
     },
     {
       "originalWord": "tea",
       "translation": "té",
-      "transcription": "[tiː]",
-      "exampleSentence": "Would you like some tea?"
+      "transcription": "[te]",
+      "exampleSentence": "¿Te gustaría un poco de té?"
     },
     {
       "originalWord": "juice",
       "translation": "jugo",
-      "transcription": "[dʒuːs]",
-      "exampleSentence": "Orange juice is my favorite."
+      "transcription": "[ˈxuɣo]",
+      "exampleSentence": "El jugo de naranja es mi favorito."
     },
     {
       "originalWord": "milk",
       "translation": "leche",
-      "transcription": "[mɪlk]",
-      "exampleSentence": "I drink milk every morning."
+      "transcription": "[ˈletʃe]",
+      "exampleSentence": "Bebo leche todas las mañanas."
     },
     {
       "originalWord": "cheese",
       "translation": "queso",
-      "transcription": "[tʃiːz]",
-      "exampleSentence": "I love cheese!"
+      "transcription": "[ˈkeso]",
+      "exampleSentence": "¡Me encanta el queso!"
     },
     {
       "originalWord": "egg",
       "translation": "huevo",
-      "transcription": "[ɛɡ]",
-      "exampleSentence": "I eat two eggs for breakfast."
+      "transcription": "[ˈweβo]",
+      "exampleSentence": "Como dos huevos en el desayuno."
     },
     {
       "originalWord": "salt",
       "translation": "sal",
-      "transcription": "[sɔːlt]",
-      "exampleSentence": "Pass me the salt, please."
+      "transcription": "[sal]",
+      "exampleSentence": "Pásame la sal, por favor."
     },
     {
       "originalWord": "sugar",
       "translation": "azúcar",
-      "transcription": "[ˈʃʊɡɚ]",
-      "exampleSentence": "Do you want sugar in your coffee?"
+      "transcription": "[aˈsukaɾ]",
+      "exampleSentence": "¿Quieres azúcar en tu café?"
     },
     {
       "originalWord": "menu",
       "translation": "menú",
-      "transcription": "[ˈmɛnjuː]",
-      "exampleSentence": "Can I see the menu?"
+      "transcription": "[meˈnu]",
+      "exampleSentence": "¿Puedo ver el menú?"
     },
     {
       "originalWord": "bill",
       "translation": "cuenta",
-      "transcription": "[bɪl]",
-      "exampleSentence": "The bill, please."
+      "transcription": "[ˈkwenta]",
+      "exampleSentence": "La cuenta, por favor."
     }
   ]
 }

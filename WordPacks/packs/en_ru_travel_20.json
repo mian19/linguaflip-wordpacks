@@ -5,122 +5,122 @@
     {
       "originalWord": "airport",
       "translation": "аэропорт",
-      "transcription": "[ˈɛrpɔːrt]",
-      "exampleSentence": "I'm going to the airport."
+      "transcription": "[ɐɛrɐˈport]",
+      "exampleSentence": "Я еду в аэропорт."
     },
     {
       "originalWord": "hotel",
       "translation": "гостиница",
-      "transcription": "[hoʊˈtɛl]",
-      "exampleSentence": "Where is my hotel?"
+      "transcription": "[ɡɐˈsʲtʲinʲɪtsə]",
+      "exampleSentence": "Где находится моя гостиница?"
     },
     {
       "originalWord": "ticket",
       "translation": "билет",
-      "transcription": "[ˈtɪkɪt]",
-      "exampleSentence": "I need to buy a ticket."
+      "transcription": "[bʲɪˈlʲet]",
+      "exampleSentence": "Мне нужно купить билет."
     },
     {
       "originalWord": "passport",
       "translation": "паспорт",
-      "transcription": "[ˈpæspɔːrt]",
-      "exampleSentence": "Here is my passport."
+      "transcription": "[ˈpaspərt]",
+      "exampleSentence": "Вот мой паспорт."
     },
     {
       "originalWord": "luggage",
       "translation": "багаж",
-      "transcription": "[ˈlʌɡɪdʒ]",
-      "exampleSentence": "Where is my luggage?"
+      "transcription": "[bɐˈɡaʂ]",
+      "exampleSentence": "Где мой багаж?"
     },
     {
       "originalWord": "flight",
       "translation": "рейс",
-      "transcription": "[flaɪt]",
-      "exampleSentence": "My flight is at 3 PM."
+      "transcription": "[rʲejs]",
+      "exampleSentence": "Мой рейс в 15:00."
     },
     {
       "originalWord": "train",
       "translation": "поезд",
-      "transcription": "[treɪn]",
-      "exampleSentence": "I'm taking the train."
+      "transcription": "[ˈpoɪst]",
+      "exampleSentence": "Я еду на поезде."
     },
     {
       "originalWord": "bus",
       "translation": "автобус",
-      "transcription": "[bʌs]",
-      "exampleSentence": "The bus is coming."
+      "transcription": "[ɐftɐˈbus]",
+      "exampleSentence": "Автобус уже приходит."
     },
     {
       "originalWord": "taxi",
       "translation": "такси",
-      "transcription": "[ˈtæksi]",
-      "exampleSentence": "I need a taxi, please."
+      "transcription": "[tɐkˈsʲi]",
+      "exampleSentence": "Мне нужно такси, пожалуйста."
     },
     {
       "originalWord": "map",
       "translation": "карта",
-      "transcription": "[mæp]",
-      "exampleSentence": "Do you have a map?"
+      "transcription": "[ˈkartə]",
+      "exampleSentence": "У вас есть карта?"
     },
     {
       "originalWord": "restaurant",
       "translation": "ресторан",
-      "transcription": "[ˈrɛstərɑːnt]",
-      "exampleSentence": "Let's go to a restaurant."
+      "transcription": "[rʲɪstɐˈran]",
+      "exampleSentence": "Давайте пойдем в ресторан."
     },
     {
       "originalWord": "museum",
       "translation": "музей",
-      "transcription": "[mjuːˈziːəm]",
-      "exampleSentence": "The museum is closed today."
+      "transcription": "[mʊˈzʲej]",
+      "exampleSentence": "Музей закрыт сегодня."
     },
     {
       "originalWord": "beach",
       "translation": "пляж",
-      "transcription": "[biːtʃ]",
-      "exampleSentence": "I love the beach!"
+      "transcription": "[plʲaʂ]",
+      "exampleSentence": "Я люблю пляж!"
     },
     {
       "originalWord": "reservation",
       "translation": "бронирование",
-      "transcription": "[ˌrɛzɚˈveɪʃən]",
-      "exampleSentence": "I have a reservation."
+      "transcription": "[brənʲɪˈrovanʲɪjə]",
+      "exampleSentence": "У меня есть бронирование."
     },
     {
       "originalWord": "entrance",
       "translation": "вход",
-      "transcription": "[ˈɛntrəns]",
-      "exampleSentence": "Where is the entrance?"
+      "transcription": "[vxot]",
+      "exampleSentence": "Где находится вход?"
     },
     {
       "originalWord": "exit",
       "translation": "выход",
-      "transcription": "[ˈɛɡzɪt]",
-      "exampleSentence": "The exit is over there."
+      "transcription": "[ˈvɨxət]",
+      "exampleSentence": "Выход там."
     },
     {
       "originalWord": "emergency",
       "translation": "экстренная ситуация",
-      "transcription": "[ɪˈmɝːdʒənsi]",
-      "exampleSentence": "This is an emergency!"
+      "transcription": "[ɛkˈstrʲenːəjə sʲɪtʊˈatsɨjə]",
+      "exampleSentence": "Это экстренная ситуация!"
     },
     {
       "originalWord": "pharmacy",
       "translation": "аптека",
-      "transcription": "[ˈfɑːrməsi]",
-      "exampleSentence": "I need to find a pharmacy."
+      "transcription": "[ɐpˈtʲekə]",
+      "exampleSentence": "Мне нужно найти аптеку."
     },
     {
       "originalWord": "money",
       "translation": "деньги",
-      "transcription": "[ˈmʌni]",
-      "exampleSentence": "I don't have money."
+      "transcription": "[ˈdʲenʲɡʲɪ]",
+      "exampleSentence": "У меня нет денег."
     },
     {
       "originalWord": "credit card",
       "translation": "кредитная карта",
-      "transcription": "[ˈkrɛdɪt kɑːrd]",
-      "exampleSentence": "Do you accept credit cards?"
+      "transcription": "[krʲɪˈdʲitnəjə ˈkartə]",
+      "exampleSentence": "Вы принимаете кредитные карты?"
     }
   ]
 }
