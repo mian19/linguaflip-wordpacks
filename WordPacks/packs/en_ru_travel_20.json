@@ -5,121 +5,121 @@
     {
       "originalWord": "airport",
       "translation": "аэропорт",
-      "transcription": "[ɐɛrɐˈport]",
+      "transcription": "[ˈɛrpɔːrt]",
       "exampleSentence": "I'm going to the airport."
     },
     {
       "originalWord": "hotel",
       "translation": "гостиница",
-      "transcription": "[ɡɐˈsʲtʲinʲɪtsə]",
+      "transcription": "[hoʊˈtɛl]",
       "exampleSentence": "Where is my hotel?"
     },
     {
       "originalWord": "ticket",
       "translation": "билет",
-      "transcription": "[bʲɪˈlʲet]",
+      "transcription": "[ˈtɪkɪt]",
       "exampleSentence": "I need to buy a ticket."
     },
     {
       "originalWord": "passport",
       "translation": "паспорт",
-      "transcription": "[ˈpaspərt]",
+      "transcription": "[ˈpæspɔːrt]",
       "exampleSentence": "Here is my passport."
     },
     {
       "originalWord": "luggage",
       "translation": "багаж",
-      "transcription": "[bɐˈɡaʂ]",
+      "transcription": "[ˈlʌɡɪdʒ]",
       "exampleSentence": "Where is my luggage?"
     },
     {
       "originalWord": "flight",
       "translation": "рейс",
-      "transcription": "[rʲejs]",
+      "transcription": "[flaɪt]",
       "exampleSentence": "My flight is at 3 PM."
     },
     {
       "originalWord": "train",
       "translation": "поезд",
-      "transcription": "[ˈpoɪst]",
+      "transcription": "[treɪn]",
       "exampleSentence": "I'm taking the train."
     },
     {
       "originalWord": "bus",
       "translation": "автобус",
-      "transcription": "[ɐftɐˈbus]",
+      "transcription": "[bʌs]",
       "exampleSentence": "The bus is coming."
     },
     {
       "originalWord": "taxi",
       "translation": "такси",
-      "transcription": "[tɐkˈsʲi]",
+      "transcription": "[ˈtæksi]",
       "exampleSentence": "I need a taxi, please."
     },
     {
       "originalWord": "map",
       "translation": "карта",
-      "transcription": "[ˈkartə]",
+      "transcription": "[mæp]",
       "exampleSentence": "Do you have a map?"
     },
     {
       "originalWord": "restaurant",
       "translation": "ресторан",
-      "transcription": "[rʲɪstɐˈran]",
+      "transcription": "[ˈrɛstərɑːnt]",
       "exampleSentence": "Let's go to a restaurant."
     },
     {
       "originalWord": "museum",
       "translation": "музей",
-      "transcription": "[mʊˈzʲej]",
+      "transcription": "[mjuːˈziːəm]",
       "exampleSentence": "The museum is closed today."
     },
     {
       "originalWord": "beach",
       "translation": "пляж",
-      "transcription": "[plʲaʂ]",
+      "transcription": "[biːtʃ]",
       "exampleSentence": "I love the beach!"
     },
     {
       "originalWord": "reservation",
       "translation": "бронирование",
-      "transcription": "[brənʲɪˈrovanʲɪjə]",
+      "transcription": "[ˌrɛzɚˈveɪʃən]",
       "exampleSentence": "I have a reservation."
     },
     {
       "originalWord": "entrance",
       "translation": "вход",
-      "transcription": "[vxot]",
+      "transcription": "[ˈɛntrəns]",
       "exampleSentence": "Where is the entrance?"
     },
     {
       "originalWord": "exit",
       "translation": "выход",
-      "transcription": "[ˈvɨxət]",
+      "transcription": "[ˈɛɡzɪt]",
       "exampleSentence": "The exit is over there."
     },
     {
       "originalWord": "emergency",
       "translation": "экстренная ситуация",
-      "transcription": "[ɛkˈstrʲenːəjə sʲɪtʊˈatsɨjə]",
+      "transcription": "[ɪˈmɝːdʒənsi]",
       "exampleSentence": "This is an emergency!"
     },
     {
       "originalWord": "pharmacy",
       "translation": "аптека",
-      "transcription": "[ɐpˈtʲekə]",
+      "transcription": "[ˈfɑːrməsi]",
       "exampleSentence": "I need to find a pharmacy."
     },
     {
       "originalWord": "money",
       "translation": "деньги",
-      "transcription": "[ˈdʲenʲɡʲɪ]",
+      "transcription": "[ˈmʌni]",
       "exampleSentence": "I don't have money."
     },
     {
       "originalWord": "credit card",
       "translation": "кредитная карта",
-      "transcription": "[krʲɪˈdʲitnəjə ˈkartə]",
+      "transcription": "[ˈkrɛdɪt kɑːrd]",
       "exampleSentence": "Do you accept credit cards?"
     }
   ]

@@ -5,121 +5,121 @@
     {
       "originalWord": "привет",
       "translation": "hello",
-      "transcription": "[həˈloʊ]",
+      "transcription": "[prʲɪˈvʲet]",
       "exampleSentence": "Привет, как дела?"
     },
     {
       "originalWord": "до свидания",
       "translation": "goodbye",
-      "transcription": "[ɡʊdˈbaɪ]",
+      "transcription": "[də svʲɪˈdanʲɪjə]",
       "exampleSentence": "До свидания, увидимся завтра!"
     },
     {
       "originalWord": "пожалуйста",
       "translation": "please",
-      "transcription": "[pliːz]",
+      "transcription": "[pɐˈʐaɫʊstə]",
       "exampleSentence": "Можно воды, пожалуйста?"
     },
     {
       "originalWord": "спасибо",
       "translation": "thank you",
-      "transcription": "[θæŋk juː]",
+      "transcription": "[spɐˈsʲibə]",
       "exampleSentence": "Большое спасибо!"
     },
     {
       "originalWord": "да",
       "translation": "yes",
-      "transcription": "[jɛs]",
+      "transcription": "[da]",
       "exampleSentence": "Да, я понимаю."
     },
     {
       "originalWord": "нет",
       "translation": "no",
-      "transcription": "[noʊ]",
+      "transcription": "[nʲet]",
       "exampleSentence": "Нет, я не хочу это."
     },
     {
       "originalWord": "извините",
       "translation": "excuse me",
-      "transcription": "[ɪkˈskjuːz miː]",
+      "transcription": "[ɪzvʲɪˈnʲitʲe]",
       "exampleSentence": "Извините, где туалет?"
     },
     {
       "originalWord": "простите",
       "translation": "sorry",
-      "transcription": "[ˈsɒri]",
+      "transcription": "[prɐˈsʲtʲitʲe]",
       "exampleSentence": "Простите, я опоздал."
     },
     {
       "originalWord": "вода",
       "translation": "water",
-      "transcription": "[ˈwɔːtər]",
+      "transcription": "[vɐˈda]",
       "exampleSentence": "Мне нужен стакан воды."
     },
     {
       "originalWord": "еда",
       "translation": "food",
-      "transcription": "[fuːd]",
+      "transcription": "[jɪˈda]",
       "exampleSentence": "Еда очень вкусная."
     },
     {
       "originalWord": "помощь",
       "translation": "help",
-      "transcription": "[hɛlp]",
+      "transcription": "[ˈpoməɕː]",
       "exampleSentence": "Мне нужна помощь, пожалуйста."
     },
     {
       "originalWord": "туалет",
       "translation": "bathroom",
-      "transcription": "[ˈbæθruːm]",
+      "transcription": "[tʊɐˈlʲet]",
       "exampleSentence": "Где находится туалет?"
     },
     {
       "originalWord": "сколько",
       "translation": "how much",
-      "transcription": "[haʊ mʌtʃ]",
+      "transcription": "[ˈskolʲkə]",
       "exampleSentence": "Сколько это стоит?"
     },
     {
       "originalWord": "где",
       "translation": "where",
-      "transcription": "[wɛər]",
+      "transcription": "[ɡdʲe]",
       "exampleSentence": "Где находится отель?"
     },
     {
       "originalWord": "когда",
       "translation": "when",
-      "transcription": "[wɛn]",
+      "transcription": "[kɐɡˈda]",
       "exampleSentence": "Когда приходит поезд?"
     },
     {
       "originalWord": "хороший",
       "translation": "good",
-      "transcription": "[ɡʊd]",
+      "transcription": "[xɐˈroʂɨj]",
       "exampleSentence": "Это очень хорошо!"
     },
     {
       "originalWord": "плохой",
       "translation": "bad",
-      "transcription": "[bæd]",
+      "transcription": "[plɐˈxoj]",
       "exampleSentence": "Сегодня плохая погода."
     },
     {
       "originalWord": "большой",
       "translation": "big",
-      "transcription": "[bɪɡ]",
+      "transcription": "[bɐlʲˈʂoj]",
       "exampleSentence": "Это большой дом."
     },
     {
       "originalWord": "маленький",
       "translation": "small",
-      "transcription": "[smɔːl]",
+      "transcription": "[ˈmalʲɪnʲkʲɪj]",
       "exampleSentence": "У меня маленькая собака."
     },
     {
       "originalWord": "я не понимаю",
       "translation": "I don't understand",
-      "transcription": "[aɪ doʊnt ˌʌndərˈstænd]",
+      "transcription": "[ja nʲe pənʲɪˈmajʊ]",
       "exampleSentence": "Извините, я не понимаю английский."
     }
   ]

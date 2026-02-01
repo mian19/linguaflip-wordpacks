@@ -5,121 +5,121 @@
     {
       "originalWord": "hello",
       "translation": "hola",
-      "transcription": "[ˈoʊlə]",
+      "transcription": "[həˈloʊ]",
       "exampleSentence": "Hello, how are you?"
     },
     {
       "originalWord": "goodbye",
       "translation": "adiós",
-      "transcription": "[aˈðjos]",
+      "transcription": "[ɡʊdˈbaɪ]",
       "exampleSentence": "Goodbye, see you tomorrow!"
     },
     {
       "originalWord": "please",
       "translation": "por favor",
-      "transcription": "[por faˈβor]",
+      "transcription": "[pliːz]",
       "exampleSentence": "Can I have water, please?"
     },
     {
       "originalWord": "thank you",
       "translation": "gracias",
-      "transcription": "[ˈɡɾasjas]",
+      "transcription": "[θæŋk juː]",
       "exampleSentence": "Thank you very much!"
     },
     {
       "originalWord": "yes",
       "translation": "sí",
-      "transcription": "[si]",
+      "transcription": "[jɛs]",
       "exampleSentence": "Yes, I understand."
     },
     {
       "originalWord": "no",
       "translation": "no",
-      "transcription": "[no]",
+      "transcription": "[noʊ]",
       "exampleSentence": "No, I don't want it."
     },
     {
       "originalWord": "excuse me",
       "translation": "perdón",
-      "transcription": "[perˈðon]",
+      "transcription": "[ɪkˈskjuːz miː]",
       "exampleSentence": "Excuse me, where is the bathroom?"
     },
     {
       "originalWord": "sorry",
       "translation": "lo siento",
-      "transcription": "[lo ˈsjento]",
+      "transcription": "[ˈsɑːri]",
       "exampleSentence": "I'm sorry, I'm late."
     },
     {
       "originalWord": "water",
       "translation": "agua",
-      "transcription": "[ˈaɣwa]",
+      "transcription": "[ˈwɔːtɚ]",
       "exampleSentence": "I need a glass of water."
     },
     {
       "originalWord": "food",
       "translation": "comida",
-      "transcription": "[koˈmiða]",
+      "transcription": "[fuːd]",
       "exampleSentence": "The food is delicious."
     },
     {
       "originalWord": "help",
       "translation": "ayuda",
-      "transcription": "[aˈʝuða]",
+      "transcription": "[hɛlp]",
       "exampleSentence": "I need help, please."
     },
     {
       "originalWord": "bathroom",
       "translation": "baño",
-      "transcription": "[ˈbaɲo]",
+      "transcription": "[ˈbæθruːm]",
       "exampleSentence": "Where is the bathroom?"
     },
     {
       "originalWord": "how much",
       "translation": "cuánto",
-      "transcription": "[ˈkwanto]",
+      "transcription": "[haʊ mʌtʃ]",
       "exampleSentence": "How much does this cost?"
     },
     {
       "originalWord": "where",
       "translation": "dónde",
-      "transcription": "[ˈdonde]",
+      "transcription": "[wɛr]",
       "exampleSentence": "Where is the hotel?"
     },
     {
       "originalWord": "when",
       "translation": "cuándo",
-      "transcription": "[ˈkwando]",
+      "transcription": "[wɛn]",
       "exampleSentence": "When does the train arrive?"
     },
     {
       "originalWord": "good",
       "translation": "bueno",
-      "transcription": "[ˈbweno]",
+      "transcription": "[ɡʊd]",
       "exampleSentence": "This is very good!"
     },
     {
       "originalWord": "bad",
       "translation": "malo",
-      "transcription": "[ˈmalo]",
+      "transcription": "[bæd]",
       "exampleSentence": "The weather is bad today."
     },
     {
       "originalWord": "big",
       "translation": "grande",
-      "transcription": "[ˈɡɾande]",
+      "transcription": "[bɪɡ]",
       "exampleSentence": "This is a big house."
     },
     {
       "originalWord": "small",
       "translation": "pequeño",
-      "transcription": "[peˈkeɲo]",
+      "transcription": "[smɔːl]",
       "exampleSentence": "I have a small dog."
     },
     {
       "originalWord": "I don't understand",
       "translation": "no entiendo",
-      "transcription": "[no enˈtjendo]",
+      "transcription": "[aɪ doʊnt ˌʌndərˈstænd]",
       "exampleSentence": "Sorry, I don't understand Spanish."
     }
   ]

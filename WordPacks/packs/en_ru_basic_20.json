@@ -5,121 +5,121 @@
     {
       "originalWord": "hello",
       "translation": "привет",
-      "transcription": "[prʲɪˈvʲet]",
+      "transcription": "[həˈloʊ]",
       "exampleSentence": "Hello, how are you?"
     },
     {
       "originalWord": "goodbye",
       "translation": "до свидания",
-      "transcription": "[də svʲɪˈdanʲɪjə]",
+      "transcription": "[ɡʊdˈbaɪ]",
       "exampleSentence": "Goodbye, see you tomorrow!"
     },
     {
       "originalWord": "please",
       "translation": "пожалуйста",
-      "transcription": "[pɐˈʐaɫʊstə]",
+      "transcription": "[pliːz]",
       "exampleSentence": "Can I have water, please?"
     },
     {
       "originalWord": "thank you",
       "translation": "спасибо",
-      "transcription": "[spɐˈsʲibə]",
+      "transcription": "[θæŋk juː]",
       "exampleSentence": "Thank you very much!"
     },
     {
       "originalWord": "yes",
       "translation": "да",
-      "transcription": "[da]",
+      "transcription": "[jɛs]",
       "exampleSentence": "Yes, I understand."
     },
     {
       "originalWord": "no",
       "translation": "нет",
-      "transcription": "[nʲet]",
+      "transcription": "[noʊ]",
       "exampleSentence": "No, I don't want it."
     },
     {
       "originalWord": "excuse me",
       "translation": "извините",
-      "transcription": "[ɪzvʲɪˈnʲitʲe]",
+      "transcription": "[ɪkˈskjuːz miː]",
       "exampleSentence": "Excuse me, where is the bathroom?"
     },
     {
       "originalWord": "sorry",
       "translation": "простите",
-      "transcription": "[prɐˈsʲtʲitʲe]",
+      "transcription": "[ˈsɑːri]",
       "exampleSentence": "I'm sorry, I'm late."
     },
     {
       "originalWord": "water",
       "translation": "вода",
-      "transcription": "[vɐˈda]",
+      "transcription": "[ˈwɔːtɚ]",
       "exampleSentence": "I need a glass of water."
     },
     {
       "originalWord": "food",
       "translation": "еда",
-      "transcription": "[jɪˈda]",
+      "transcription": "[fuːd]",
       "exampleSentence": "The food is delicious."
     },
     {
       "originalWord": "help",
       "translation": "помощь",
-      "transcription": "[ˈpoməɕː]",
+      "transcription": "[hɛlp]",
       "exampleSentence": "I need help, please."
     },
     {
       "originalWord": "bathroom",
       "translation": "туалет",
-      "transcription": "[tʊɐˈlʲet]",
+      "transcription": "[ˈbæθruːm]",
       "exampleSentence": "Where is the bathroom?"
     },
     {
       "originalWord": "how much",
       "translation": "сколько",
-      "transcription": "[ˈskolʲkə]",
+      "transcription": "[haʊ mʌtʃ]",
       "exampleSentence": "How much does this cost?"
     },
     {
       "originalWord": "where",
       "translation": "где",
-      "transcription": "[ɡdʲe]",
+      "transcription": "[wɛr]",
       "exampleSentence": "Where is the hotel?"
     },
     {
       "originalWord": "when",
       "translation": "когда",
-      "transcription": "[kɐɡˈda]",
+      "transcription": "[wɛn]",
       "exampleSentence": "When does the train arrive?"
     },
     {
       "originalWord": "good",
       "translation": "хороший",
-      "transcription": "[xɐˈroʂɨj]",
+      "transcription": "[ɡʊd]",
       "exampleSentence": "This is very good!"
     },
     {
       "originalWord": "bad",
       "translation": "плохой",
-      "transcription": "[plɐˈxoj]",
+      "transcription": "[bæd]",
       "exampleSentence": "The weather is bad today."
     },
     {
       "originalWord": "big",
       "translation": "большой",
-      "transcription": "[bɐlʲˈʂoj]",
+      "transcription": "[bɪɡ]",
       "exampleSentence": "This is a big house."
     },
     {
       "originalWord": "small",
       "translation": "маленький",
-      "transcription": "[ˈmalʲɪnʲkʲɪj]",
+      "transcription": "[smɔːl]",
       "exampleSentence": "I have a small dog."
     },
     {
       "originalWord": "I don't understand",
       "translation": "я не понимаю",
-      "transcription": "[ja nʲe pənʲɪˈmajʊ]",
+      "transcription": "[aɪ doʊnt ˌʌndərˈstænd]",
       "exampleSentence": "Sorry, I don't understand Russian."
     }
   ]
